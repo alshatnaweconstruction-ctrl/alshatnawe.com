@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-002</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -32,7 +32,7 @@ Process:
 Enquiry → review of requirements → service details and cost clarification → service delivery.
 Service area: Paphos and nearby areas.
 Send an enquiry through Bazaraki with the property type and basic scope of work to discuss the project.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -52,7 +52,7 @@ Send an enquiry through Bazaraki with the property type and basic scope of work 
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-003</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -73,7 +73,7 @@ Suitable for homeowners, landlords, and property managers.
 Service area: Paphos and surrounding areas.
 Process: Enquiry, review of requirements, discussion of project specifications, and execution of work.
 Send the property type and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -93,7 +93,7 @@ Send the property type and basic requirements through Bazaraki to discuss the wo
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-004</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -122,7 +122,7 @@ Suitable for homeowners, shop owners, and business operators undertaking interio
 Service area: Paphos and nearby areas.
 Process: Enquiry, review of requirements, quotation, and service delivery.
 Send the property location and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -142,7 +142,7 @@ Send the property location and basic requirements through Bazaraki to discuss th
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-005</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -163,7 +163,7 @@ This service is suitable for homeowners, apartment owners, and businesses experi
 Process: Enquiry review, site information or inspection if applicable, quotation, and service delivery.
 Service area: Paphos and nearby areas.
 Send the property details and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -183,7 +183,7 @@ Send the property details and basic requirements through Bazaraki to discuss the
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-006</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -210,7 +210,7 @@ Surface alignment and preparation
 Suitable for homeowners, shop owners, and commercial property managers in Paphos.
 Service fee and availability are available upon enquiry, depending on the scope of work.
 Send the property requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -230,7 +230,7 @@ Send the property requirements through Bazaraki to discuss the work.</descriptio
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-007</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -265,7 +265,7 @@ Enquiry → review of requirements → site inspection if applicable → quotati
 Service area: Paphos and nearby areas.
 Service fee available upon enquiry, depending on the property condition and scope of work.
 Send the property location and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -285,7 +285,7 @@ Send the property location and basic requirements through Bazaraki to discuss th
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-008</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -306,7 +306,7 @@ Suitable for homeowners, property landlords, shops, and offices undertaking inte
 The service process involves reviewing requirements, inspecting the site, providing a quotation, and delivering the work according to the agreed scope.
 Service area: Paphos and nearby areas.
 Send the property details and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -326,7 +326,7 @@ Send the property details and basic requirements through Bazaraki to discuss the
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-009</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -337,7 +337,7 @@ Send the property details and basic requirements through Bazaraki to discuss the
 ———
 
 Blue board drywall installation for veneer plaster finishes in houses and commercial properties that need smooth, durable interior wall surfaces. The service includes the fixing of blue board drywall specifically designed to receive veneer plaster finishes. Suitable for homeowners, property owners and businesses. Service area confirmed upon enquiry. The process includes: enquiry, review of requirements, project scoping and service delivery. Send an enquiry through Bazaraki with the property type and scope of work to discuss the requirements.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -357,7 +357,7 @@ Blue board drywall installation for veneer plaster finishes in houses and commer
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-010</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -384,7 +384,7 @@ Jointing and preparation for finishing
 Process:
 Enquiry → review of project requirements → site information or inspection if applicable → quotation or planning → service delivery → follow-up.
 Send the property location and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -404,7 +404,7 @@ Send the property location and basic requirements through Bazaraki to discuss th
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-012</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -435,7 +435,7 @@ Suitable for homeowners, commercial tenants, and property managers looking to or
 The process involves reviewing project requirements, planning the structure, executing the installation, and performing a final walkthrough.
 Service fee available upon enquiry, depending on the property size, condition, and scope of work.
 Send the property details and basic requirements through Bazaraki to discuss the project.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -455,7 +455,7 @@ Send the property details and basic requirements through Bazaraki to discuss the
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-013</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -486,7 +486,7 @@ Process:
 Enquiry → review of requirements → site inspection or plan review → quotation → service delivery.
 Service area confirmed upon enquiry.
 Send an enquiry through Bazaraki with the property type and scope of work to discuss the requirements.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -506,7 +506,7 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-014</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -527,7 +527,7 @@ This service is suitable for property owners, businesses, and construction profe
 Service area confirmed upon enquiry.
 Process includes: enquiry, review of requirements, technical discussion, and service delivery.
 Send the project details and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -547,7 +547,7 @@ Send the project details and basic requirements through Bazaraki to discuss the 
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-015</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -574,7 +574,7 @@ Quotation or on-site inspection arrangement.
 Execution of works and final handover.
 Service area: Paphos and nearby areas.
 Send an enquiry through Bazaraki with the property type and basic measurements to discuss the project requirements.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -594,7 +594,7 @@ Send an enquiry through Bazaraki with the property type and basic measurements t
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-016</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -625,7 +625,7 @@ Service delivery and construction
 Final review and handover
 Service area: Paphos and nearby areas.
 Send the property location and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -645,7 +645,7 @@ Send the property location and basic requirements through Bazaraki to discuss th
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-017</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -676,7 +676,7 @@ Suitable for homeowners, shop owners, and commercial property managers looking t
 The process involves reviewing project requirements, planning the construction layout, installing materials, and completing the structural work according to specifications.
 Service area: Paphos and surrounding areas.
 Send the project details through Bazaraki to discuss the construction requirements.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -696,7 +696,7 @@ Send the project details through Bazaraki to discuss the construction requiremen
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-018</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -717,7 +717,7 @@ Suitable for homeowners, business owners, and commercial property owners underta
 The process includes: review of requirements, discussion of the layout, execution of the work according to specifications, and project handover.
 Service fee available upon enquiry, depending on the scope of work, property type, and requirements.
 Send the property location and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -737,7 +737,7 @@ Send the property location and basic requirements through Bazaraki to discuss th
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-020</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -764,7 +764,7 @@ Suitable for houses, apartments, shops, and offices.
 The process includes: enquiry review, requirements assessment, site information or inspection if applicable, service delivery, and follow-up.
 Service fee available upon enquiry, depending on the property type, scale, and project requirements.
 Send the property location and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -784,7 +784,7 @@ Send the property location and basic requirements through Bazaraki to discuss th
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-021</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -805,7 +805,7 @@ Suitable for homeowners, shop owners, and commercial property managers reconfigu
 Service area confirmed upon enquiry.
 Process: Enquiry -&gt; review of requirements -&gt; site information or inspection if applicable -&gt; quotation or planning -&gt; service delivery.
 Send an enquiry through Bazaraki with the property type and scope of work to discuss the project requirements.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -825,7 +825,7 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-022</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -844,7 +844,7 @@ This service covers the installation of metal framing, fixing gypsum boards for 
 The process includes discussing your requirements, reviewing the layout details, confirming the scope of work, executing the installation, and handing over the completed framework ready for finishing.
 Service area confirmed upon enquiry.
 Contact through Bazaraki to review the project requirements and layout details.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -864,7 +864,7 @@ Contact through Bazaraki to review the project requirements and layout details.<
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-023</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -885,7 +885,7 @@ Suitable for homeowners, property managers, and commercial property owners in Pa
 The process involves submitting an inquiry, reviewing the requirements, a site inspection if applicable, issuing a quotation, carrying out the installation, and final review.
 Service area: Paphos and nearby areas. The service fee is available upon enquiry, depending on the property type, ceiling condition, and scope of work.
 Send an enquiry through Bazaraki with the property type and scope of work to discuss the project requirements.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -905,7 +905,7 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-024</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -926,7 +926,7 @@ This service is suitable for homeowners, property renovators, interior designers
 Service area confirmed upon enquiry.
 Process: Enquiry → review of requirements → site information or inspection → quotation or planning → service delivery → handover.
 Send the project requirements and basic details through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -946,7 +946,7 @@ Send the project requirements and basic details through Bazaraki to discuss the 
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-025</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -967,7 +967,7 @@ This service is suitable for homeowners, landlords, and commercial property owne
 The process involves reviewing project requirements, site inspection when applicable, providing an accurate quotation or work plan, executing the installation, and final review.
 Service fee available upon enquiry, depending on the property type, design complexity, and scope of work.
 Send an enquiry through Bazaraki with the property type and scope of work to discuss the project requirements.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -987,7 +987,7 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-026</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1018,7 +1018,7 @@ Installation delivery
 Follow-up check
 Service area confirmed upon enquiry.
 Send the property details and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -1038,7 +1038,7 @@ Send the property details and basic requirements through Bazaraki to discuss the
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-027</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1057,7 +1057,7 @@ The scope of work includes metal framing assembly, plasterboard fixing, creation
 Suitable for homes, apartments, and commercial spaces undergoing refurbishment.
 Service area confirmed upon enquiry.
 Send an enquiry through Bazaraki with your space dimensions and requirements to discuss the project.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -1077,7 +1077,7 @@ Send an enquiry through Bazaraki with your space dimensions and requirements to 
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-028</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1096,7 +1096,7 @@ The scope of work includes structural framing installation, drywall boarding, cr
 Service area includes Paphos and surrounding areas.
 The process involves reviewing project requirements, discussing property details, preparing an estimate, executing the installation work, and completing a final check.
 Send an enquiry through Bazaraki with the property type and scope of work to discuss the requirements.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -1116,7 +1116,7 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-029</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1137,7 +1137,7 @@ Suitable for homeowners, commercial property owners, and property managers.
 Service area confirmed upon enquiry.
 Process: Enquiry → review of requirements → quotation or planning → service delivery.
 Send the property details and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -1157,7 +1157,7 @@ Send the property details and basic requirements through Bazaraki to discuss the
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-030</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1194,7 +1194,7 @@ Process:
 Enquiry → review of requirements → site inspection if applicable → quotation or planning → service delivery → follow-up.
 Service fee available upon enquiry, depending on the room dimensions, humidity exposure levels, and scope of work.
 Send the property location and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -1214,7 +1214,7 @@ Send the property location and basic requirements through Bazaraki to discuss th
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-031</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1247,7 +1247,7 @@ Service available in selected areas across Cyprus. Coverage and project details 
 Process: Enquiry review, assessment of space requirements, technical evaluation, quotation, and project delivery.
 Service fee available upon enquiry, depending on the project scale, technical specifications, and site requirements.
 Send an enquiry through Bazaraki with the property type and project requirements to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -1267,7 +1267,7 @@ Send an enquiry through Bazaraki with the property type and project requirements
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-032</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1278,7 +1278,7 @@ Send an enquiry through Bazaraki with the property type and project requirements
 ———
 
 Drywall bulkhead installation and concealment for air conditioning units in residential and commercial properties. This service covers the construction of custom bulkheads, drops, and architectural casings designed to hide exposed indoor AC units, ductwork, and pipes while maintaining clean interior lines. The work includes structural metal framing, drywall board fixing, joint tape and joint compound application, and surface preparation for final painting. Suitable for homeowners, landlords, and commercial property owners updating apartments, houses, shops, or offices. Service delivery follows a clear scope based on individual project requirements. Service area covers Paphos and nearby areas. Send an enquiry through Bazaraki with the property type and basic project details to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -1298,7 +1298,7 @@ Drywall bulkhead installation and concealment for air conditioning units in resi
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-033</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1331,7 +1331,7 @@ Service area: Paphos and nearby areas.
 Process: Enquiry review, assessment of requirements, technical coordination, and execution of the work.
 Service fee available upon enquiry, depending on the scale of the structure and site conditions.
 Send an enquiry through Bazaraki with the project requirements to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -1351,7 +1351,7 @@ Send an enquiry through Bazaraki with the project requirements to discuss the wo
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-034</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1366,7 +1366,7 @@ Send an enquiry through Bazaraki with the project requirements to discuss the wo
 Box-section installation using drywall for concealing visible pipes and cables in residential and commercial properties. This service is designed for property owners and shop managers who need to neatly enclose exposed plumbing, drainage pipes, or wiring to improve interior aesthetics.
 The scope of work includes installing the metal framing, fixing the drywall panels, protecting corners, and preparing the surfaces for joint filling and painting, creating clean lines and a finished look.
 Service covers Paphos and nearby areas. Send the property location and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -1386,7 +1386,7 @@ Service covers Paphos and nearby areas. Send the property location and basic req
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-035</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1413,7 +1413,7 @@ Suitable for homeowners, retail shop owners, office managers, and property manag
 Service area: Paphos and surrounding areas.
 Process: Enquiry → review of requirements → site inspection if applicable → quotation → service delivery → follow-up.
 Service fee available upon enquiry, depending on the property, dimensions, and scope of work. Send the property location and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -1433,7 +1433,7 @@ Service fee available upon enquiry, depending on the property, dimensions, and s
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-036</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1452,7 +1452,7 @@ The work includes framing around structural beams and fixing gypsum boards to cr
 Suitable for apartments, houses, offices, and retail shops.
 The service includes accurate measurement, metal framing assembly, drywall cladding, and edge finishing according to site requirements. Service area confirmed upon enquiry.
 Send an enquiry through Bazaraki with the property type and scope of work to discuss the requirements.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -1472,7 +1472,7 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-037</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1503,7 +1503,7 @@ Process:
 Enquiry → review of requirements → site inspection or plan review → quotation or planning → service delivery → follow-up.
 Service area: Paphos and nearby areas.
 Send an enquiry through Bazaraki with the property type and basic requirements to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -1523,7 +1523,7 @@ Send an enquiry through Bazaraki with the property type and basic requirements t
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-038</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1552,7 +1552,7 @@ Process:
 Enquiry → review of requirements and plans → quotation or scheduling → execution of work.
 Service area confirmed upon enquiry.
 Send the property details and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -1572,7 +1572,7 @@ Send the property details and basic requirements through Bazaraki to discuss the
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-039</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1593,7 +1593,7 @@ Service area: Paphos and nearby areas.
 Process:
 Enquiry → review of requirements → project details → service delivery.
 Send an enquiry through Bazaraki with the property type and scope of work to discuss the project.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -1613,7 +1613,7 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-040</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1646,7 +1646,7 @@ Service area confirmed upon enquiry.
 Process: Enquiry → review of requirements → site information or layout check if applicable → quotation → service delivery.
 Service fee available upon enquiry, depending on the property layout, scale, and scope of work.
 Send an enquiry through Bazaraki with the property type and scope of work to discuss the project.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -1666,7 +1666,7 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-041</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1697,7 +1697,7 @@ Process:
 Enquiry → review of requirements → site information or inspection if applicable → quotation or planning → service delivery → follow-up.
 Service area: Confirmed upon enquiry.
 Send an enquiry through Bazaraki with the property type and scope of work to discuss the project requirements.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -1717,7 +1717,7 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-042</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1750,7 +1750,7 @@ Enquiry → review of requirements → quotation or planning → service deliver
 Service area: Paphos and nearby areas.
 Service fee available upon enquiry, depending on the property type, materials, and scope of work.
 Send the property details and basic requirements through Bazaraki to discuss the project.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -1770,7 +1770,7 @@ Send the property details and basic requirements through Bazaraki to discuss the
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-043</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1803,7 +1803,7 @@ Process:
 Enquiry through Bazaraki -&gt; review of requirements -&gt; site inspection if applicable -&gt; quotation or planning -&gt; service delivery -&gt; project completion.
 Service area: Paphos and nearby areas.
 Send the property location and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -1823,7 +1823,7 @@ Send the property location and basic requirements through Bazaraki to discuss th
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-044</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1844,7 +1844,7 @@ Suitable for homeowners, shop owners, offices, and hospitality properties.
 The service process includes: enquiry review, site requirement check, cornice profile installation, LED lighting setup, and final functional testing.
 Service area confirmed upon enquiry.
 Send the property details and requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -1864,7 +1864,7 @@ Send the property details and requirements through Bazaraki to discuss the work.
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-045</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1885,7 +1885,7 @@ Suitable for homeowners, landlords, and residential properties.
 Service area confirmed upon enquiry.
 Process: Enquiry, review of requirements, quotation, and service delivery.
 Send the property location and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -1905,7 +1905,7 @@ Send the property location and basic requirements through Bazaraki to discuss th
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-046</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1934,7 +1934,7 @@ Quotation and scheduling.
 On-site installation delivery.
 Service area confirmed upon enquiry.
 Send an enquiry through Bazaraki with the property type and scope of work to discuss the project.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -1954,7 +1954,7 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-047</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1983,7 +1983,7 @@ Process:
 Enquiry → review of requirements → discussion of project details → service delivery.
 Service fee available upon enquiry, depending on the property type and scope of work.
 Send the project details and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -2003,7 +2003,7 @@ Send the project details and basic requirements through Bazaraki to discuss the 
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-048</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2034,7 +2034,7 @@ Paphos and nearby areas
 Process:
 Enquiry -&gt; review of requirements -&gt; site information or inspection -&gt; quotation or planning -&gt; service delivery -&gt; follow-up.
 Send an enquiry through Bazaraki with the property type and scope of work to discuss the project requirements.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -2054,7 +2054,7 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-049</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2083,7 +2083,7 @@ Process:
 Enquiry → review of requirements → site inspection or evaluation → quotation or planning → service delivery → follow-up.
 Service area: Paphos and surrounding areas.
 Send an enquiry through Bazaraki with the property type and scope of work to discuss the project.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -2103,7 +2103,7 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-050</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2134,7 +2134,7 @@ Process:
 Enquiry → review of requirements → scope and pricing discussion → service delivery.
 Service area: Paphos and nearby areas.
 Send an enquiry through Bazaraki with the property details and column requirements to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -2154,7 +2154,7 @@ Send an enquiry through Bazaraki with the property details and column requiremen
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-051</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2167,7 +2167,7 @@ Send an enquiry through Bazaraki with the property details and column requiremen
 
 Decorative cornices and mouldings fitted around HVAC vents for property owners and commercial spaces seeking a clean, finished, and unified interior appearance. This service focuses on custom framing and detailing around air conditioning grilles or units, integrating technical ceiling and wall openings neatly into the overall room design.
 Includes profile installation, surface preparation, precision fitting, and final finishing touches. Suitable for apartments, houses, and commercial premises. Service area confirmed upon enquiry. Send an enquiry through Bazaraki with the property type and scope of work to discuss the requirements.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -2187,7 +2187,7 @@ Includes profile installation, surface preparation, precision fitting, and final
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-052</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2208,7 +2208,7 @@ Suitable for property renovations, window replacements, and interior fit-outs in
 Process: Initial enquiry and review of requirements → site information or inspection if applicable → quotation or planning → service delivery.
 Service area: Paphos and surrounding areas.
 Send the property details and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -2228,7 +2228,7 @@ Send the property details and basic requirements through Bazaraki to discuss the
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-053</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2251,7 +2251,7 @@ Process:
 Enquiry → review of project requirements → site information or inspection if applicable → quotation and planning → service delivery → completion.
 Service area: Paphos and nearby areas.
 Send an enquiry through Bazaraki with the property type and scope of work to discuss the project requirements.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -2271,7 +2271,7 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-054</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2294,7 +2294,7 @@ The service includes a defined-scope written quotation and local coverage across
 Process:
 Enquiry → review of requirements → quotation planning → service delivery → follow-up.
 Send an enquiry through Bazaraki with the property type and scope of work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -2314,7 +2314,7 @@ Send an enquiry through Bazaraki with the property type and scope of work.</desc
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-055</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2341,7 +2341,7 @@ Retail shops and commercial offices
 The process includes on-site assessment of vent positions, edge preparation of the plasterboard, secure mechanical fixing, and final joint smoothing.
 Service fee available upon enquiry, depending on the number of vents, grille types, and surface conditions.
 Send an enquiry through Bazaraki with the property type and scope of work to discuss the requirements.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -2361,7 +2361,7 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-056</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2394,7 +2394,7 @@ Service process:
 Enquiry → review of requirements and plans → site information assessment → quotation planning → service delivery.
 Service area: Paphos and nearby areas.
 Send an enquiry through Bazaraki with the property type and project requirements to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -2414,7 +2414,7 @@ Send an enquiry through Bazaraki with the property type and project requirements
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-058</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2441,7 +2441,7 @@ Skimming and sanding of the surfaces around the cut-out
 Service area: Paphos and surrounding areas.
 Process: Submission of project details and requirements, site review, service execution, and final check.
 Contact through Bazaraki to review the project requirements.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -2461,7 +2461,7 @@ Contact through Bazaraki to review the project requirements.</description>
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-059</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2482,7 +2482,7 @@ Suitable for homeowners, shop owners, and commercial property managers looking f
 Service area confirmed upon enquiry.
 Process: Enquiry and requirement review, site or drawing check, work assessment, execution, and handover.
 Send an enquiry through Bazaraki with the property type and scope of work to discuss the project requirements.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -2502,7 +2502,7 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-060</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2533,7 +2533,7 @@ Suitable for homeowners, apartment owners, and shop owners in Paphos and nearby 
 The process involves reviewing project requirements, assessing the scope of work, precise execution, and final handover inspection.
 Service fee available upon enquiry, depending on the surface type, number of openings, and overall scope of work.
 Send the project details and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -2553,7 +2553,7 @@ Send the project details and basic requirements through Bazaraki to discuss the 
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-061</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2584,7 +2584,7 @@ Process:
 Enquiry → review of requirements → project scoping → service delivery → completion.
 Service fee available upon enquiry, depending on the property layout and scope of work.
 Send an enquiry through Bazaraki to discuss the project requirements.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -2604,7 +2604,7 @@ Send an enquiry through Bazaraki to discuss the project requirements.</descripti
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-062</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2639,7 +2639,7 @@ Enquiry → review of requirements → project information exchange → quotatio
 Service area:
 Paphos and nearby areas.
 Send the property location and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -2659,7 +2659,7 @@ Send the property location and basic requirements through Bazaraki to discuss th
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-063</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2678,7 +2678,7 @@ The work includes metal framing, installation of fire-resistant plasterboard, co
 Suitable for houses, apartments, and living room renovations.
 Process: Enquiry, review of dimensions or site photos, scope assessment, construction work, and final inspection.
 Send the property requirements and basic measurements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -2698,7 +2698,7 @@ Send the property requirements and basic measurements through Bazaraki to discus
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-064</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2733,7 +2733,7 @@ Enquiry → review of requirements → scope and cost discussion → service del
 Service area: Paphos and nearby areas.
 Service fee available upon enquiry, depending on the dimensions, wall type, and scope of work.
 Send an enquiry through Bazaraki with the project requirements to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -2753,7 +2753,7 @@ Send an enquiry through Bazaraki with the project requirements to discuss the wo
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-065</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2786,7 +2786,7 @@ Service area: Paphos and nearby areas.
 Process:
 Enquiry → review of requirements → discussion of site details → execution of work.
 Send an enquiry through Bazaraki with the property type and space dimensions to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -2806,7 +2806,7 @@ Send an enquiry through Bazaraki with the property type and space dimensions to 
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-066</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2827,7 +2827,7 @@ Process:
 Initial enquiry and review of requirements, measurement verification, execution of works, and handover ready for painting.
 Service area: Paphos and surrounding areas.
 Send the refrigerator dimensions and property details through Bazaraki to discuss the project requirements.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -2847,7 +2847,7 @@ Send the refrigerator dimensions and property details through Bazaraki to discus
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-067</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2878,7 +2878,7 @@ Suitable for property owners, contractors, and renovation teams carrying out kit
 Process: Enquiry review → appliance dimension check → framing construction → finished recess handover.
 Service fee available upon enquiry, depending on appliance dimensions and site requirements.
 Send the appliance dimensions and basic location through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -2898,7 +2898,7 @@ Send the appliance dimensions and basic location through Bazaraki to discuss the
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-069</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2927,7 +2927,7 @@ Surface preparation for final finishing
 Service area: Paphos and nearby areas.
 Process: Enquiry and review of requirements, review of property details or site information, quotation or planning, construction delivery, and follow-up.
 Send an enquiry through Bazaraki with the property type and scope of work to discuss the project requirements.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -2947,7 +2947,7 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-070</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2978,7 +2978,7 @@ Process:
 Enquiry → review of requirements → measurement review or site inspection if applicable → quotation or planning → service delivery → follow-up.
 Service area confirmed upon enquiry.
 Send an enquiry through Bazaraki with the property type and scope of work to discuss the project requirements.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -2998,7 +2998,7 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-071</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -3019,7 +3019,7 @@ Suitable for homeowners, property owners, and shops looking to optimize their in
 The process includes: enquiry review of requirements, site information, quotation and planning, service delivery, and follow-up.
 Service fee available upon enquiry, depending on the property dimensions, surface conditions, and scope of work.
 Send the property location and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -3039,7 +3039,7 @@ Send the property location and basic requirements through Bazaraki to discuss th
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-072</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -3074,7 +3074,7 @@ Process:
 Enquiry → review of requirements → site information or inspection → quotation → service delivery.
 Service fee available upon enquiry, depending on the wall condition and scope of work.
 Send an enquiry through Bazaraki with the property type and scope of work to discuss the project.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -3094,7 +3094,7 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-073</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -3125,7 +3125,7 @@ Suitable for apartments, houses, offices, and shops.
 Service area: Paphos and nearby areas.
 The process involves enquiry, review of property requirements, scope assessment, and execution of the installation.
 Send an enquiry through Bazaraki with the property type and scope of work to discuss the project requirements.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -3145,7 +3145,7 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-074</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -3170,7 +3170,7 @@ Plasterboard fixing and secure alignment
 Joint taping, filling and finishing
 Surface preparation for painting
 Suitable for houses, apartments and commercial properties. Send the property details and basic requirements through Bazaraki to discuss the project.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -3190,7 +3190,7 @@ Suitable for houses, apartments and commercial properties. Send the property det
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-075</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -3221,7 +3221,7 @@ Suitable for homeowners, shop owners, offices, and commercial property owners wi
 Service area: Paphos and nearby areas.
 Process: Contact through Bazaraki to review project requirements, discuss site details, and determine the scope of work.
 Send the property requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -3241,7 +3241,7 @@ Send the property requirements through Bazaraki to discuss the work.</descriptio
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-076</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -3252,7 +3252,7 @@ Send the property requirements through Bazaraki to discuss the work.</descriptio
 ———
 
 Plasterboard installation and timber wall lining for residential and commercial properties that need space division, wall correction, or surface preparation. The service includes framing work, plasterboard panel fixing, joint taping, and finishing preparation for painting. Suitable for apartments, houses, offices, and shops. Service area confirmed upon enquiry. Send the property type and scope of work through Bazaraki to discuss the project.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -3272,7 +3272,7 @@ Plasterboard installation and timber wall lining for residential and commercial 
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-077</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -3303,7 +3303,7 @@ Service process:
 Enquiry → review of requirements → review of site information → quotation or planning → service delivery → follow-up.
 Service area: Paphos and nearby areas.
 Send the property type and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
@@ -3323,7 +3323,7 @@ Send the property type and basic requirements through Bazaraki to discuss the wo
     <geometry></geometry>
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:00:00</last_update>
+    <last_update>2026-09-29 18:33:44</last_update>
     <external_id>LEO-PB-078</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -3354,7 +3354,7 @@ Suitable for homeowners, shop tenants, and commercial property managers looking 
 Service area: Paphos and nearby areas.
 Process: Enquiry → review of requirements → site inspection (if applicable) → quotation or planning → service delivery → follow-up.
 Send the property location and basic requirements through Bazaraki to discuss the work.</description>
-    <price>0.00</price>
+    <price>1.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
