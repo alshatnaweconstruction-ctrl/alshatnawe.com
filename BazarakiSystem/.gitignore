@@ -1,0 +1,221 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
+market_data.db
+service_ledger.db
+
+# Logs
+logs/
+*.log
+*.log.*
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Output & Temporary
+output/generated_ads/
+temp/
+*.tmp
+*.bak
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System
+.DS_Store
+Thumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Sensitive Files
+config_local.json
+*.key
+*.pem
+credentials.json
+.env
+.env.local
+secrets.json
+api_keys.txt
+
+# GitHub Actions
+.github/workflows/logs/
+
+# Build
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Distribution
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+
+# Testing
+.pytest_cache/
+.tox/
+htmlcov/
+.coverage
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# Windows
+*.lnk
+$RECYCLE.BIN/
+
+# Mac
+.AppleDouble
+.LSOverride
+
+# Personal Files
+personal_config.json
+test_*.py
+debug_*.log
+
+# Images (optional - uncomment to exclude large image directories)
+# data/images/*.jpg
+# data/images/*.png
+# data/images/*.jpeg
+
+# Cache Files
+.cache/
+*.cache
+
+# Compiled files
+*.pyc
+*.pyo
+
+# Lock files (optional)
+# poetry.lock
+# Pipfile.lock
+
+# Generated Files
+*.generated.py
+temp_*.py
+
+# Backup Files
+*.backup
+*.bkp
+*.old
+
+# System Files
+.~*
+~*
+*.swp
+*.swo
+*~
+
+# Credentials and Secrets
+*.secret
+*.private
+*.token
+
+# Local development
+.localrc
+local_config.json
+development_*.py
+
+# Performance/Profiling
+profile_*.py
+*.prof
+*.pstats
+
+# Dependency Files (if not using git to track dependencies)
+# venv/
+# .venv/
+# env/
+
+# Documentation
+docs/_build/
+site/
+
+# Temporary build files
+.build/

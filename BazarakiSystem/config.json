@@ -1,0 +1,156 @@
+{
+  "system": {
+    "name": "Bazaraki Autonomous Operating System",
+    "version": "2.0",
+    "environment": "production",
+    "created_at": "2026-10-01",
+    "updated_at": "2026-10-01"
+  },
+  "bazaraki": {
+    "account_email": "your_bazaraki_email@example.com",
+    "api_enabled": false,
+    "auto_submit": false,
+    "auto_submit_after_gates": 10,
+    "preview_mode": true
+  },
+  "market": {
+    "currency": "EUR",
+    "locations": ["paphos", "limassol", "larnaca", "nicosia"],
+    "update_frequency": "daily",
+    "price_adjustment_range": "±15%",
+    "seasonal_adjustment": true
+  },
+  "services": {
+    "enabled_categories": [
+      "pool_services",
+      "hvac_services",
+      "garden_landscaping",
+      "solar_renewable",
+      "painting",
+      "plasterboard",
+      "tiling",
+      "plumbing",
+      "electrical",
+      "renovation"
+    ],
+    "rotation_daily": true,
+    "avoid_repetition_days": 30,
+    "service_deduplication": "semantic_matching"
+  },
+  "images": {
+    "minimum_per_ad": 5,
+    "verification_strict": true,
+    "quality_threshold_percent": 75,
+    "allowed_formats": ["jpg", "jpeg", "png"],
+    "minimum_resolution": "1024x768",
+    "maximum_file_size_mb": 5,
+    "ban_watermarks": true,
+    "ban_text_overlay": true,
+    "ban_stock_photos": true,
+    "psychological_alignment_check": true
+  },
+  "copywriting": {
+    "framework": "PASTOR",
+    "psychological_triggers_enabled": true,
+    "buyer_psychology_profiling": true,
+    "semantic_seo_optimization": true,
+    "title_length_min": 55,
+    "title_length_max": 80,
+    "description_length_min": 200,
+    "description_length_max": 2000,
+    "bilingual_support": true
+  },
+  "quality_assurance": {
+    "hard_fail_gates": 10,
+    "minimum_gates_passed": 9,
+    "min_optimization_score_percent": 75,
+    "psychological_quality_check": true,
+    "psychological_checks_required": 15,
+    "min_psychological_checks_passed": 12,
+    "bazaraki_compliance_strict": true
+  },
+  "batch_processing": {
+    "daily_target": 100,
+    "batch_size": 10,
+    "time_between_batches_seconds": 300,
+    "max_concurrent_processing": 5,
+    "schedule_time_utc": "08:00",
+    "retry_failed_ads": true,
+    "retry_attempts": 3
+  },
+  "database": {
+    "service_ledger_enabled": true,
+    "auto_deduplication": true,
+    "learning_metrics_tracking": true,
+    "inquiry_tracking": true,
+    "conversion_tracking": true
+  },
+  "paths": {
+    "base_directory": "C:\\BazarakiSystem",
+    "database": "data\\",
+    "output": "output\\",
+    "images": "data\\images\\",
+    "logs": "output\\logs\\",
+    "generated_ads": "output\\generated_ads\\",
+    "stats": "output\\stats\\"
+  },
+  "logging": {
+    "enabled": true,
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    "file_output": true,
+    "console_output": true,
+    "max_log_size_mb": 100,
+    "backup_logs": true
+  },
+  "performance": {
+    "parallel_processing": true,
+    "max_workers": 4,
+    "cache_market_data": true,
+    "cache_duration_hours": 24,
+    "optimize_memory_usage": true
+  },
+  "notifications": {
+    "email_on_completion": false,
+    "email_on_error": false,
+    "email_recipient": "leo@alshatnawe.com",
+    "daily_summary": false,
+    "weekly_report": false
+  },
+  "github": {
+    "enabled": false,
+    "auto_sync": false,
+    "sync_schedule": "daily",
+    "sync_time_utc": "09:00",
+    "commit_message": "Daily update: generated advertisements and system sync"
+  },
+  "monitoring": {
+    "track_performance_metrics": true,
+    "track_psychological_effectiveness": true,
+    "track_image_quality_trends": true,
+    "performance_history_days": 90,
+    "generate_performance_reports": true,
+    "report_frequency": "daily"
+  },
+  "security": {
+    "verify_ssl": true,
+    "validate_input": true,
+    "sanitize_output": true,
+    "check_for_duplicates": true,
+    "prevent_injection": true
+  },
+  "api_integrations": {
+    "bazaraki_api": {
+      "enabled": false,
+      "endpoint": "https://api.bazaraki.com",
+      "timeout_seconds": 30,
+      "retry_on_failure": true
+    }
+  },
+  "experimental_features": {
+    "machine_learning_optimization": false,
+    "ai_image_generation": false,
+    "predictive_pricing": false,
+    "sentiment_analysis": false
+  }
+}
