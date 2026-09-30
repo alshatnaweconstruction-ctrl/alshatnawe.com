@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-002</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -49,10 +49,10 @@ Send an enquiry through Bazaraki with the property type and basic scope of work 
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-003</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -85,15 +85,14 @@ Send the property type and basic requirements through Bazaraki to discuss the wo
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-003/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-003/03.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-003/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-003/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-004</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -133,16 +132,14 @@ Send the property location and basic requirements through Bazaraki to discuss th
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-004/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-004/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-004/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-004/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-004/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-005</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -173,17 +170,14 @@ Send the property details and basic requirements through Bazaraki to discuss the
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-005/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-005/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-005/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-005/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-005/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-006</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -222,15 +216,14 @@ Send the property requirements through Bazaraki to discuss the work.</descriptio
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-006/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-006/03.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-006/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-006/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-007</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -274,18 +267,15 @@ Send the property location and basic requirements through Bazaraki to discuss th
     <disallow_chat>0</disallow_chat>
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-007/01.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-007/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-007/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-007/04.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-007/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-008</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -315,7 +305,6 @@ Send the property details and basic requirements through Bazaraki to discuss the
     <disallow_chat>0</disallow_chat>
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-008/01.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-008/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-008/03.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-008/04.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-008/05.jpg</list-item>
@@ -323,10 +312,10 @@ Send the property details and basic requirements through Bazaraki to discuss the
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-009</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -346,18 +335,16 @@ Blue board drywall installation for veneer plaster finishes in houses and commer
     <disallow_chat>0</disallow_chat>
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-009/01.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-009/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-009/03.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-009/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-009/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-010</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -395,16 +382,14 @@ Send the property location and basic requirements through Bazaraki to discuss th
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-010/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-010/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-010/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-010/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-010/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-012</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -452,10 +437,10 @@ Send the property details and basic requirements through Bazaraki to discuss the
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-013</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -495,18 +480,16 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <disallow_chat>0</disallow_chat>
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-013/01.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-013/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-013/03.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-013/04.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-013/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-014</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -544,10 +527,10 @@ Send the project details and basic requirements through Bazaraki to discuss the 
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-015</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -582,19 +565,16 @@ Send an enquiry through Bazaraki with the property type and basic measurements t
     <whatsapp>+35795553931</whatsapp>
     <disallow_chat>0</disallow_chat>
     <images>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-015/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-015/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-015/03.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-015/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-015/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-016</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -634,18 +614,15 @@ Send the property location and basic requirements through Bazaraki to discuss th
     <disallow_chat>0</disallow_chat>
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-016/01.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-016/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-016/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-016/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-016/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-017</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -684,19 +661,17 @@ Send the project details through Bazaraki to discuss the construction requiremen
     <whatsapp>+35795553931</whatsapp>
     <disallow_chat>0</disallow_chat>
     <images>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-017/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-017/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-017/03.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-017/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-017/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-018</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -725,19 +700,16 @@ Send the property location and basic requirements through Bazaraki to discuss th
     <whatsapp>+35795553931</whatsapp>
     <disallow_chat>0</disallow_chat>
     <images>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-018/01.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-018/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-018/03.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-018/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-018/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-020</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -773,18 +745,15 @@ Send the property location and basic requirements through Bazaraki to discuss th
     <disallow_chat>0</disallow_chat>
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-020/01.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-020/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-020/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-020/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-020/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-021</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -815,17 +784,14 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-021/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-021/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-021/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-021/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-021/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-022</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -855,16 +821,14 @@ Contact through Bazaraki to review the project requirements and layout details.<
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-022/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-022/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-022/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-022/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-022/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-023</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -902,10 +866,10 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-024</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -937,16 +901,15 @@ Send the project requirements and basic details through Bazaraki to discuss the 
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-024/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-024/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-024/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-024/04.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-024/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-025</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -984,10 +947,10 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-026</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1035,10 +998,10 @@ Send the property details and basic requirements through Bazaraki to discuss the
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-027</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1068,16 +1031,15 @@ Send an enquiry through Bazaraki with your space dimensions and requirements to 
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-027/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-027/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-027/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-027/04.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-027/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-028</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1113,10 +1075,10 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-029</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1147,17 +1109,14 @@ Send the property details and basic requirements through Bazaraki to discuss the
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-029/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-029/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-029/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-029/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-029/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-030</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1206,15 +1165,14 @@ Send the property location and basic requirements through Bazaraki to discuss th
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-030/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-030/03.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-030/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-030/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-031</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1264,10 +1222,10 @@ Send an enquiry through Bazaraki with the property type and project requirements
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-032</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1287,18 +1245,15 @@ Drywall bulkhead installation and concealment for air conditioning units in resi
     <disallow_chat>0</disallow_chat>
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-032/01.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-032/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-032/03.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-032/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-032/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-033</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1339,19 +1294,16 @@ Send an enquiry through Bazaraki with the project requirements to discuss the wo
     <whatsapp>+35795553931</whatsapp>
     <disallow_chat>0</disallow_chat>
     <images>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-033/01.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-033/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-033/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-033/04.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-033/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-034</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1377,16 +1329,15 @@ Service covers Paphos and nearby areas. Send the property location and basic req
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-034/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-034/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-034/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-034/04.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-034/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-035</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1421,19 +1372,16 @@ Service fee available upon enquiry, depending on the property, dimensions, and s
     <whatsapp>+35795553931</whatsapp>
     <disallow_chat>0</disallow_chat>
     <images>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-035/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-035/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-035/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-035/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-035/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-036</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1462,17 +1410,14 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-036/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-036/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-036/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-036/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-036/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-037</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1520,10 +1465,10 @@ Send an enquiry through Bazaraki with the property type and basic requirements t
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-038</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1561,18 +1506,15 @@ Send the property details and basic requirements through Bazaraki to discuss the
     <disallow_chat>0</disallow_chat>
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-038/01.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-038/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-038/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-038/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-038/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-039</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1610,10 +1552,10 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-040</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1663,10 +1605,10 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-041</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1705,19 +1647,16 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <whatsapp>+35795553931</whatsapp>
     <disallow_chat>0</disallow_chat>
     <images>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-041/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-041/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-041/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-041/04.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-041/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-042</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1760,17 +1699,14 @@ Send the property details and basic requirements through Bazaraki to discuss the
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-042/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-042/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-042/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-042/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-042/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-043</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1812,7 +1748,6 @@ Send the property location and basic requirements through Bazaraki to discuss th
     <disallow_chat>0</disallow_chat>
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-043/01.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-043/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-043/03.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-043/04.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-043/05.jpg</list-item>
@@ -1820,10 +1755,10 @@ Send the property location and basic requirements through Bazaraki to discuss th
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-044</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1861,10 +1796,10 @@ Send the property details and requirements through Bazaraki to discuss the work.
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-045</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1896,16 +1831,15 @@ Send the property location and basic requirements through Bazaraki to discuss th
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-045/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-045/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-045/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-045/04.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-045/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-046</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1951,10 +1885,10 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-047</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -1994,16 +1928,14 @@ Send the project details and basic requirements through Bazaraki to discuss the 
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-047/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-047/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-047/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-047/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-047/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-048</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2043,18 +1975,16 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <disallow_chat>0</disallow_chat>
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-048/01.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-048/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-048/03.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-048/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-048/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-049</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2092,18 +2022,15 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <disallow_chat>0</disallow_chat>
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-049/01.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-049/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-049/03.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-049/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-049/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-050</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2143,18 +2070,15 @@ Send an enquiry through Bazaraki with the property details and column requiremen
     <disallow_chat>0</disallow_chat>
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-050/01.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-050/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-050/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-050/04.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-050/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-051</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2179,15 +2103,14 @@ Includes profile installation, surface preparation, precision fitting, and final
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-051/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-051/03.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-051/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-051/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-052</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2218,17 +2141,14 @@ Send the property details and basic requirements through Bazaraki to discuss the
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-052/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-052/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-052/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-052/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-052/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-053</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2262,16 +2182,14 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-053/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-053/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-053/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-053/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-053/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-054</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2304,17 +2222,14 @@ Send an enquiry through Bazaraki with the property type and scope of work.</desc
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-054/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-054/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-054/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-054/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-054/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-055</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2353,15 +2268,14 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-055/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-055/03.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-055/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-055/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-056</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2404,17 +2318,14 @@ Send an enquiry through Bazaraki with the property type and project requirements
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-056/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-056/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-056/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-056/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-056/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-058</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2451,17 +2362,14 @@ Contact through Bazaraki to review the project requirements.</description>
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-058/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-058/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-058/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-058/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-058/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-059</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2492,17 +2400,14 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-059/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-059/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-059/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-059/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-059/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-060</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2542,18 +2447,15 @@ Send the project details and basic requirements through Bazaraki to discuss the 
     <disallow_chat>0</disallow_chat>
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-060/01.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-060/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-060/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-060/04.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-060/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-061</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2594,17 +2496,14 @@ Send an enquiry through Bazaraki to discuss the project requirements.</descripti
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-061/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-061/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-061/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-061/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-061/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-062</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2648,18 +2547,15 @@ Send the property location and basic requirements through Bazaraki to discuss th
     <disallow_chat>0</disallow_chat>
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-062/01.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-062/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-062/03.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-062/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-062/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-063</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2688,17 +2584,14 @@ Send the property requirements and basic measurements through Bazaraki to discus
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-063/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-063/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-063/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-063/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-063/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-064</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2745,15 +2638,14 @@ Send an enquiry through Bazaraki with the project requirements to discuss the wo
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-064/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-064/03.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-064/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-064/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-065</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2795,18 +2687,15 @@ Send an enquiry through Bazaraki with the property type and space dimensions to 
     <disallow_chat>0</disallow_chat>
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-065/01.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-065/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-065/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-065/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-065/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-066</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2836,18 +2725,15 @@ Send the refrigerator dimensions and property details through Bazaraki to discus
     <disallow_chat>0</disallow_chat>
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-066/01.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-066/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-066/03.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-066/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-066/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-067</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2886,19 +2772,16 @@ Send the appliance dimensions and basic location through Bazaraki to discuss the
     <whatsapp>+35795553931</whatsapp>
     <disallow_chat>0</disallow_chat>
     <images>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-067/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-067/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-067/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-067/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-067/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-069</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2937,17 +2820,15 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-069/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-069/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-069/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-069/04.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-069/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-070</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -2987,18 +2868,15 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <disallow_chat>0</disallow_chat>
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-070/01.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-070/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-070/03.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-070/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-070/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-071</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -3028,18 +2906,15 @@ Send the property location and basic requirements through Bazaraki to discuss th
     <disallow_chat>0</disallow_chat>
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-071/01.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-071/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-071/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-071/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-071/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-072</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -3083,18 +2958,15 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <disallow_chat>0</disallow_chat>
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-072/01.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-072/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-072/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-072/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-072/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-073</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -3134,18 +3006,15 @@ Send an enquiry through Bazaraki with the property type and scope of work to dis
     <disallow_chat>0</disallow_chat>
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-073/01.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-073/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-073/03.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-073/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-073/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-074</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -3179,18 +3048,15 @@ Suitable for houses, apartments and commercial properties. Send the property det
     <disallow_chat>0</disallow_chat>
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-074/01.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-074/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-074/03.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-074/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-074/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-075</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -3229,7 +3095,6 @@ Send the property requirements through Bazaraki to discuss the work.</descriptio
     <whatsapp>+35795553931</whatsapp>
     <disallow_chat>0</disallow_chat>
     <images>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-075/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-075/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-075/03.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-075/04.jpg</list-item>
@@ -3238,10 +3103,10 @@ Send the property requirements through Bazaraki to discuss the work.</descriptio
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-076</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -3262,17 +3127,14 @@ Plasterboard installation and timber wall lining for residential and commercial 
     <images>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-076/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-076/02.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-076/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-076/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-076/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-077</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -3320,10 +3182,10 @@ Send the property type and basic requirements through Bazaraki to discuss the wo
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
   <list-item>
-    <last_update>2026-09-29 18:33:44</last_update>
+    <last_update>2026-09-29 19:00:00</last_update>
     <external_id>LEO-PB-078</external_id>
     <status>active</status>
     <rubric>3027</rubric>
@@ -3365,12 +3227,10 @@ Send the property location and basic requirements through Bazaraki to discuss th
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-078/01.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-078/02.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-078/03.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-078/04.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-078/05.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
     </attrs>
-    <geometry></geometry>
+    <geometry />
   </list-item>
 </root>
