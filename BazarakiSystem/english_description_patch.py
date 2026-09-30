@@ -111,14 +111,15 @@ def _en_hook(context: DescriptionContext) -> str:
         "waterpark":            f"Build the attraction that defines your destination — waterpark construction in {loc}, Cyprus, from concept to opening day.",
         "cooling_heating":      f"Swim in perfect comfort all year — professional pool heating and cooling system installation in {loc} by certified engineers.",
         "rock_features":        f"Bring nature to your pool — bespoke reconstituted rock features for {loc} pools: waterfalls, grottos, and natural-stone surrounds.",
-        "bar_and_stools":       f"The pool bar that becomes the heart of your property — professional pool bar and stool construction in {loc}, Cyprus.",
-        "maintenance_daily":    f"Your {loc} pool, immaculate every single morning — premium daily pool care trusted by hotels, villas, and rental portfolios.",
+        "bar_and_stools":            f"The pool bar that becomes the heart of your property — professional pool bar and stool construction in {loc}, Cyprus.",
+        "maintenance_weekly":        f"Crystal-clear water, working equipment, zero surprises — trusted weekly pool maintenance in {loc} by Cyprus specialists with {yrs}+ years experience.",
+        "maintenance_daily":         f"Your {loc} pool, immaculate every single morning — premium daily pool care trusted by hotels, villas, and rental portfolios.",
         "maintenance_comprehensive": f"Total pool care in {loc} — comprehensive maintenance covering chemistry, equipment, and aesthetics by a team with {yrs}+ years in Cyprus.",
-        "renovation_basic":     f"Restore your {loc} pool to perfect condition — fast basic renovation completed in 5–7 working days, guaranteed.",
-        "renovation_complete":  f"A fully rebuilt pool in {loc} — complete renovation from shell to automation with a modern finish that adds real property value.",
-        "construction_small":   f"Your dream pool in {loc} starts here — professional small pool construction (up to 25m²) by licensed engineers who have built {pro}+ pools across Cyprus.",
-        "construction_medium":  f"A pool that transforms your {loc} property — turnkey medium pool construction (up to 50m²) with full project management, permits, and warranty.",
-        "construction_large":   f"Build something extraordinary in {loc} — bespoke large pool construction (100m²+) with premium materials, automated systems, and architect-quality finish.",
+        "renovation_basic":          f"Restore your {loc} pool to perfect condition — fast basic renovation completed in 5–7 working days, guaranteed.",
+        "renovation_complete":       f"A fully rebuilt pool in {loc} — complete renovation from shell to automation with a modern finish that adds real property value.",
+        "construction_small":        f"Your dream pool in {loc} starts here — professional small pool construction (up to 25m²) by licensed engineers who have built {pro}+ pools across Cyprus.",
+        "construction_medium":       f"A pool that transforms your {loc} property — turnkey medium pool construction (up to 50m²) with full project management, permits, and warranty.",
+        "construction_large":        f"Build something extraordinary in {loc} — bespoke large pool construction (100m²+) with premium materials, automated systems, and architect-quality finish.",
     }
     if st in hooks:
         return hooks[st]
