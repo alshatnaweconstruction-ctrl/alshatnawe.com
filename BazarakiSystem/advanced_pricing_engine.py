@@ -29,15 +29,37 @@ class Location(Enum):
 
 
 class ServiceType(Enum):
-    """Pool service types with base pricing"""
-    MAINTENANCE_WEEKLY = ("maintenance_weekly", 105, 150)
-    MAINTENANCE_COMPREHENSIVE = ("maintenance_comprehensive", 160, 280)
-    MAINTENANCE_DAILY = ("maintenance_daily", 600, 1200)
-    CONSTRUCTION_SMALL = ("construction_small", 8000, 12000)  # 25m²
-    CONSTRUCTION_MEDIUM = ("construction_medium", 15000, 25000)  # 50m²
-    CONSTRUCTION_LARGE = ("construction_large", 30000, 50000)  # 100m²+
-    RENOVATION_BASIC = ("renovation_basic", 1500, 3500)
-    RENOVATION_COMPLETE = ("renovation_complete", 12000, 30000)
+    """Pool service types with base pricing — Cyprus 2026 market data"""
+    # ── Maintenance ──────────────────────────────────────────────────────────
+    MAINTENANCE_WEEKLY        = ("maintenance_weekly",        105,   150)
+    MAINTENANCE_COMPREHENSIVE = ("maintenance_comprehensive", 160,   280)
+    MAINTENANCE_DAILY         = ("maintenance_daily",         600,  1200)
+    # ── Residential Construction ─────────────────────────────────────────────
+    CONSTRUCTION_SMALL        = ("construction_small",       8000, 12000)   # up to 25m²
+    CONSTRUCTION_MEDIUM       = ("construction_medium",     15000, 25000)   # up to 50m²
+    CONSTRUCTION_LARGE        = ("construction_large",      30000, 50000)   # 100m²+
+    # ── Pool Types ───────────────────────────────────────────────────────────
+    POOL_OVERFLOW             = ("pool_overflow",           18000, 35000)   # overflow/wet-edge
+    POOL_SKIMMER              = ("pool_skimmer",            10000, 22000)   # standard skimmer
+    POOL_INFINITY             = ("pool_infinity",           25000, 55000)   # infinity/vanishing edge
+    # ── Linings ──────────────────────────────────────────────────────────────
+    LINING_LINER              = ("lining_liner",             2500,  5500)   # vinyl liner supply+fit
+    LINING_MOSAIC             = ("lining_mosaic",            4500, 12000)   # glass mosaic tiling
+    LINING_CERAMIC            = ("lining_ceramic",           3000,  7500)   # ceramic tile finish
+    # ── Commercial ───────────────────────────────────────────────────────────
+    COMMERCIAL_POOL           = ("commercial_pool",         40000,120000)   # hotels/resorts
+    COMMERCIAL_SPA            = ("commercial_spa",          12000, 35000)   # commercial spa
+    COMMERCIAL_FOUNTAIN       = ("commercial_fountain",      5000, 25000)   # decorative fountain
+    HOTEL_POOL_SERVICE        = ("hotel_pool_service",       1200,  3500)   # monthly hotel contract
+    # ── Specialty ────────────────────────────────────────────────────────────
+    SWIM_SPA                  = ("swim_spa",                 8000, 18000)   # swim spa supply+install
+    WATERPARK                 = ("waterpark",               80000,400000)   # waterpark construction
+    COOLING_HEATING           = ("cooling_heating",          2500,  8000)   # heat pump / chiller
+    ROCK_FEATURES             = ("rock_features",            3500, 15000)   # reconstituted rock
+    BAR_AND_STOOLS            = ("bar_and_stools",           4000, 14000)   # pool bar construction
+    # ── Renovation ───────────────────────────────────────────────────────────
+    RENOVATION_BASIC          = ("renovation_basic",         1500,  3500)
+    RENOVATION_COMPLETE       = ("renovation_complete",     12000, 30000)
 
 
 class AdvancedPricingEngine:
@@ -55,14 +77,29 @@ class AdvancedPricingEngine:
             "year": 2026,
             "market": "Cyprus",
             "base_prices": {
-                "maintenance_weekly": {"min": 105, "max": 150, "currency": "EUR"},
-                "maintenance_comprehensive": {"min": 160, "max": 280, "currency": "EUR"},
-                "maintenance_daily": {"min": 600, "max": 1200, "currency": "EUR"},
-                "construction_small": {"min": 8000, "max": 12000, "currency": "EUR"},
-                "construction_medium": {"min": 15000, "max": 25000, "currency": "EUR"},
-                "construction_large": {"min": 30000, "max": 50000, "currency": "EUR"},
-                "renovation_basic": {"min": 1500, "max": 3500, "currency": "EUR"},
-                "renovation_complete": {"min": 12000, "max": 30000, "currency": "EUR"},
+                "maintenance_weekly":        {"min": 105,   "max": 150,    "currency": "EUR"},
+                "maintenance_comprehensive": {"min": 160,   "max": 280,    "currency": "EUR"},
+                "maintenance_daily":         {"min": 600,   "max": 1200,   "currency": "EUR"},
+                "construction_small":        {"min": 8000,  "max": 12000,  "currency": "EUR"},
+                "construction_medium":       {"min": 15000, "max": 25000,  "currency": "EUR"},
+                "construction_large":        {"min": 30000, "max": 50000,  "currency": "EUR"},
+                "pool_overflow":             {"min": 18000, "max": 35000,  "currency": "EUR"},
+                "pool_skimmer":              {"min": 10000, "max": 22000,  "currency": "EUR"},
+                "pool_infinity":             {"min": 25000, "max": 55000,  "currency": "EUR"},
+                "lining_liner":              {"min": 2500,  "max": 5500,   "currency": "EUR"},
+                "lining_mosaic":             {"min": 4500,  "max": 12000,  "currency": "EUR"},
+                "lining_ceramic":            {"min": 3000,  "max": 7500,   "currency": "EUR"},
+                "commercial_pool":           {"min": 40000, "max": 120000, "currency": "EUR"},
+                "commercial_spa":            {"min": 12000, "max": 35000,  "currency": "EUR"},
+                "commercial_fountain":       {"min": 5000,  "max": 25000,  "currency": "EUR"},
+                "hotel_pool_service":        {"min": 1200,  "max": 3500,   "currency": "EUR"},
+                "swim_spa":                  {"min": 8000,  "max": 18000,  "currency": "EUR"},
+                "waterpark":                 {"min": 80000, "max": 400000, "currency": "EUR"},
+                "cooling_heating":           {"min": 2500,  "max": 8000,   "currency": "EUR"},
+                "rock_features":             {"min": 3500,  "max": 15000,  "currency": "EUR"},
+                "bar_and_stools":            {"min": 4000,  "max": 14000,  "currency": "EUR"},
+                "renovation_basic":          {"min": 1500,  "max": 3500,   "currency": "EUR"},
+                "renovation_complete":       {"min": 12000, "max": 30000,  "currency": "EUR"},
             },
             "price_per_sqm": {"min": 170, "max": 350, "currency": "EUR"},
             "locations": {
