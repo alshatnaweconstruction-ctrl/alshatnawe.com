@@ -3233,4 +3233,72 @@ Send the property location and basic requirements through Bazaraki to discuss th
     </attrs>
     <geometry />
   </list-item>
+  <list-item>
+    <last_update>2026-09-30 14:00:00</last_update>
+    <external_id>LEO-INS-001</external_id>
+    <status>active</status>
+    <rubric>3026</rubric>
+    <district>5713</district>
+    <title>Cavity and Solid Wall Insulation in Paphos</title>
+    <description>Εργασίες μόνωσης κοιλοτήτων και συμπαγών τοίχων για κατοικίες, διαμερίσματα και επαγγελματικούς χώρους που χρειάζονται βελτίωση της θερμικής απόδοσης και της ενεργειακής συμπεριφοράς.
+
+Η υπηρεσία περιλαμβάνει την εφαρμογή κατάλληλων υλικών και τεχνικών μόνωσης σε εξωτερικούς ή εσωτερικούς τοίχους ανάλογα με τις ανάγκες του κτιρίου, με στόχο τη μείωση της απώλειας θερμότητας τον χειμώνα και της υπερθέρμανσης το καλοκαίρι.
+
+Περιλαμβανόμενες εργασίες:
+- Μόνωση κοιλοτήτων τοίχων (cavity wall insulation)
+- Μόνωση συμπαγών τοίχων (solid wall insulation)
+- Προετοιμασία επιφανειών και έλεγχος υφιστάμενης κατάστασης
+- Τοποθέτηση μονωτικών υλικών και αποκατάσταση σημείων πρόσβασης
+
+Κατάλληλο για ιδιοκτήτες κατοικιών, διαμερισμάτων και εμπορικών ακινήτων που επιθυμούν καλύτερη θερμομόνωση και σταθερότερες εσωτερικές θερμοκρασίες.
+
+Η περιοχή εξυπηρέτησης επιβεβαιώνεται κατόπιν επικοινωνίας.
+
+Διαδικασία:
+Επικοινωνία - εξέταση απαιτήσεων - επιθεώρηση χώρου εάν απαιτείται - προσφορά και σχεδιασμός - εκτέλεση εργασιών.
+
+Το τέλος υπηρεσίας είναι διαθέσιμο κατόπιν επικοινωνίας, ανάλογα με τον τύπο του ακινήτου, την κατάσταση των τοίχων και το εύρος των εργασιών.
+
+Στείλτε τα στοιχεία και τις βασικές απαιτήσεις του ακινήτου μέσω Bazaraki για να συζητήσουμε τις εργασίες.
+
+---
+
+Cavity and solid wall insulation for houses, apartments, and commercial premises that need improved thermal performance and energy efficiency.
+
+The service includes the application of suitable insulation materials and techniques to external or internal walls depending on the building&apos;s requirements, aiming to reduce heat loss in winter and overheating in summer.
+
+Included services:
+- Cavity wall insulation
+- Solid wall insulation
+- Surface preparation and inspection of existing wall condition
+- Installation of insulation materials and making good access points
+
+Suitable for homeowners, apartment owners, and commercial property owners looking for better thermal insulation and more stable indoor temperatures.
+
+Service area confirmed upon enquiry.
+
+Process:
+Enquiry - review of requirements - site inspection if applicable - quotation and planning - service delivery.
+
+Service fee available upon enquiry, depending on the property type, wall condition, and scope of work.
+
+Send the property location and basic requirements through Bazaraki to discuss the work.</description>
+    <price>1.00</price>
+    <phone_hide>0</phone_hide>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-ins-001/01.png</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-ins-001/02.png</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-ins-001/03.png</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-ins-001/04.png</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/ad-ins-001/05.png</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
