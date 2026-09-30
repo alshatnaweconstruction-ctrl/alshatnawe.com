@@ -215,7 +215,7 @@ def _en_authority(context: DescriptionContext) -> str:
     loc = LOCATION_LABELS.get(context.location, context.location.title())
     return (
         f"✔ {yrs}+ years of professional experience in Cyprus pool services\n"
-        f"✔ {pro}+ completed projects across {loc}, Paphos, Limassol and Nicosia\n"
+        f"✔ {pro}+ completed projects across all Cyprus districts — Paphos, Limassol, Larnaca and Nicosia\n"
         f"✔ Fully licensed and insured — all work complies with Cyprus building regulations\n"
         f"✔ Professional liability insurance included on every contract\n"
         f"✔ Transparent reporting with photos after every visit or milestone\n"
