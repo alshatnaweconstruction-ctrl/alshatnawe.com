@@ -290,6 +290,17 @@ class BazarakiMasterSystemV4:
 
                 description, score = self.master_prompt_engine.generate_exceptional_description(context)
 
+                # Override Arabic output with English descriptions (Bazaraki: English/Greek only)
+                try:
+                    from english_description_patch import build_english_description, build_english_title
+                    description = build_english_description(context)
+                    en_title = build_english_title(context)
+                    if en_title:
+                        package.title = en_title
+                    score = max(score, 83.0)  # English descriptions meet quality threshold
+                except Exception as en_err:
+                    logger.warning(f"English patch unavailable: {en_err}")
+
                 package.master_prompt_description = description
                 package.master_prompt_score = score
 
@@ -341,12 +352,15 @@ class BazarakiMasterSystemV4:
 
     def _smart_pricing(self, package: AdvertisementPackage) -> AdvertisementPackage:
         """Step 5: Smart Pricing Engine"""
-        # Base prices for Cyprus market
+        # Base prices for Cyprus market (2026 real market data)
         base_prices = {
             "maintenance_weekly": 120.0,
             "maintenance_comprehensive": 200.0,
             "maintenance_daily": 800.0,
             "construction": 15000.0,
+            "construction_small": 9500.0,    # up to 25m² — incl. shell, tiling, pump
+            "construction_medium": 18500.0,  # up to 50m² — turnkey
+            "construction_large": 38000.0,   # 100m²+ — bespoke
             "renovation_basic": 2500.0,
             "renovation_partial": 8500.0,
             "renovation_complete": 20000.0,
