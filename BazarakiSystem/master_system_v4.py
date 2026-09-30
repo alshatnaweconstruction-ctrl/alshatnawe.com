@@ -278,8 +278,14 @@ class BazarakiMasterSystemV4:
                     subcategory=package.service_type,
                     location=package.location,
                     buyer_profile="remote_owner",
+                    market_data={"season": "peak", "demand": "high", "competition": "medium"},
+                    buyer_psychology={"primary_need": "reliability", "pain_point": "trust", "motivation": "peace_of_mind"},
                     experience_years=package.experience_years,
                     projects_completed=package.projects_completed,
+                    psychological_triggers=["trust", "expertise", "reliability", "value", "urgency"],
+                    service_benefits=["professional service", "experienced team", "quality guarantee", "timely completion"],
+                    unique_selling_points=[f"{package.experience_years} years experience", f"{package.projects_completed} completed projects", "Cyprus specialists"],
+                    target_emotions=["confidence", "trust", "satisfaction", "peace_of_mind"],
                 )
 
                 description, score = self.master_prompt_engine.generate_exceptional_description(context)
