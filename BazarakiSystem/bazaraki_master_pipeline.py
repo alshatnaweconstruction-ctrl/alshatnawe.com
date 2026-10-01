@@ -745,7 +745,7 @@ def generate_description(service: dict, location: str, price: int) -> str:
 
 Τιμή: {price_str_gr}.
 
-Στείλτε την τοποθεσία και τις βασικές σας απαιτήσεις μέσω Bazaraki για να συζητήσουμε το έργο."""
+Στείλτε μήνυμα με την τοποθεσία και τις βασικές σας απαιτήσεις για να συζητήσουμε το έργο."""
 
     # ── English description ────────────────────────────────
     english = f"""{svc_name} for {customers.lower()} who need a correctly delivered result without unnecessary complications.
@@ -764,7 +764,7 @@ Service area: {location_area_en} and surrounding areas.
 
 {price_str_en}.
 
-Send the property location and basic requirements through Bazaraki to discuss the project."""
+Send a message with the property location and your basic requirements to discuss the project."""
 
     return f"{greek.strip()}\n\n{'—' * 3}\n\n{english.strip()}"
 
