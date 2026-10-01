@@ -703,15 +703,41 @@ def generate_description(service: dict, location: str, price: int) -> str:
     }
     svc_name_gr = GREEK_SERVICE_NAMES.get(svc_name, svc_name)
 
+    # ── Greek customer type mapping ─────────────────────────
+    GREEK_CUSTOMERS = {
+        "Homeowners": "ιδιοκτήτες κατοικιών",
+        "homeowners": "ιδιοκτήτες κατοικιών",
+        "villa owners": "ιδιοκτήτες βίλας",
+        "Villa owners": "ιδιοκτήτες βίλας",
+        "property managers": "διαχειριστές ακινήτων",
+        "Property managers": "διαχειριστές ακινήτων",
+        "property developers": "κατασκευαστές ακινήτων",
+        "Property developers": "κατασκευαστές ακινήτων",
+        "holiday-let landlords": "ιδιοκτήτες τουριστικών κατοικιών",
+        "Holiday-let landlords": "ιδιοκτήτες τουριστικών κατοικιών",
+        "boutique hotels": "μπουτίκ ξενοδοχεία",
+        "Boutique hotels": "μπουτίκ ξενοδοχεία",
+        "hotels": "ξενοδοχεία",
+        "commercial properties": "εμπορικά ακίνητα",
+        "Commercial properties": "εμπορικά ακίνητα",
+        "businesses": "επιχειρήσεις",
+        "Businesses": "επιχειρήσεις",
+    }
+
+    cust_parts = [c.strip() for c in customers.split(",")]
+    cust_gr_first = GREEK_CUSTOMERS.get(cust_parts[0], cust_parts[0].lower())
+    cust_gr_second = GREEK_CUSTOMERS.get(cust_parts[1], cust_parts[1].lower()) if len(cust_parts) > 1 else "ιδιοκτήτες ακινήτων"
+    customers_gr = ", ".join(GREEK_CUSTOMERS.get(c.strip(), c.strip().lower()) for c in cust_parts)
+
     # ── Greek description ──────────────────────────────────
-    greek = f"""{svc_name_gr} για {customers.split(',')[0].lower()} και {customers.split(',')[1].strip().lower() if ',' in customers else 'ιδιοκτήτες ακινήτων'} που χρειάζονται αξιόπιστο αποτέλεσμα.
+    greek = f"""{svc_name_gr} για {cust_gr_first} και {cust_gr_second} που χρειάζονται αξιόπιστο αποτέλεσμα.
 
 Αναλαμβάνουμε ολόκληρη τη διαδικασία ώστε να διασφαλίσουμε σωστή εκτέλεση και καθαρό αποτέλεσμα χωρίς περιττά προβλήματα.
 
 Περιλαμβάνεται:
 {incl_el_gr}
 
-Κατάλληλο για: {customers}.
+Κατάλληλο για: {customers_gr}.
 
 Διαδικασία: Επικοινωνία → αξιολόγηση απαιτήσεων → επιθεώρηση χώρου → προσφορά → εκτέλεση → παράδοση.
 
