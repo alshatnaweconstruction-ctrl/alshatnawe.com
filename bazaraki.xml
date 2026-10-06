@@ -17758,4 +17758,83 @@ Send the project details through Bazaraki.</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-10-06 12:00:00</last_update>
+    <external_id>AS-CEILINGS</external_id>
+    <status>active</status>
+    <rubric>3027</rubric>
+    <district>5713</district>
+    <title>Plasterboard suspended ceilings with LED coves for homes and offices</title>
+    <description>Ψευδοροφές γυψοσανίδας με γείσα κρυφού φωτισμού για σπίτια και γραφεία
+
+Ανώμαλες οροφές, εμφανή καλώδια και ένα μόνο φωτιστικό στη μέση κάνουν τον χώρο να φαίνεται επίπεδος, ενώ η απόκρυψη των εγκαταστάσεων στην πλάκα σπάνια είναι εφικτή.
+Μια ψευδοροφή γυψοσανίδας σε μεταλλικό σκελετό δίνει επίπεδη ή κλιμακωτή επιφάνεια, με γείσα για κρυφό φωτισμό LED και ανοίγματα για αεραγωγούς.
+
+Περιλαμβάνει:
+- Μεταλλικός σκελετός
+- Τοποθέτηση γυψοσανίδας
+- Αρμολόγηση και σπατουλάρισμα
+- Ανοίγματα για φωτιστικά και αεραγωγούς
+- Γείσα για κρυφό φωτισμό
+
+Τα φωτιστικά δεν περιλαμβάνονται.
+
+Για κατοικίες, γραφεία και καταστήματα, καθώς και για ρεσεψιόν, διαδρόμους και δωμάτια ξενοδοχείων.
+Εξυπηρετούμε όλη την Κύπρο. Η διαθεσιμότητα της υπηρεσίας επιβεβαιώνεται ανάλογα με την τοποθεσία του ακινήτου και τις απαιτήσεις του έργου.
+
+Πείτε μας τις διαστάσεις των χώρων και την ιδέα για τον φωτισμό· επιβεβαιώνουμε τα ύψη επί τόπου και τιμολογούμε ανά τετραγωνικό μέτρο οροφής.
+Η αμοιβή για την υπηρεσία δίνεται αφού εξετάσουμε τις απαιτήσεις σας.
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+Ορισμένες φωτογραφίες είναι υπολογιστικές απεικονίσεις αυτού του τύπου εργασιών.
+
+Στείλτε μια φωτογραφία της οροφής και ένα σκίτσο ή μια εικόνα του σχεδίου που σας αρέσει.
+
+ENGLISH
+
+Plasterboard suspended ceilings with LED coves for homes and offices
+
+Uneven ceilings, exposed cables and a single central light make a room look flat, and hiding services in the slab is rarely an option.
+A suspended plasterboard ceiling on a metal frame gives a flat or stepped surface, with coves for hidden LED lighting and openings for vents.
+
+Included:
+- Metal frame
+- Plasterboard fixing
+- Jointing and skimming
+- Openings for lights and air vents
+- Coves for hidden lighting
+
+Light fittings are not included.
+
+For homes, offices and shops, and for hotel lobbies, corridors and guest rooms.
+We serve all of Cyprus. Service availability is confirmed depending on the property location and project requirements.
+
+Tell us the room sizes and the lighting idea; we confirm levels on site and price per square metre of ceiling.
+Service fee is provided after reviewing your requirements.
+
+The photos are illustrative examples of this type of work.
+
+Some photos are computer-generated illustrations of this type of work.
+
+Send a photo of the ceiling and a sketch or reference of the design you like.</description>
+    <price>20.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/ceilings/ceilings_frame_AI_01.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/ceilings/unsplash_89RsOg-hWyM.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/ceilings/pexels_7166945.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/ceilings/unsplash_i5UA8CfAD34.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/ceilings/pexels_6474313.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
