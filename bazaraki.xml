@@ -17837,4 +17837,79 @@ Send a photo of the ceiling and a sketch or reference of the design you like.</d
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-10-07 11:10:44</last_update>
+    <external_id>AS-BATHROOM</external_id>
+    <status>active</status>
+    <rubric>3028</rubric>
+    <district>5713</district>
+    <title>Bathroom renovation with strip out, new tiles, shower and sanitaryware</title>
+    <description>Ανακαίνιση μπάνιου με αποξήλωση, στεγάνωση, πλακάκια και είδη υγιεινής
+
+Πλακάκια που ξεκολλούν, ντουζιέρα που στάζει ή παλιές σωληνώσεις μέσα στους τοίχους σημαίνουν συνήθως ότι τα μπαλώματα δεν βοηθούν πια και το μπάνιο πρέπει να γίνει από την αρχή.
+Το μπάνιο αποξηλώνεται και ξαναφτιάχνεται: νέες σωληνώσεις, στεγανωμένο δάπεδο και ντουζιέρα, πλακάκια και τοποθέτηση ειδών υγιεινής.
+
+Περιλαμβάνει:
+- Αποξήλωση παλιών πλακακιών και ειδών υγιεινής
+- Νέες υδραυλικές σωληνώσεις
+- Στεγάνωση δαπέδου και ντουζιέρας
+- Πλακάκια δαπέδου και τοίχων
+- Τοποθέτηση ειδών υγιεινής
+
+Τα είδη υγιεινής τα επιλέγει και τα προμηθεύει ο πελάτης.
+
+Για ιδιοκτήτες κατοικιών, ιδιοκτήτες ενοικιαζόμενων και ξενοδοχεία που ανακαινίζουν τα μπάνια των δωματίων ένα προς ένα.
+Εξυπηρετούμε όλη την Κύπρο. Η διαθεσιμότητα της υπηρεσίας επιβεβαιώνεται ανάλογα με την τοποθεσία του ακινήτου και τις απαιτήσεις του έργου.
+
+Αφού μετρήσουμε τον χώρο και επιλέξουμε μαζί πλακάκια και είδη, λαμβάνετε γραπτή προσφορά που χωρίζει εργατικά, υλικά και είδη υγιεινής.
+Τιμή: Από €4.000 ανά μπάνιο. Οι τιμές δεν περιλαμβάνουν ΦΠΑ. Η τιμή αφορά: τυπικό μπάνιο, εργατικά και υλικά, χωρίς τα είδη υγιεινής.
+
+Ορισμένες φωτογραφίες είναι υπολογιστικές απεικονίσεις αυτού του τύπου εργασιών.
+
+Στείλτε μια φωτογραφία του μπάνιου και τις κατά προσέγγιση διαστάσεις του.
+
+ENGLISH
+
+Bathroom renovation with strip out, new tiles, shower and sanitaryware
+
+Loose tiles, a leaking shower tray or old pipework behind the walls usually mean that patching no longer helps and the bathroom has to be redone.
+The bathroom is stripped back and rebuilt: new pipework, a waterproofed floor and shower area, tiling and fitting of sanitaryware.
+
+Included:
+- Removal of old tiles and sanitaryware
+- New plumbing pipework
+- Waterproofing of the floor and shower area
+- Floor and wall tiling
+- Fitting of sanitaryware
+
+Sanitaryware is chosen and supplied by the client.
+
+For homeowners, landlords and hotels renovating guest bathrooms room by room.
+We serve all of Cyprus. Service availability is confirmed depending on the property location and project requirements.
+
+After measuring the room and choosing tiles and fittings together, you get a written quotation that separates labour, materials and sanitaryware.
+Price: From €4,000 per bathroom. Prices exclude VAT. The price covers: a standard bathroom, labour and materials, without sanitaryware.
+
+Some photos are computer-generated illustrations of this type of work.
+
+Send a photo of the bathroom and its rough dimensions.</description>
+    <price>4000.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/bathroom/bathroom_cover_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/bathroom/bathroom_finished_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/bathroom/bathroom_stripout_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/bathroom/bathroom_roughin_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/bathroom/bathroom_grout_v2.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
