@@ -18062,4 +18062,79 @@ Send the property location and what you would like checked each month.</descript
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-10-07 21:11:44</last_update>
+    <external_id>AS-NEW-BUILD</external_id>
+    <status>active</status>
+    <rubric>3024</rubric>
+    <district>5713</district>
+    <title>New villa and house construction on your plot, foundations to finishes</title>
+    <description>Κατασκευή νέας κατοικίας ή βίλας στο οικόπεδό σας, από τη θεμελίωση
+
+Το οικόπεδο υπάρχει· το δύσκολο είναι να γίνουν τα εγκεκριμένα σχέδια σπίτι, με εκσκαφές, σκυρόδεμα, τοιχοποιίες και φινιρίσματα να συνδέονται χωρίς κενά μεταξύ των συνεργείων.
+Ένας ανάδοχος κατασκευάζει την κατοικία από τη θεμελίωση μέχρι τα τελικά φινιρίσματα, σύμφωνα με τα εγκεκριμένα σχέδια της μελέτης.
+
+Περιλαμβάνει:
+- Εκσκαφές και θεμελίωση
+- Σκελετός από οπλισμένο σκυρόδεμα
+- Τοιχοποιίες, σοβάδες και μονώσεις
+- Δάπεδα, πλακάκια και χρωματισμοί
+- Συντονισμός των εργασιών του έργου
+
+Η τελική τιμή εξαρτάται από τα σχέδια, τις προδιαγραφές και το οικόπεδο.
+
+Για ιδιοκτήτες οικοπέδων που χτίζουν οικογενειακό σπίτι ή βίλα διακοπών, και για επενδυτές μικρών ξενοδοχείων και διαμερισμάτων διακοπών.
+Εξυπηρετούμε όλη την Κύπρο. Η διαθεσιμότητα της υπηρεσίας επιβεβαιώνεται ανάλογα με την τοποθεσία του ακινήτου και τις απαιτήσεις του έργου.
+
+Στείλτε τα σχέδια ή την άδεια οικοδομής· τα μελετάμε, επισκεπτόμαστε το οικόπεδο και ετοιμάζουμε αναλυτική προσφορά ανά στάδιο κατασκευής.
+Τιμή: Από €1.400 ανά μ². Οι τιμές δεν περιλαμβάνουν ΦΠΑ. Η τιμή αφορά: δομημένη επιφάνεια με τυπικό φινίρισμα, χωρίς το οικόπεδο.
+
+Ορισμένες φωτογραφίες είναι υπολογιστικές απεικονίσεις αυτού του τύπου εργασιών.
+
+Γράψτε μας την τοποθεσία του οικοπέδου και το εμβαδόν της κατοικίας που σκέφτεστε.
+
+ENGLISH
+
+New villa and house construction on your plot, foundations to finishes
+
+Owning a plot is the easy part; turning approved drawings into a finished home means coordinating excavation, concrete, masonry and finishes without gaps between trades.
+One contractor builds the house from foundations to final finishes, following the approved project drawings.
+
+Included:
+- Excavation and foundations
+- Reinforced concrete frame
+- Blockwork, plastering and insulation
+- Floors, tiling and painting
+- Coordination of the project works
+
+The final price depends on the drawings, the specification and the plot.
+
+For plot owners building a family home or a holiday villa, and for developers of boutique hotels and holiday apartments.
+We serve all of Cyprus. Service availability is confirmed depending on the property location and project requirements.
+
+Send the drawings or the planning permit; we study them, visit the plot and prepare an itemised quotation by construction stage.
+Price: From €1,400 per m². Prices exclude VAT. The price covers: built area with a standard finish, excluding the land.
+
+Some photos are computer-generated illustrations of this type of work.
+
+Message the plot location and the size of the house you have in mind.</description>
+    <price>1400.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/new-build/new-build_cover_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/new-build/new-build_finished_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/new-build/new-build_blockwork_v4.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/new-build/new-build_foundations_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/new-build/new-build_slab_v2.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
