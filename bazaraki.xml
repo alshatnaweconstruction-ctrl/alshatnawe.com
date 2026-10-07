@@ -17987,4 +17987,79 @@ Write the jobs you have in a short list, one per line.</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-10-07 15:53:49</last_update>
+    <external_id>AS-REMOTE-OWNER</external_id>
+    <status>active</status>
+    <rubric>317</rubric>
+    <district>5713</district>
+    <title>Property care and monthly inspections for home owners living abroad</title>
+    <description>Φροντίδα ακινήτων και μηνιαίοι έλεγχοι για ιδιοκτήτες στο εξωτερικό
+
+Όταν ζείτε στο εξωτερικό, μια μικρή διαρροή ή ένας πεσμένος διακόπτης μπορεί να περάσει απαρατήρητος για εβδομάδες και να γίνει μεγαλύτερη ζημιά.
+Μια μηνιαία επίσκεψη ελέγχει το ακίνητο για υγρασία, διαρροές και ζημιές, το αερίζει, κρατάμε τα κλειδιά και σας στέλνουμε αναφορά με φωτογραφίες.
+
+Περιλαμβάνει:
+- Μηνιαία επίσκεψη και έλεγχος του ακινήτου
+- Έλεγχος για υγρασία, διαρροές και ζημιές
+- Αερισμός και έλεγχος βασικών εγκαταστάσεων
+- Φύλαξη κλειδιών
+- Αναφορά με φωτογραφίες μετά από κάθε επίσκεψη
+
+Οι επισκευές που θα χρειαστούν τιμολογούνται ξεχωριστά, μετά από έγκρισή σας.
+
+Για ιδιοκτήτες που ζουν στο εξωτερικό, ιδιοκτήτες εξοχικών και μικρών ξενώνων που χρειάζονται ελέγχους ανάμεσα στις διαμονές.
+Εξυπηρετούμε όλη την Κύπρο. Η διαθεσιμότητα της υπηρεσίας επιβεβαιώνεται ανάλογα με την τοποθεσία του ακινήτου και τις απαιτήσεις του έργου.
+
+Συμφωνούμε μαζί σας λίστα ελέγχου και ημερομηνίες επισκέψεων, παραλαμβάνουμε τα κλειδιά και στέλνουμε φωτογραφίες μετά από κάθε επίσκεψη.
+Τιμή: Από €80 ανά μήνα. Οι τιμές δεν περιλαμβάνουν ΦΠΑ. Η τιμή αφορά: ένα ακίνητο, μία επίσκεψη τον μήνα.
+
+Ορισμένες φωτογραφίες είναι υπολογιστικές απεικονίσεις αυτού του τύπου εργασιών.
+
+Στείλτε την τοποθεσία του ακινήτου και τι θέλετε να ελέγχεται κάθε μήνα.
+
+ENGLISH
+
+Property care and monthly inspections for home owners living abroad
+
+When you live abroad, a small leak or a tripped switch can go unnoticed for weeks and turn into a bigger repair.
+A monthly visit checks the property for damp, leaks and damage, airs it, holds the keys and sends you a photo report.
+
+Included:
+- Monthly visit and property check
+- Check for damp, leaks and damage
+- Airing and check of basic systems
+- Key holding
+- Photo report after each visit
+
+Any repairs needed are priced separately, after your approval.
+
+For owners living abroad, holiday-home owners and small guest-house owners who need checks between stays.
+We serve all of Cyprus. Service availability is confirmed depending on the property location and project requirements.
+
+We agree a checklist and visit dates with you, collect the keys, and send photos after every visit.
+Price: From €80 per month. Prices exclude VAT. The price covers: one property, one visit per month.
+
+Some photos are computer-generated illustrations of this type of work.
+
+Send the property location and what you would like checked each month.</description>
+    <price>80.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/remote-owner/remote-owner_cover_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/remote-owner/remote-owner_ac_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/remote-owner/remote-owner_damp_skirting_real.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/remote-owner/remote-owner_roof_check_real.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/remote-owner/remote-owner_damp_corner_real.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
