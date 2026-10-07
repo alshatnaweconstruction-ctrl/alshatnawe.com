@@ -1,0 +1,5 @@
+build/
+__pycache__/
+*.pyc
+bazaraki_agent/data/private_terms.txt
+bazaraki_agent/data/rates_draft.json

@@ -1,0 +1,513 @@
+{
+  "new-build": {
+    "unit": "EUR per m2 built area (standard turnkey finish, excl. land)",
+    "basis": "from",
+    "market_low": 1500,
+    "market_typical": 1800,
+    "market_high": 2500,
+    "sources": [
+      {
+        "source": "youroverseashome.com",
+        "url": "https://youroverseashome.com/cyprus/advice/cyprus-building-own-home/",
+        "source_date": "2026-09-04",
+        "accessed": "2026-10-02",
+        "figure": "EUR 1,700-2,500/m2 excl. land"
+      },
+      {
+        "source": "cyprus-property-buyers news (quotes CYSTAT)",
+        "url": "https://news.cyprus-property-buyers.com/2025/08/11/construction-costs-for-houses-apartments-hotels-etc/id=00170889",
+        "source_date": "2025-08-11",
+        "accessed": "2026-10-02",
+        "figure": "EUR 1,700-2,500/m2; CYSTAT 2023 average houses EUR 1,214/m2"
+      },
+      {
+        "source": "fastforward.com.cy",
+        "url": "https://fastforward.com.cy/real-estate/housing-building-costs-starting-eu1800-square-meter",
+        "source_date": "2024-02-12",
+        "accessed": "2026-10-02",
+        "figure": "about EUR 1,800/m2 on owner land"
+      },
+      {
+        "source": "cyprusinvestments.com",
+        "url": "https://cyprusinvestments.com/articles/how-much-does-it-cost-to-build-a-house-in-cyprus-in-2025",
+        "source_date": "2025",
+        "accessed": "2026-10-02",
+        "figure": "EUR 1,200 basic / 1,500 mid / over 1,800 luxury, plus 19% VAT"
+      },
+      {
+        "source": "pfhadjivasili.com (Cyprus contractor)",
+        "url": "https://pfhadjivasili.com/how-much-does-it-cost-to-build-a-house-in-cyprus-in-2025/",
+        "source_date": "2025-05-28",
+        "accessed": "2026-10-03",
+        "figure": "EUR 1,100-1,600 per m2"
+      },
+      {
+        "source": "architectcyprus.com",
+        "url": "https://www.architectcyprus.com/κατασκευή/κόστος-σπίτι-τιμές-μονάδος-κύπρος/",
+        "source_date": "undated",
+        "accessed": "2026-10-03",
+        "figure": "whole house 800-1,500 EUR/m2"
+      },
+      {
+        "source": "CYSTAT 2000-2022 cost per m2",
+        "url": "https://library.cystat.gov.cy/NEW/CON-BUILDINGS_COST-A-2000_22-030424.pdf",
+        "source_date": "2024",
+        "accessed": "2026-10-03",
+        "figure": "houses EUR 1,188/m2 (2022, incl. VAT where applicable)"
+      }
+    ],
+    "confidence": "Medium",
+    "proposed_price": 1400,
+    "approved_price": 1400,
+    "currency": "EUR",
+    "vat_included": false,
+    "approved_by": "Leo",
+    "approved_date": "2026-10-03"
+  },
+  "extensions": {
+    "unit": "EUR per m2",
+    "basis": "from",
+    "market_low": 934,
+    "market_typical": 1200,
+    "market_high": 1600,
+    "sources": [
+      {
+        "source": "CYSTAT 2000-2022 cost per m2",
+        "url": "https://library.cystat.gov.cy/NEW/CON-BUILDINGS_COST-A-2000_22-030424.pdf",
+        "source_date": "2024",
+        "accessed": "2026-10-03",
+        "figure": "room additions EUR 934/m2 in 2022"
+      }
+    ],
+    "confidence": "Low",
+    "proposed_price": 1200,
+    "approved_price": 1200,
+    "currency": "EUR",
+    "vat_included": false,
+    "approved_by": "Leo",
+    "approved_date": "2026-10-03"
+  },
+  "structural": {
+    "unit": "EUR per m2 floor area, labour-only concrete frame (formwork, rebar fixing, casting)",
+    "basis": "from",
+    "market_low": 260,
+    "market_typical": 300,
+    "market_high": 380,
+    "sources": [
+      {
+        "source": "architectcyprus.com (Greek unit-rate page)",
+        "url": "https://www.architectcyprus.com/κατασκευή/κόστος-σπίτι-τιμές-μονάδος-κύπρος/",
+        "source_date": "undated",
+        "accessed": "2026-10-02",
+        "figure": "C25-30 EUR 75-90/m3 by element (footings 75-80, slabs/beams 80-85, columns 85-90); C15 blinding 70"
+      },
+      {
+        "source": "dom.com.cy",
+        "url": "https://dom.com.cy/en/live/digest/the-cost-of-construction-in-cyprus-will-increase-by-10-15-/",
+        "source_date": "2025-01-14",
+        "accessed": "2026-10-02",
+        "figure": "ready-mix +EUR 4.1/m3 from Jan 2025 (trend)"
+      },
+      {
+        "source": "architectcyprus.com",
+        "url": "https://www.architectcyprus.com/κατασκευή/κόστος-σπίτι-τιμές-μονάδος-κύπρος/",
+        "source_date": "undated",
+        "accessed": "2026-10-03",
+        "figure": "concrete C25-30 EUR 75-90/m3 by element; formwork slabs 10-14, columns 25 EUR/m2; rebar B500C 0.72 EUR/kg"
+      }
+    ],
+    "confidence": "Low-Medium",
+    "proposed_price": 280,
+    "approved_price": 280,
+    "currency": "EUR",
+    "vat_included": false,
+    "approved_by": "Leo",
+    "approved_date": "2026-10-03"
+  },
+  "full-renovation": {
+    "unit": "EUR per m2 (basic finish)",
+    "basis": "from",
+    "market_low": 300,
+    "market_typical": 800,
+    "market_high": 1500,
+    "sources": [
+      {
+        "source": "ConstruX Cyprus",
+        "url": "https://construx-cyprus.com/apartment-renovation-cyprus",
+        "source_date": "undated",
+        "accessed": "2026-10-02",
+        "figure": "EUR 350-650 / 650-900 / 900-1,400+ per m2"
+      },
+      {
+        "source": "myspace.com.cy",
+        "url": "https://myspace.com.cy/guide-to-renovating-your-property-in-cyprus/",
+        "source_date": "undated",
+        "accessed": "2026-10-02",
+        "figure": "EUR 300-500 / 700-1,200 / over 1,500 per m2"
+      },
+      {
+        "source": "interior-design.green (Chloraka)",
+        "url": "https://interior-design.green/price-for-house-apartment-renovation-in-cyprus/",
+        "source_date": "undated",
+        "accessed": "2026-10-02",
+        "figure": "EUR 649 / 849 / 1,049 per m2"
+      }
+    ],
+    "confidence": "High",
+    "proposed_price": 350,
+    "approved_price": 350,
+    "currency": "EUR",
+    "vat_included": false,
+    "approved_by": "Leo",
+    "approved_date": "2026-10-03"
+  },
+  "bathroom": {
+    "unit": "EUR per standard bathroom (labour + materials, sanitaryware excluded)",
+    "basis": "from",
+    "market_low": 3000,
+    "market_typical": 6000,
+    "market_high": 14000,
+    "sources": [
+      {
+        "source": "ConstruX Cyprus",
+        "url": "https://construx-cyprus.com/bathroom-renovation-cyprus",
+        "source_date": "undated",
+        "accessed": "2026-10-02",
+        "figure": "EUR 3-6k (3-5 m2) / 7-14k (5-8 m2) / 15-30k+"
+      },
+      {
+        "source": "souxeroenan.com",
+        "url": "https://souxeroenan.com/en/categories/renovation/nicosia",
+        "source_date": "undated",
+        "accessed": "2026-10-02",
+        "figure": "basic EUR 2-5k; full EUR 5-12k"
+      },
+      {
+        "source": "spitiko-property.com",
+        "url": "https://spitiko-property.com/cyprus-renovation-value-estimator",
+        "source_date": "2026",
+        "accessed": "2026-10-02",
+        "figure": "luxury bathroom refit EUR 4,000"
+      },
+      {
+        "source": "renovate.cy",
+        "url": "https://renovate.cy/blog/2026/23/why-bathroom-renovation-prices-vary-cyprus",
+        "source_date": "2026-07-28",
+        "accessed": "2026-10-03",
+        "figure": "EUR 3,500-9,500 per room, median about EUR 5,800"
+      }
+    ],
+    "confidence": "Medium",
+    "proposed_price": 4000,
+    "approved_price": 4000,
+    "currency": "EUR",
+    "vat_included": false,
+    "approved_by": "Leo",
+    "approved_date": "2026-10-03"
+  },
+  "kitchen": {
+    "unit": "EUR per kitchen project",
+    "basis": "from",
+    "market_low": 4500,
+    "market_typical": 12500,
+    "market_high": 30000,
+    "sources": [
+      {
+        "source": "ConstruX Cyprus",
+        "url": "https://construx-cyprus.com/kitchen-renovation-cyprus",
+        "source_date": "undated",
+        "accessed": "2026-10-02",
+        "figure": "EUR 5-8k / 10-18k / 20-40k+"
+      },
+      {
+        "source": "souxeroenan.com",
+        "url": "https://souxeroenan.com/en/categories/renovation/nicosia",
+        "source_date": "undated",
+        "accessed": "2026-10-02",
+        "figure": "basic EUR 3-6k; full EUR 8-20k"
+      },
+      {
+        "source": "spitiko-property.com",
+        "url": "https://spitiko-property.com/cyprus-renovation-value-estimator",
+        "source_date": "2026",
+        "accessed": "2026-10-02",
+        "figure": "full kitchen modernisation EUR 10,000"
+      }
+    ],
+    "confidence": "Medium",
+    "proposed_price": 6000,
+    "approved_price": 6000,
+    "currency": "EUR",
+    "vat_included": false,
+    "approved_by": "Leo",
+    "approved_date": "2026-10-03"
+  },
+  "ceilings": {
+    "unit": "EUR per m2 (supply and fix, standard board, metal frame)",
+    "basis": "from",
+    "market_low": 16,
+    "market_typical": 19,
+    "market_high": 21,
+    "sources": [
+      {
+        "source": "myconstructor.gr (GREECE, reference only)",
+        "url": "https://myconstructor.gr/katalogos/gupsosanides/pseudorofi-max-30",
+        "source_date": "undated",
+        "accessed": "2026-10-02",
+        "figure": "from EUR 14.9/m2 + VAT, over 100 m2"
+      },
+      {
+        "source": "douleutaras.com.cy (snippet, HTTP 403)",
+        "url": "https://www.douleutaras.com.cy/bsdir/topothetisi-gypsosanidas/",
+        "source_date": "undated",
+        "accessed": "2026-10-03",
+        "figure": "ceilings 16-21 EUR/m2 + VAT, labour and materials"
+      }
+    ],
+    "confidence": "Low",
+    "proposed_price": 20,
+    "approved_price": 20,
+    "currency": "EUR",
+    "vat_included": false,
+    "approved_by": "Leo",
+    "approved_date": "2026-10-03"
+  },
+  "partitions": {
+    "unit": "EUR per m2 (supply and fix, 1+1 board partition)",
+    "basis": "from",
+    "market_low": 18,
+    "market_typical": 21,
+    "market_high": 28,
+    "sources": [
+      {
+        "source": "douleutaras.com.cy (snippet, HTTP 403)",
+        "url": "https://www.douleutaras.com.cy/bsdir/topothetisi-gypsosanidas/",
+        "source_date": "undated",
+        "accessed": "2026-10-03",
+        "figure": "partition 1+1 18-23, 2+2 23-28 EUR/m2 + VAT"
+      },
+      {
+        "source": "renovator.cy (snippet, DNS failure)",
+        "url": "https://renovator.cy/drywall-construction-repair/",
+        "source_date": "undated",
+        "accessed": "2026-10-03",
+        "figure": "EUR 20-35/m2 incl. materials"
+      }
+    ],
+    "confidence": "Low",
+    "proposed_price": 23,
+    "approved_price": 23,
+    "currency": "EUR",
+    "vat_included": false,
+    "approved_by": "Leo",
+    "approved_date": "2026-10-03"
+  },
+  "painting": {
+    "unit": "EUR per m2 wall area (interior, 2 coats, paint included)",
+    "basis": "from",
+    "market_low": 5,
+    "market_typical": 10,
+    "market_high": 20,
+    "sources": [
+      {
+        "source": "Estatefy",
+        "url": "https://estatefy.com/cyprus/house-painting-in-cyprus-everything-you-need-to-know",
+        "source_date": "2025-06-04",
+        "accessed": "2026-10-02",
+        "figure": "EUR 8-20/m2 (labour)"
+      },
+      {
+        "source": "renovator.cy (snippet)",
+        "url": "https://renovator.cy/cost-guide-painting-services-in-cyprus-2025-edition/",
+        "source_date": "2025",
+        "accessed": "2026-10-02",
+        "figure": "interior EUR 5-12/m2, exterior EUR 8-15/m2"
+      }
+    ],
+    "confidence": "Medium",
+    "proposed_price": 8,
+    "approved_price": 8,
+    "currency": "EUR",
+    "vat_included": false,
+    "approved_by": "Leo",
+    "approved_date": "2026-10-03"
+  },
+  "tiling": {
+    "unit": "EUR per m2 laying (labour, adhesive and grout included; tiles extra)",
+    "basis": "from",
+    "market_low": 14,
+    "market_typical": 22,
+    "market_high": 35,
+    "sources": [
+      {
+        "source": "renovate.cy",
+        "url": "https://renovate.cy/blog/2026/07/bathroom-renovation-cost-cyprus",
+        "source_date": "2026-08-01",
+        "accessed": "2026-10-02",
+        "figure": "labour ceramic EUR 22/m2, stone EUR 32/m2; supply+lay EUR 35-130/m2"
+      },
+      {
+        "source": "souxeroenan.com",
+        "url": "https://souxeroenan.com/en/blog/home-renovation-cost-cyprus",
+        "source_date": "2026-02-10",
+        "accessed": "2026-10-02",
+        "figure": "tiles EUR 25-50/m2 installed"
+      },
+      {
+        "source": "architectcyprus.com",
+        "url": "https://www.architectcyprus.com/κατασκευή/κόστος-σπίτι-τιμές-μονάδος-κύπρος/",
+        "source_date": "undated",
+        "accessed": "2026-10-03",
+        "figure": "ceramic laying 22, wall tiles 25, granite/marble 32 EUR/m2; pool mosaic laying only 35 EUR/m2"
+      }
+    ],
+    "confidence": "Medium-High",
+    "proposed_price": 22,
+    "approved_price": 22,
+    "currency": "EUR",
+    "vat_included": false,
+    "approved_by": "Leo",
+    "approved_date": "2026-10-03"
+  },
+  "waterproofing": {
+    "unit": "EUR per m2 (flat roof cementitious system with mesh and UV finish, supply and apply)",
+    "basis": "from",
+    "market_low": 9,
+    "market_typical": 18,
+    "market_high": 45,
+    "sources": [
+      {
+        "source": "insulationcyprus.com",
+        "url": "https://insulationcyprus.com/waterproofing-in-cyprus/",
+        "source_date": "undated",
+        "accessed": "2026-10-02",
+        "figure": "waterproofing from EUR 8/m2"
+      },
+      {
+        "source": "insulationcyprus.com",
+        "url": "https://insulationcyprus.com/roof-insulation-in-cyprus/",
+        "source_date": "undated",
+        "accessed": "2026-10-02",
+        "figure": "roof thermal insulation EUR 25-40/m2"
+      },
+      {
+        "source": "architectcyprus.com",
+        "url": "https://www.architectcyprus.com/κατασκευή/κόστος-σπίτι-τιμές-μονάδος-κύπρος/",
+        "source_date": "undated",
+        "accessed": "2026-10-03",
+        "figure": "bitumen membrane 4 mm 9 EUR/m2; cementitious with mesh 18; Mapei Idrostop 25"
+      }
+    ],
+    "confidence": "Medium",
+    "proposed_price": 45,
+    "approved_price": 45,
+    "currency": "EUR",
+    "vat_included": false,
+    "approved_by": "Leo",
+    "approved_date": "2026-10-03"
+  },
+  "remote-owner": {
+    "unit": "EUR per month per property (monthly inspection, key holding, photo report)",
+    "basis": "from",
+    "market_low": 30,
+    "market_typical": 85,
+    "market_high": 200,
+    "sources": [
+      {
+        "source": "lonelyhomes.cy",
+        "url": "https://lonelyhomes.cy/property-management-costs-paphos/",
+        "source_date": "undated (2026 guide)",
+        "accessed": "2026-10-02",
+        "figure": "Basic Care from EUR 75/month"
+      },
+      {
+        "source": "index.cy",
+        "url": "https://index.cy/articles/property-management-cyprus-guide/",
+        "source_date": "2026-05-17",
+        "accessed": "2026-10-02",
+        "figure": "inspections EUR 50-150 each"
+      },
+      {
+        "source": "homebutlers.eu",
+        "url": "https://homebutlers.eu/services/homeaway-butler/",
+        "source_date": "2026",
+        "accessed": "2026-10-02",
+        "figure": "from EUR 350/year"
+      },
+      {
+        "source": "cypruspropertyportal.com",
+        "url": "https://www.cypruspropertyportal.com/cyprus-property-maintenance-management/cyprus-property-management-costs-fees/",
+        "source_date": "undated",
+        "accessed": "2026-10-02",
+        "figure": "EUR 50-200/month (rental management)"
+      }
+    ],
+    "confidence": "Medium",
+    "proposed_price": 80,
+    "approved_price": 80,
+    "currency": "EUR",
+    "vat_included": false,
+    "approved_by": "Leo",
+    "approved_date": "2026-10-03"
+  },
+  "repairs": {
+    "unit": "EUR per hour (minimum charge 1 hour)",
+    "basis": "per hour",
+    "market_low": 15,
+    "market_typical": 30,
+    "market_high": 50,
+    "sources": [
+      {
+        "source": "fix.cy",
+        "url": "https://fix.cy/how-much-does-a-handyman-cost-in-cyprus/",
+        "source_date": "2026-02-16",
+        "accessed": "2026-10-02",
+        "figure": "Paphos EUR 25-40/h; call-out EUR 40-80"
+      },
+      {
+        "source": "Estatefy",
+        "url": "https://estatefy.com/cyprus/how-much-does-a-construction-worker-or-handyman-cost-in-cyprus",
+        "source_date": "2025-06-04",
+        "accessed": "2026-10-02",
+        "figure": "call-out EUR 30-60 incl. first hour; then EUR 15-35/h"
+      }
+    ],
+    "confidence": "Medium-High",
+    "proposed_price": 35,
+    "approved_price": 35,
+    "currency": "EUR",
+    "vat_included": false,
+    "approved_by": "Leo",
+    "approved_date": "2026-10-03"
+  },
+  "pool-care": {
+    "unit": "EUR per visit (weekly plan, standard residential pool, chemicals included)",
+    "basis": "per visit",
+    "market_low": 45,
+    "market_typical": 50,
+    "market_high": 60,
+    "sources": [
+      {
+        "source": "poolcleaningcyprus.com (Coral Bay)",
+        "url": "https://poolcleaningcyprus.com",
+        "source_date": "undated",
+        "accessed": "2026-10-02",
+        "figure": "weekly EUR 45/visit, fortnightly EUR 60/visit incl. chemicals"
+      },
+      {
+        "source": "The Pool People",
+        "url": "https://www.thepoolpeople.eu/uncategorized/paphos-pool-maintenance-cost-2026-pricing-guide-for-property-owners/",
+        "source_date": "2026-04-06",
+        "accessed": "2026-10-02",
+        "figure": "8x4 m pool EUR 115-145/month (twice-weekly summer)"
+      }
+    ],
+    "confidence": "Medium",
+    "proposed_price": 50,
+    "approved_price": 50,
+    "currency": "EUR",
+    "vat_included": false,
+    "approved_by": "Leo",
+    "approved_date": "2026-10-03"
+  }
+}
