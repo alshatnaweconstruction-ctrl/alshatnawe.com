@@ -17912,4 +17912,79 @@ Send a photo of the bathroom and its rough dimensions.</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-10-07 13:13:12</last_update>
+    <external_id>AS-REPAIRS</external_id>
+    <status>active</status>
+    <rubric>317</rubric>
+    <district>5713</district>
+    <title>Small home repairs and general maintenance jobs charged by the hour</title>
+    <description>Μικροεπισκευές και συντήρηση σπιτιού με χρέωση ανά ώρα εργασίας
+
+Μια πόρτα που κολλάει, μουχλιασμένη σιλικόνη στο ντους ή ένα ράφι που κουνιέται είναι πολύ μικρή δουλειά για οικοδόμο και πολύ ενοχλητική για να μείνει έτσι.
+Μια επίσκεψη με χρέωση ανά ώρα καλύπτει μια λίστα μικρών εργασιών με τη μία: πόρτες, σιλικόνες, μικρά μπαλώματα σοβά και πλακιδίων, ράφια και αξεσουάρ.
+
+Περιλαμβάνει:
+- Ρύθμιση και επισκευή πορτών
+- Σιλικόνες σε μπάνιο, κουζίνα και κουφώματα
+- Μικρές επιδιορθώσεις σοβά και πλακακιών
+- Τοποθέτηση ραφιών και αξεσουάρ
+- Μικρές εργασίες συντήρησης
+
+Ελάχιστη χρέωση 1 ώρας· τα υλικά χρεώνονται ξεχωριστά.
+
+Για ιδιοκτήτες, ενοικιαστές με τη σύμφωνη γνώμη του ιδιοκτήτη, καταστήματα και διαχειριστές διαμερισμάτων διακοπών.
+Εξυπηρετούμε όλη την Κύπρο. Η διαθεσιμότητα της υπηρεσίας επιβεβαιώνεται ανάλογα με την τοποθεσία του ακινήτου και τις απαιτήσεις του έργου.
+
+Στείλτε τη λίστα με τις εργασίες και φωτογραφίες· υπολογίζουμε τις ώρες, φέρνουμε τα κατάλληλα υλικά και χρεώνουμε τον χρόνο εργασίας.
+Τιμή: €35 ανά ώρα. Οι τιμές δεν περιλαμβάνουν ΦΠΑ. Η τιμή αφορά: χρόνος εργασίας επί τόπου.
+
+Ορισμένες φωτογραφίες είναι υπολογιστικές απεικονίσεις αυτού του τύπου εργασιών.
+
+Γράψτε τις εργασίες σε μια σύντομη λίστα, μία ανά γραμμή.
+
+ENGLISH
+
+Small home repairs and general maintenance jobs charged by the hour
+
+A door that sticks, mouldy silicone round the shower or a loose shelf is too small for a builder and too annoying to leave.
+An hourly visit takes care of a list of small jobs in one go: doors, sealant, small plaster and tile patches, shelves and fittings.
+
+Included:
+- Door adjustment and repair
+- Sealant in bathrooms, kitchens and window frames
+- Small plaster and tile repairs
+- Fitting of shelves and accessories
+- Small maintenance jobs
+
+Minimum charge of 1 hour; materials are charged separately.
+
+For homeowners, tenants with landlord consent, shops and property managers of holiday apartments.
+We serve all of Cyprus. Service availability is confirmed depending on the property location and project requirements.
+
+Send your list of jobs with photos; we estimate the hours, bring the right materials and charge the time spent.
+Price: €35 per hour. Prices exclude VAT. The price covers: labour time on site.
+
+Some photos are computer-generated illustrations of this type of work.
+
+Write the jobs you have in a short list, one per line.</description>
+    <price>35.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/repairs/repairs_silicone_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/repairs/repairs_cover_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/repairs/repairs_crack_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/repairs/repairs_sink_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/repairs/repairs_cabinet_v2.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
