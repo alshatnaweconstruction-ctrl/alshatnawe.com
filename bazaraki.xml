@@ -18063,7 +18063,7 @@ Send the property location and what you would like checked each month.</descript
     <geometry />
   </list-item>
 <list-item>
-    <last_update>2026-10-07 21:11:44</last_update>
+    <last_update>2026-10-08 15:00:00</last_update>
     <external_id>AS-NEW-BUILD</external_id>
     <status>active</status>
     <rubric>3024</rubric>
@@ -18131,6 +18131,156 @@ Message the plot location and the size of the house you have in mind.</descripti
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/new-build/new-build_blockwork_v4.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/new-build/new-build_foundations_v2.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/new-build/new-build_slab_v2.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
+<list-item>
+    <last_update>2026-10-08 15:00:00</last_update>
+    <external_id>AS-WATERPROOFING</external_id>
+    <status>active</status>
+    <rubric>3026</rubric>
+    <district>5713</district>
+    <title>Roof and balcony waterproofing with a cementitious membrane and mesh</title>
+    <description>Στεγανοποίηση ταράτσας και μπαλκονιών με τσιμεντοειδές σύστημα
+
+Μετά την πρώτη δυνατή βροχή, ένας λεκές στο ταβάνι κάτω από την ταράτσα ή το μπαλκόνι σημαίνει συνήθως ότι το νερό περνά από ρωγμές της πλάκας.
+Η επιφάνεια επισκευάζεται και ασταρώνεται και στη συνέχεια σφραγίζεται με τσιμεντοειδές σύστημα με πινέλο, σε δύο στρώσεις με πλέγμα οπλισμού και τελική στρώση προστασίας UV.
+
+Περιλαμβάνει:
+- Καθαρισμός και προετοιμασία επιφάνειας
+- Επισκευή ρωγμών και αστάρι
+- Πρώτη στρώση με πλέγμα οπλισμού
+- Δεύτερη στρώση
+- Τελική στρώση προστασίας UV
+
+Η αφαίρεση παλιών στρώσεων τιμολογείται μετά την αυτοψία.
+
+Για ιδιοκτήτες σπιτιών και διαμερισμάτων με επίπεδη ταράτσα και για ξενοδοχεία με ταράτσες, μπαλκόνια και περιοχές πισίνας.
+Εξυπηρετούμε όλη την Κύπρο. Η διαθεσιμότητα της υπηρεσίας επιβεβαιώνεται ανάλογα με την τοποθεσία του ακινήτου και τις απαιτήσεις του έργου.
+
+Επιθεωρούμε την πλάκα, ελέγχουμε κλίσεις και σιφώνια και δίνουμε τιμή ανά τετραγωνικό μέτρο μόλις ξέρουμε αν πρέπει να αφαιρεθούν παλιές στρώσεις.
+Τιμή: Από €45 ανά μ². Οι τιμές δεν περιλαμβάνουν ΦΠΑ. Η τιμή αφορά: προμήθεια και εφαρμογή ολόκληρου του συστήματος.
+
+Ορισμένες φωτογραφίες είναι υπολογιστικές απεικονίσεις αυτού του τύπου εργασιών.
+
+Στείλτε φωτογραφίες της ταράτσας και των λεκέδων στο ταβάνι από κάτω.
+
+ENGLISH
+
+Roof and balcony waterproofing with a cementitious membrane and mesh
+
+After the first heavy rain, a stain on the ceiling under the roof or balcony usually means water is finding its way through cracks in the slab.
+The surface is repaired and primed, then sealed with a brush-applied cementitious system in two coats with reinforcing mesh and a UV protective finish.
+
+Included:
+- Cleaning and surface preparation
+- Crack repair and primer
+- First coat with reinforcing mesh
+- Second coat
+- UV protective top coat
+
+Removal of old layers is priced after the site visit.
+
+For owners of flat-roofed houses and apartments, and for hotels with roofs, balconies and pool surrounds to protect.
+We serve all of Cyprus. Service availability is confirmed depending on the property location and project requirements.
+
+We inspect the slab, check falls and drains, and quote per square metre once we know whether old layers must come off.
+Price: From €45 per m². Prices exclude VAT. The price covers: supply and apply of the full system.
+
+Some photos are computer-generated illustrations of this type of work.
+
+Send photos of the roof surface and of any stains on the ceiling below.</description>
+    <price>45.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/waterproofing/waterproofing_finished_AI_01.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/waterproofing/waterproofing_cover_AI_01.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/waterproofing/waterproofing_balcony_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/waterproofing/waterproofing_prep_AI_01.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/waterproofing/waterproofing_mesh_AI_01.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
+<list-item>
+    <last_update>2026-10-08 15:00:00</last_update>
+    <external_id>AS-POOL-CARE</external_id>
+    <status>active</status>
+    <rubric>2167</rubric>
+    <district>5713</district>
+    <title>Weekly swimming pool cleaning and maintenance for villas and complexes</title>
+    <description>Εβδομαδιαία συντήρηση πισίνας για βίλες και συγκροτήματα κατοικιών
+
+Το καλοκαίρι στην Κύπρο, μια πισίνα που μένει μία εβδομάδα χωρίς φροντίδα μπορεί να πρασινίσει, και τα λάθος επίπεδα χημικών επιβαρύνουν την αντλία και τους κολυμβητές.
+Μια εβδομαδιαία επίσκεψη καθαρίζει επιφάνεια, πυθμένα, καλάθια και φίλτρο, μετρά και ρυθμίζει το νερό και ελέγχει αντλία και εξοπλισμό.
+
+Περιλαμβάνει:
+- Καθαρισμός επιφάνειας και πυθμένα
+- Καθαρισμός καλαθιών και φίλτρου
+- Μέτρηση και ρύθμιση χημικών
+- Έλεγχος αντλίας και εξοπλισμού
+- Σύντομη αναφορά μετά από κάθε επίσκεψη
+
+Οι επισκευές εξοπλισμού τιμολογούνται ξεχωριστά.
+
+Για ιδιοκτήτες βιλών, ιδιοκτήτες ενοικιαζόμενων κατοικιών διακοπών και συγκροτήματα με κοινόχρηστη πισίνα.
+Εξυπηρετούμε όλη την Κύπρο. Η διαθεσιμότητα της υπηρεσίας επιβεβαιώνεται ανάλογα με την τοποθεσία του ακινήτου και τις απαιτήσεις του έργου.
+
+Βλέπουμε μία φορά την πισίνα και το μηχανοστάσιο, συμφωνούμε την ημέρα της επίσκεψης και αφήνουμε σύντομο σημείωμα μετά από κάθε επίσκεψη.
+Τιμή: €50 ανά επίσκεψη. Οι τιμές δεν περιλαμβάνουν ΦΠΑ. Η τιμή αφορά: τυπική πισίνα κατοικίας με εβδομαδιαίο πρόγραμμα, με τα χημικά.
+
+Ορισμένες φωτογραφίες είναι υπολογιστικές απεικονίσεις αυτού του τύπου εργασιών.
+
+Στείλτε το μέγεθος της πισίνας και την περιοχή του ακινήτου.
+
+ENGLISH
+
+Weekly swimming pool cleaning and maintenance for villas and complexes
+
+In the Cyprus summer, a pool left for a week can turn green, and unbalanced chemicals are hard on the pump and on swimmers.
+A weekly visit cleans the surface, floor, baskets and filter, tests and doses the water, and checks the pump and equipment.
+
+Included:
+- Surface and floor cleaning
+- Basket and filter cleaning
+- Chemical testing and dosing
+- Pump and equipment check
+- Short report after each visit
+
+Equipment repairs are priced separately.
+
+For villa owners, holiday rental owners and residential complexes with a shared pool.
+We serve all of Cyprus. Service availability is confirmed depending on the property location and project requirements.
+
+We see the pool and plant room once, agree the visit day, and leave a short note after each visit.
+Price: €50 per visit. Prices exclude VAT. The price covers: a standard residential pool on a weekly plan, chemicals included.
+
+Some photos are computer-generated illustrations of this type of work.
+
+Send the pool size and the area where the property is.</description>
+    <price>50.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/pool-care/pool-care_skimming_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/pool-care/pool-care_clean_pool_real.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/pool-care/pool-care_brushing_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/pool-care/pool-care_vacuum_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/pool-care/pool-care_skimmer_real.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
