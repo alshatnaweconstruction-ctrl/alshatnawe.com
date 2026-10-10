@@ -18356,4 +18356,79 @@ Send a photo of the space, rough measurements and a picture of the style you lik
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-10-10 18:10:42</last_update>
+    <external_id>AS-CONCRETE-REPAIRS</external_id>
+    <status>active</status>
+    <rubric>3024</rubric>
+    <district>5713</district>
+    <title>Concrete and balcony repairs for spalling and exposed rusted rebar</title>
+    <description>Επισκευές σκυροδέματος και μπαλκονιών με σκουριασμένο εμφανή οπλισμό
+
+Κοντά στη θάλασσα, ο οπλισμός σκουριάζει και διογκώνεται μέσα σε μπαλκόνια και κολόνες, μέχρι η επικάλυψη του σκυροδέματος να ραγίσει και να αποκολληθεί.
+Το σαθρό σκυρόδεμα αφαιρείται, ο οπλισμός καθαρίζεται και προστατεύεται από τη διάβρωση και η διατομή αποκαθίσταται με επισκευαστικό κονίαμα, έτοιμη για βάψιμο.
+
+Περιλαμβάνει:
+- Αφαίρεση σαθρού σκυροδέματος
+- Καθαρισμός και αντιδιαβρωτική προστασία οπλισμού
+- Επισκευαστικό κονίαμα
+- Τελική επιφάνεια έτοιμη για βάψιμο
+- Απομάκρυνση μπάζων
+
+Σε σοβαρές βλάβες απαιτείται γνωμάτευση πολιτικού μηχανικού. Ο στατικός σχεδιασμός δεν περιλαμβάνεται, εκτός αν παρέχεται από τον εγγεγραμμένο μηχανικό του πελάτη.
+
+Για ιδιοκτήτες παραθαλάσσιων διαμερισμάτων, διαχειριστικές επιτροπές πολυκατοικιών και ξενοδοχεία με φθαρμένα μπαλκόνια.
+Εξυπηρετούμε όλη την Κύπρο. Η διαθεσιμότητα της υπηρεσίας επιβεβαιώνεται ανάλογα με την τοποθεσία του ακινήτου και τις απαιτήσεις του έργου.
+
+Ελέγχουμε με κρούση και φωτογραφίζουμε τις φθαρμένες περιοχές, σημειώνουμε τι πρέπει να αφαιρεθεί και δίνουμε προσφορά ανά στοιχείο.
+Από €800 ανά εργασία (για παράδειγμα μια μικρή επισκευή μπαλκονιού ή κολόνας). Οι μεγαλύτερες επισκευές κοστολογούνται με γραπτή προσφορά μετά από επίσκεψη στον χώρο. Οι τιμές δεν περιλαμβάνουν ΦΠΑ.
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+Στείλτε κοντινές φωτογραφίες από τις ρωγμές ή τον εμφανή οπλισμό.
+
+ENGLISH
+
+Concrete and balcony repairs for spalling and exposed rusted rebar
+
+Near the sea, rusting rebar swells inside balconies and columns until the concrete cover cracks and falls away.
+Loose concrete is removed, the rebar is cleaned and treated against corrosion, and the section is rebuilt with repair mortar ready for painting.
+
+Included:
+- Removal of loose concrete
+- Cleaning and anti-corrosion treatment of rebar
+- Repair mortar
+- Final surface ready for painting
+- Debris removal
+
+Serious damage requires an assessment by a civil engineer. Structural design is not included unless provided by the client's registered engineer.
+
+For owners of seafront apartments, building management committees and hotels with spalling balconies.
+We serve all of Cyprus. Service availability is confirmed depending on the property location and project requirements.
+
+We tap-test and photograph the damaged areas, mark what must be broken out, and quote per element.
+From €800 per job (for example a small balcony or column repair). Larger repairs are priced by written quotation after a site visit. Prices exclude VAT.
+
+The photos are illustrative examples of this type of work.
+
+Send close-up photos of the cracks or exposed steel.</description>
+    <price>800.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/concrete-repairs/pexels_27134625.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/concrete-repairs/pexels_38561968.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/concrete-repairs/pexels_10224710.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/concrete-repairs/unsplash_qiHTb1BLM_8.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/concrete-repairs/unsplash___ujqzkLMmI.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
