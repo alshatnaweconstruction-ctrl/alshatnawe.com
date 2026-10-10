@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <root>
   <list-item>
     <last_update>2026-09-29 19:00:00</last_update>
@@ -18281,6 +18281,75 @@ Send the pool size and the area where the property is.</description>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/pool-care/pool-care_brushing_v2.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/pool-care/pool-care_vacuum_v2.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/pool-care/pool-care_skimmer_real.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
+<list-item>
+    <last_update>2026-10-10 13:28:00</last_update>
+    <external_id>AS-JOINERY</external_id>
+    <status>active</status>
+    <rubric>331</rubric>
+    <district>5713</district>
+    <title>Custom carpentry for wardrobes TV units built in cabinets and doors</title>
+    <description>Ξυλουργικές κατασκευές για ντουλάπες έπιπλα TV ντουλάπια και πόρτες
+
+Μια ντουλάπα που δεν ταιριάζει στον χώρο, ένας γυμνός τοίχος τηλεόρασης ή μια πόρτα που κολλάει σπαταλούν χώρο και χαλάνε την εικόνα ενός δωματίου.
+Μετράμε στον χώρο, συμφωνούμε μαζί σας το σχέδιο και το φινίρισμα και τοποθετούμε τις ξυλουργικές κατασκευές ώστε να ταιριάζουν στον χώρο.
+
+Περιλαμβάνει:
+- Μέτρηση στον χώρο
+- Εντοιχισμένες ντουλάπες και ντουλάπια αποθήκευσης
+- Έπιπλα τηλεόρασης και ράφια
+- Τοποθέτηση και ρύθμιση εσωτερικών πορτών
+- Ρύθμιση μεντεσέδων, συρταριών και προσόψεων
+
+Για κατοικίες, διαμερίσματα και καταλύματα διακοπών, καθώς και για ανακαινίσεις όπου διαμορφώνονται πολλά δωμάτια μαζί.
+Εξυπηρετούμε όλη την Κύπρο. Η διαθεσιμότητα της υπηρεσίας επιβεβαιώνεται ανάλογα με την τοποθεσία του ακινήτου και τις απαιτήσεις του έργου.
+
+Τιμή: Από €350 ανά τεμάχιο, για παράδειγμα μία εσωτερική πόρτα με προμήθεια και τοποθέτηση. Τα μεγαλύτερα έργα κοστολογούνται με γραπτή προσφορά μετά από επίσκεψη στον χώρο. Οι τιμές δεν περιλαμβάνουν ΦΠΑ. Η τιμή αφορά: προμήθεια και τοποθέτηση ενός τυποποιημένου τεμαχίου· ειδικά υλικά και φινιρίσματα με προσφορά.
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα ξυλουργικών εργασιών.
+
+Στείλτε μια φωτογραφία του χώρου, πρόχειρες διαστάσεις και μια εικόνα του στυλ που σας αρέσει.
+
+ENGLISH
+
+Custom carpentry for wardrobes TV units built in cabinets and doors
+
+A wardrobe that does not fit the space, a bare TV wall or a door that sticks wastes space and spoils the look of a room.
+We measure on site, agree the design and finish with you and fit the joinery to suit the space.
+
+Included:
+- Measuring on site
+- Built-in wardrobes and storage cabinets
+- TV wall units and shelving
+- Fitting and adjusting interior doors
+- Adjusting hinges, drawers and cabinet fronts
+
+For homes, flats and holiday lets, and for renovations where several rooms are fitted out together.
+We serve all of Cyprus. Service availability is confirmed depending on the property location and project requirements.
+
+Price: From €350 per item, for example one interior door supplied and fitted. Larger projects are priced by written quotation after a site visit. Prices exclude VAT. The price covers: supply and fitting of a standard item; special materials and finishes by quotation.
+
+The photos are illustrative examples of joinery work.
+
+Send a photo of the space, rough measurements and a picture of the style you like.</description>
+    <price>350.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/joinery/unsplash_gH6FkQ7Y1wc.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/joinery/unsplash_6Y3avYzs6os.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/joinery/unsplash_K5JI_wRQqY0.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/joinery/pexels_38934134.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/joinery/pexels_7285920.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
