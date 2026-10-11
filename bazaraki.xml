@@ -18727,4 +18727,79 @@ Tell us the area, the floor area of the property and when you would like the wor
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-10-10 18:45:00</last_update>
+    <external_id>AS-PAINTING</external_id>
+    <status>active</status>
+    <rubric>312</rubric>
+    <district>5713</district>
+    <title>Interior wall painting for homes apartments and rental properties</title>
+    <description>Βάψιμο εσωτερικών τοίχων σε σπίτια, διαμερίσματα και ενοικιαζόμενα ακίνητα
+
+Ρωγμές, σημάδια υγρασίας και ξεθωριασμένο χρώμα κάνουν ακόμη και ένα περιποιημένο σπίτι να δείχνει κουρασμένο, και το χρώμα πάνω σε απροετοίμαστο τοίχο ξεφλουδίζει ξανά μέσα σε μία σεζόν.
+Οι χώροι προστατεύονται, οι τοίχοι στοκάρονται και ασταρώνονται όπου χρειάζεται και βάφονται με δύο στρώσεις.
+
+Περιλαμβάνει:
+- Προστασία δαπέδων και επίπλων
+- Στοκάρισμα και επιδιόρθωση μικρών ρωγμών
+- Αστάρι όπου χρειάζεται
+- Δύο στρώσεις χρώματος
+- Καθαρισμός μετά την εργασία
+
+Οι εξωτερικοί τοίχοι και οι προσόψεις τιμολογούνται μετά από αυτοψία.
+
+Για ιδιοκτήτες, για ιδιοκτήτες που ετοιμάζουν το ακίνητο για νέους ενοικιαστές και για ξενοδοχεία που βάφουν δωμάτια εκτός σεζόν.
+Εξυπηρετούμε όλη την Κύπρο. Η διαθεσιμότητα της υπηρεσίας επιβεβαιώνεται ανάλογα με την τοποθεσία του ακινήτου και τις απαιτήσεις του έργου.
+
+Στείλτε τους χώρους ή τα εμβαδά που θέλετε να βαφτούν· οι εσωτερικοί τοίχοι τιμολογούνται ανά τετραγωνικό μέτρο.
+Από €9 ανά μ² (εσωτερικοί τοίχοι, δύο στρώσεις, με το χρώμα). Τα μεγαλύτερα έργα κοστολογούνται με γραπτή προσφορά μετά από επίσκεψη στον χώρο. Οι τιμές δεν περιλαμβάνουν ΦΠΑ.
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+Πείτε μας πόσα δωμάτια χρειάζονται βάψιμο και αν τα έπιπλα θα μείνουν στη θέση τους.
+
+ENGLISH
+
+Interior wall painting for homes apartments and rental properties
+
+Cracked filler, damp marks and faded colour make even a well-kept home look tired, and paint over unprepared walls peels again within a season.
+Rooms are protected, walls are filled and primed where needed, then finished with two coats of paint.
+
+Included:
+- Protection of floors and furniture
+- Filling and repair of small cracks
+- Primer where needed
+- Two coats of paint
+- Cleaning after the work
+
+Exterior walls and facades are priced after a site visit.
+
+For homeowners, landlords preparing a property for new tenants, and hotels painting rooms outside the season.
+We serve all of Cyprus. Service availability is confirmed depending on the property location and project requirements.
+
+Send the rooms or wall areas to paint; interior walls are priced per square metre.
+From €9 per m² (interior walls, two coats, paint included). Larger projects by written quotation after a site visit. Prices exclude VAT.
+
+The photos are illustrative examples of this type of work.
+
+Tell us how many rooms need painting and whether furniture will stay in place.</description>
+    <price>9.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/painting/pexels_7218579.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/painting/unsplash_rMVjOX8nm2U.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/painting/pexels_5583126.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/painting/pexels_5691694.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/painting/pexels_8239800.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
