@@ -18802,4 +18802,79 @@ Tell us how many rooms need painting and whether furniture will stay in place.</
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-10-11 09:00:00</last_update>
+    <external_id>AS-CLEANING</external_id>
+    <status>active</status>
+    <rubric>2171</rubric>
+    <district>5713</district>
+    <title>Post-construction cleaning after builders and renovation works</title>
+    <description>Καθαρισμός μετά από οικοδομικές εργασίες και ανακαίνιση, από €150 ανά εργασία χωρίς ΦΠΑ
+
+Όταν φύγουν οι μάστορες, μένει παντού λεπτή σκόνη, πιτσιλιές από σοβά και μπογιά, υπολείμματα από αρμόστοκο στα πλακάκια και σημάδια στα τζάμια. Ένας απλός καθαρισμός σπιτιού συνήθως δεν αρκεί.
+Καθαρίζουμε το ακίνητο αφού τελειώσουν οι εργασίες, ώστε να είναι έτοιμο για να μπείτε ή για να το παραδώσετε σε ενοικιαστή.
+
+Τι περιλαμβάνει:
+- Αφαίρεση σκόνης από τοίχους, πόρτες, ντουλάπια, περβάζια και πρίζες
+- Αφαίρεση πιτσιλιών από σοβά και μπογιά από δάπεδα, κουφώματα και τζάμια
+- Καθαρισμός υπολειμμάτων αρμόστοκου και κόλλας από τα πλακάκια
+- Καθαρισμός τζαμιών και κουφωμάτων από μέσα
+- Ηλεκτρική σκούπα και σφουγγάρισμα σε όλα τα δάπεδα
+- Καθαρισμός μπάνιου, κουζίνας και ειδών υγιεινής
+
+Η απομάκρυνση σάκων με μπάζα μπορεί να προστεθεί και κοστολογείται μετά από αυτοψία.
+
+Για ιδιοκτήτες μετά από ανακαίνιση, νέα διαμερίσματα και σπίτια πριν από την παράδοση, ενοικιαζόμενα ακίνητα και εξοχικά.
+Εξυπηρετούμε όλη την Κύπρο. Η διαθεσιμότητα της υπηρεσίας επιβεβαιώνεται ανάλογα με την τοποθεσία του ακινήτου και τις απαιτήσεις του έργου.
+
+Από €150 ανά εργασία (καθαρισμός μετά από οικοδομικές εργασίες σε τυπικό διαμέρισμα). Μεγαλύτερα σπίτια και βίλες με γραπτή προσφορά μετά από αυτοψία. Οι τιμές δεν περιλαμβάνουν ΦΠΑ.
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+Στείλτε μας μερικές φωτογραφίες των χώρων και πείτε μας πόσα δωμάτια και μπάνια έχει το ακίνητο.
+
+ENGLISH
+
+Post-construction and after-renovation cleaning, from €150 per job excl. VAT
+
+When the builders leave, there is fine dust everywhere, plaster and paint splashes, grout residue on the tiles and marks on the glass. A normal house clean is usually not enough.
+We clean the property after the works are finished, so it is ready for you to move in or to hand over to a tenant.
+
+What is included:
+- Dust removed from walls, doors, cupboards, window sills and sockets
+- Plaster and paint splashes removed from floors, frames and glass
+- Grout and adhesive residue cleaned off the tiles
+- Windows and frames cleaned on the inside
+- All floors vacuumed and mopped
+- Bathroom, kitchen and sanitaryware cleaned
+
+Removal of bagged debris can be added and is priced after viewing.
+
+For owners after a renovation, new apartments and houses before handover, rental properties and holiday homes.
+We serve all of Cyprus. Service availability is confirmed depending on the property location and project requirements.
+
+From €150 per job (post-construction clean of a standard apartment). Larger houses and villas by written quotation after viewing. Prices exclude VAT.
+
+The photos are illustrative examples of this type of work.
+
+Send us a few photos of the rooms and tell us how many rooms and bathrooms the property has.</description>
+    <price>150.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/cleaning/cln_pexels_3616746.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/cleaning/cln_pexels_5691681.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/cleaning/cln_pexels_4239091.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/cleaning/cln_pexels_5691702.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/cleaning/cln_pexels_7031621.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
