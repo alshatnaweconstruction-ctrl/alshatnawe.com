@@ -19027,4 +19027,79 @@ Tell us roughly how many square metres the surface is and whether damp already s
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-10-10 19:00:00</last_update>
+    <external_id>AS-KITCHEN</external_id>
+    <status>active</status>
+    <rubric>3028</rubric>
+    <district>5713</district>
+    <title>Kitchen refresh with new cabinet doors and worktop on the same layout</title>
+    <description>Ανανέωση κουζίνας με νέα πορτάκια και πάγκο στην ίδια διάταξη, από €5.000 χωρίς ΦΠΑ
+
+Φουσκωμένα πορτάκια και φθαρμένος πάγκος κάνουν μια κουζίνα να δείχνει παλιά, ακόμη κι όταν τα ντουλάπια από μέσα είναι γερά και η διάταξη βολεύει.
+Κρατάμε την υπάρχουσα διάταξη, αλλάζουμε τα πορτάκια και τον πάγκο εργασίας και τα τοποθετούμε και ρυθμίζουμε στα υπάρχοντα ντουλάπια.
+
+Περιλαμβάνει:
+- Προστασία του χώρου
+- Αφαίρεση παλιών πορτών και πάγκου
+- Νέα πορτάκια ντουλαπιών και χερούλια
+- Νέος πάγκος εργασίας με ανοίγματα για νεροχύτη και εστίες
+- Τοποθέτηση, ρύθμιση και καθαρισμός
+
+Νέα διαρρύθμιση, μετακίνηση σημείων νερού ή ρεύματος και ηλεκτρικές συσκευές δεν περιλαμβάνονται στην τιμή εκκίνησης.
+
+Για ιδιοκτήτες κατοικιών, ιδιοκτήτες ενοικιαζόμενων διαμερισμάτων ανάμεσα σε δύο ενοικιαστές και ξενώνες που θέλουν καινούργια εμφάνιση χωρίς πλήρη ανακατασκευή.
+Εξυπηρετούμε όλη την Κύπρο. Η διαθεσιμότητα της υπηρεσίας επιβεβαιώνεται ανάλογα με την τοποθεσία του ακινήτου και τις απαιτήσεις του έργου.
+
+Μετράμε την κουζίνα επί τόπου, ελέγχουμε την κατάσταση των ντουλαπιών και δίνουμε γραπτή προσφορά με τα υλικά που θα επιλέξετε.
+Από €5.000 για ανανέωση κουζίνας (πορτάκια, πάγκος και τοποθέτηση στην υπάρχουσα διάταξη). Οι εντελώς νέες κουζίνες κοστολογούνται με γραπτή προσφορά μετά από μέτρηση στον χώρο. Οι τιμές δεν περιλαμβάνουν ΦΠΑ.
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+Στείλτε μια φωτογραφία της σημερινής κουζίνας και το μήκος των πάγκων της.
+
+ENGLISH
+
+Kitchen refresh with new doors and worktop on the same layout, from €5,000 excl. VAT
+
+Swollen cabinet doors and a worn worktop make a kitchen look old, even when the cabinets behind them are sound and the layout works.
+We keep the existing layout, replace the doors and the worktop, and fit and adjust them on the existing cabinets.
+
+Included:
+- Protection of the room
+- Removal of the old doors and worktop
+- New cabinet doors and handles
+- New worktop with cut-outs for the sink and hob
+- Fitting, adjustment and cleaning
+
+A new layout, moving water or electrical points, and appliances are not included in the starting price.
+
+For homeowners, landlords between two tenants, and guest houses that want a new look without a full rebuild.
+We serve all of Cyprus. Service availability is confirmed depending on the property location and project requirements.
+
+We measure the kitchen on site, check the condition of the cabinets, and give a written quotation with the materials you choose.
+From €5,000 for a kitchen refresh (doors, worktop and fitting on existing layout). Full new kitchens are priced by written quotation after measuring on site. Prices exclude VAT.
+
+The photos are illustrative examples of this type of work.
+
+Send a photo of the current kitchen and the length of its worktops.</description>
+    <price>5000.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/kitchen/pexels_37357024_edit.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/kitchen/unsplash_UqNEbyRQ660_crop.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/kitchen/pexels_15124970_crop.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/kitchen/pexels_8293686.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/kitchen/unsplash_z3QZ6gjGRt4_crop.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
