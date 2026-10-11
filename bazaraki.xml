@@ -18432,7 +18432,7 @@ Send close-up photos of the cracks or exposed steel.</description>
     <geometry />
   </list-item>
 <list-item>
-    <last_update>2026-10-10 16:15:00</last_update>
+    <last_update>2026-10-11 11:27:12</last_update>
     <external_id>AS-PARTITIONS</external_id>
     <status>active</status>
     <rubric>3028</rubric>
@@ -18491,11 +18491,14 @@ Send the length and height of the new walls and how many doors you need.</descri
     <whatsapp>+35795553931</whatsapp>
     <disallow_chat>0</disallow_chat>
     <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/partitions/part_ai_gemini_01.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/partitions/part_ai_gemini_02.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/partitions/part_ai_gemini_03.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/partitions/part_ai_gemini_04.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/partitions/part_ai_gemini_05.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/partitions/pexels_6474311.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/partitions/unsplash_el9nujeXlvw_crop.jpg</list-item>
       <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/partitions/unsplash_OVsK4XYGA8A_edit.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/partitions/pexels_6474207.jpg</list-item>
-      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/partitions/unsplash_Fxv9QVauyD0_edit.jpg</list-item>
     </images>
     <attrs>
       <language>10,20</language>
