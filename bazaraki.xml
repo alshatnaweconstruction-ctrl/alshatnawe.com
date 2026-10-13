@@ -19253,4 +19253,71 @@ Tell us the location, how many square metres you want to add, and whether the ad
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-10-13 12:00:00</last_update>
+    <external_id>AS-ROOF-INSULATION</external_id>
+    <status>active</status>
+    <rubric>3026</rubric>
+    <district>5713</district>
+    <title>Flat roof thermal insulation with insulation boards for cooler homes</title>
+    <description>Θερμομόνωση ταράτσας με πλάκες μόνωσης, από €30 ανά μ² χωρίς ΦΠΑ
+
+Μια ταράτσα χωρίς μόνωση ζεσταίνει το πάνω πάτωμα το καλοκαίρι και το κρυώνει τον χειμώνα. Με θερμομονωτικές πλάκες το σπίτι κρατά πιο σταθερή θερμοκρασία και μπορεί να μειωθεί το φορτίο του κλιματισμού.
+
+Τι περιλαμβάνει:
+- Έλεγχο της ταράτσας και καθάρισμα της επιφάνειας
+- Προμήθεια και τοποθέτηση θερμομονωτικών πλακών
+- Προστατευτική στρώση τσιμεντοκονίας πάνω από τις πλάκες
+
+Η υπάρχουσα στεγάνωση ελέγχεται πριν από τη μόνωση. Νέα μεμβράνη στεγάνωσης, επισκευές και συστήματα ανεστραμμένης ταράτσας κοστολογούνται μετά από αυτοψία.
+
+Για σπίτια, βίλες και πολυκατοικίες με επίπεδη ταράτσα από 50 μ².
+Εξυπηρετούμε όλη την Κύπρο. Η διαθεσιμότητα της υπηρεσίας επιβεβαιώνεται ανάλογα με την τοποθεσία του ακινήτου και τις απαιτήσεις του έργου.
+
+Από €30 ανά μ² (επίπεδη ταράτσα από 50 μ², θερμομονωτικές πλάκες). Οι τιμές δεν περιλαμβάνουν ΦΠΑ.
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+Στείλτε μας φωτογραφίες της ταράτσας και τα τετραγωνικά της μέτρα.
+
+ENGLISH
+
+Flat roof thermal insulation with insulation boards, from €30 per m² excl. VAT
+
+An uninsulated flat roof heats the top floor in summer and cools it in winter. With insulation boards the home keeps a steadier temperature and the load on the air conditioning can be reduced.
+
+What is included:
+- Roof checked and surface cleaned
+- Thermal insulation boards supplied and laid
+- Protective cement screed layer over the boards
+
+The existing waterproofing is checked before insulating. A new waterproofing membrane, repairs and inverted roof systems are priced after a site visit.
+
+For houses, villas and apartment blocks with a flat roof of 50 m² or more.
+We serve all of Cyprus. Service availability is confirmed depending on the property location and project requirements.
+
+From €30 per m² (flat roof from 50 m², insulation boards). Prices exclude VAT.
+
+The photos are illustrative examples of this type of work.
+
+Send us photos of the roof and its size in square metres.</description>
+    <price>30.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/roof-insulation/pl_cover_4bc908612370.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/roof-insulation/pl_context_5eddf07b41e2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/roof-insulation/pl_detail_9159fb66a5cf.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/roof-insulation/pl_process_1ad4c40277a6.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/roof-insulation/pl_process_cf26dbab893b.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
