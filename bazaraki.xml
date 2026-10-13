@@ -19320,4 +19320,73 @@ Send us photos of the roof and its size in square metres.</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-10-13 12:00:00</last_update>
+    <external_id>AS-WINDOWS</external_id>
+    <status>active</status>
+    <rubric>314</rubric>
+    <district>5713</district>
+    <title>Thermal break aluminium windows and sliding doors supplied and fitted</title>
+    <description>Κουφώματα αλουμινίου με θερμοδιακοπή και συρόμενες πόρτες, προμήθεια και τοποθέτηση, από €300 ανά μ² χωρίς ΦΠΑ
+
+Τα παλιά κουφώματα αφήνουν να μπαίνει ζέστη το καλοκαίρι, κρύο τον χειμώνα, σκόνη και θόρυβος. Τα κουφώματα αλουμινίου με θερμοδιακοπή και διπλά τζάμια κρατούν το σπίτι πιο δροσερό και πιο ήσυχο.
+
+Τι περιλαμβάνει:
+- Μέτρηση των ανοιγμάτων στο ακίνητο
+- Προμήθεια κουφωμάτων αλουμινίου με θερμοδιακοπή και τυπικά διπλά τζάμια
+- Τοποθέτηση, στερέωση και σφράγισμα περιμετρικά
+- Ρύθμιση και έλεγχος λειτουργίας
+
+Η αφαίρεση παλιών κουφωμάτων, τα ειδικά τζάμια (ασφαλείας, ηχομονωτικά) και τα ρολά κοστολογούνται χωριστά.
+
+Για σπίτια, διαμερίσματα, βίλες και ενοικιαζόμενα ακίνητα, σε νέα κατασκευή ή αντικατάσταση.
+Εξυπηρετούμε όλη την Κύπρο. Η διαθεσιμότητα της υπηρεσίας επιβεβαιώνεται ανάλογα με την τοποθεσία του ακινήτου και τις απαιτήσεις του έργου.
+
+Από €300 ανά μ² κουφώματος, ελάχιστο €450 ανά άνοιγμα (αλουμίνιο με θερμοδιακοπή, τυπικά διπλά τζάμια, προμήθεια και τοποθέτηση). Οι τιμές δεν περιλαμβάνουν ΦΠΑ.
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+Στείλτε μας πόσα κουφώματα χρειάζεστε και τις περίπου διαστάσεις τους.
+
+ENGLISH
+
+Thermal break aluminium windows and sliding doors, supplied and fitted, from €300 per m² excl. VAT
+
+Old frames let in heat in summer, cold in winter, dust and noise. Thermal break aluminium frames with double glazing keep the home cooler and quieter.
+
+What is included:
+- Openings measured at the property
+- Thermal break aluminium frames with standard double glazing supplied
+- Frames fitted, fixed and sealed around the edges
+- Adjustment and operation check
+
+Removal of old frames, special glass (safety or acoustic) and roller shutters are priced separately.
+
+For houses, apartments, villas and rental properties, in new builds or as replacements.
+We serve all of Cyprus. Service availability is confirmed depending on the property location and project requirements.
+
+From €300 per m² of frame, minimum €450 per opening (thermal break aluminium, standard double glazing, supplied and fitted). Prices exclude VAT.
+
+The photos are illustrative examples of this type of work.
+
+Send us how many windows and doors you need and their approximate sizes.</description>
+    <price>300.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/windows/win_pexels_5691472.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/windows/win_pexels_8134753.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/windows/win_pexels_28652353.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/windows/win_pexels_9729590.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/windows/win_pexels_9729573.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
