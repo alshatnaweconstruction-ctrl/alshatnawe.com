@@ -19458,4 +19458,75 @@ Send us photos of the walls and the approximate square metres.</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-10-13 12:00:00</last_update>
+    <external_id>AS-STONE-CLADDING</external_id>
+    <status>active</status>
+    <rubric>3024</rubric>
+    <district>5713</district>
+    <title>Natural stone wall cladding for house facades and feature walls</title>
+    <description>Επένδυση τοίχων με φυσική πέτρα για προσόψεις και διακοσμητικούς τοίχους, από €80 ανά μ² χωρίς ΦΠΑ
+
+Η φυσική πέτρα δίνει χαρακτήρα σε μια πρόσοψη, σε έναν τοίχο κήπου ή σε έναν διακοσμητικό τοίχο στο σαλόνι.
+Τοποθετούμε πλάκες φυσικής πέτρας σε επίπεδους, προσβάσιμους τοίχους, με κόλλα και αρμολόγημα.
+
+Τι περιλαμβάνει:
+- Έλεγχο και προετοιμασία της επιφάνειας
+- Προμήθεια και τοποθέτηση πλακών φυσικής πέτρας
+- Κοπές σε γωνίες και ανοίγματα
+- Αρμολόγημα και καθάρισμα στο τέλος
+
+Η ξερολιθιά από ακανόνιστη πέτρα, οι εργασίες με σκαλωσιά και οι αεριζόμενες προσόψεις κοστολογούνται μετά από αυτοψία.
+
+Για σπίτια, βίλες, μάντρες, τοίχους κήπου και εσωτερικούς διακοσμητικούς τοίχους.
+Εξυπηρετούμε όλη την Κύπρο. Η διαθεσιμότητα της υπηρεσίας επιβεβαιώνεται ανάλογα με την τοποθεσία του ακινήτου και τις απαιτήσεις του έργου.
+
+Από €80 ανά μ² (προμήθεια και τοποθέτηση πλακών φυσικής πέτρας σε επίπεδο τοίχο ισογείου). Οι τιμές δεν περιλαμβάνουν ΦΠΑ.
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+Στείλτε μας μια φωτογραφία του τοίχου, τις διαστάσεις του και το στυλ πέτρας που σας αρέσει.
+
+ENGLISH
+
+Natural stone wall cladding, from €80 per m² excl. VAT
+
+Natural stone gives character to a facade, a garden wall or a feature wall in the living room.
+We fix natural stone slabs to flat, accessible walls with adhesive and pointing.
+
+What is included:
+- Wall surface checked and prepared
+- Natural stone slabs supplied and fixed
+- Cuts around corners and openings
+- Pointing and a final clean
+
+Rubble stone walling, work that needs scaffolding and ventilated facades are priced after a site visit.
+
+For houses, villas, boundary walls, garden walls and interior feature walls.
+We serve all of Cyprus. Service availability is confirmed depending on the property location and project requirements.
+
+From €80 per m² (natural stone slabs supplied and fixed on a flat ground-floor wall). Prices exclude VAT.
+
+The photos are illustrative examples of this type of work.
+
+Send us a photo of the wall, its size and the stone style you like.</description>
+    <price>80.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/stone-cladding/sc_pexels_17500796.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/stone-cladding/sc_pexels_35698021.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/stone-cladding/sc_pexels_8454818.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/stone-cladding/sc_pexels_6298581.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/stone-cladding/sc_pexels_35680416.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
