@@ -19529,4 +19529,75 @@ Send us a photo of the wall, its size and the stone style you like.</description
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-10-14 15:00:00</last_update>
+    <external_id>AS-KITCHEN-2</external_id>
+    <status>active</status>
+    <rubric>331</rubric>
+    <district>5713</district>
+    <title>Made to measure kitchen cabinets built and fitted by carpenters</title>
+    <description>Κατασκευή και τοποθέτηση ντουλαπιών κουζίνας στα μέτρα σας, από €5.000 χωρίς ΦΠΑ
+
+Ξυλουργική εργασία για την κουζίνα: ντουλάπια βάσης και κρεμαστά κατασκευασμένα στις διαστάσεις του χώρου σας, με πορτάκια από λάκα, μελαμίνη ή καπλαμά, μηχανισμούς soft-close, συρτάρια και χερούλια της επιλογής σας.
+Η δουλειά γίνεται από ξυλουργούς στο εργαστήριο και η τοποθέτηση στον χώρο σας, με προστασία των δαπέδων και καθαρισμό στο τέλος.
+
+Τι περιλαμβάνει:
+- Μέτρηση στον χώρο και σχέδιο της διάταξης
+- Κατασκευή ντουλαπιών βάσης και κρεμαστών στα μέτρα σας
+- Πορτάκια, συρτάρια, μηχανισμοί και χερούλια
+- Τοποθέτηση, ευθυγράμμιση και ρύθμιση των πορτών
+- Κοπές και ανοίγματα στον πάγκο για νεροχύτη και εστίες
+
+Πάγκοι από χαλαζία ή γρανίτη, ηλεκτρικές συσκευές, υδραυλικά και ηλεκτρολογικά κοστολογούνται χωριστά μετά τη μέτρηση.
+
+Για νέες κατοικίες, ανακαινίσεις, εξοχικά και ενοικιαζόμενα διαμερίσματα σε όλη την Κύπρο. Η διαθεσιμότητα επιβεβαιώνεται ανάλογα με την τοποθεσία και το έργο.
+
+Από €5.000 για μια τυπική κουζίνα σε σχήμα Γ ή σε ευθεία (ντουλάπια, πορτάκια και τοποθέτηση). Η τελική τιμή εξαρτάται από τα μέτρα, τα υλικά και τους μηχανισμούς. Οι τιμές δεν περιλαμβάνουν ΦΠΑ.
+
+Οι φωτογραφίες είναι ενδεικτικές εικόνες από τεχνητή νοημοσύνη και δείχνουν το είδος της εργασίας, όχι ολοκληρωμένα έργα μας.
+
+Στείλτε μας τα μέτρα των τοίχων της κουζίνας ή ένα σκίτσο της διάταξης.
+
+ENGLISH
+
+Made to measure kitchen cabinets built and fitted by carpenters, from €5,000 excl. VAT
+
+Carpentry for the kitchen: base and wall cabinets built to the dimensions of your room, with lacquered, melamine or veneered doors, soft-close hinges, drawers and the handles you choose.
+The units are made by carpenters in the workshop and fitted in your home, with the floors protected and a clean-up at the end.
+
+What is included:
+- Measuring on site and a layout drawing
+- Base and wall cabinets built to your measurements
+- Doors, drawers, hinges and handles
+- Fitting, alignment and adjustment of the doors
+- Cut-outs in the worktop for the sink and hob
+
+Quartz or granite worktops, appliances, plumbing and electrical work are priced separately after measuring.
+
+For new homes, renovations, holiday homes and rental apartments across Cyprus. Availability is confirmed depending on the location and the project.
+
+From €5,000 for a typical L-shaped or straight kitchen (cabinets, doors and fitting). The final price depends on the measurements, materials and mechanisms. Prices exclude VAT.
+
+The photos are AI-generated illustrations of this type of work, not our completed projects.
+
+Send us the wall measurements of the kitchen or a sketch of the layout.</description>
+    <price>5000.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/kitchen/pl_cover_14b2bdd32b97.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/kitchen/pl_cover_e8113ea7a86c.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/kitchen/pl_process_029d8706055c.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/kitchen/pl_detail_f6df51397b1f.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/kitchen/pl_process_b2e207796ca6.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
