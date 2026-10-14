@@ -19600,4 +19600,71 @@ Send us the wall measurements of the kitchen or a sketch of the layout.</descrip
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-10-14 14:00:00</last_update>
+    <external_id>AS-DAMP-REPAIRS-2</external_id>
+    <status>active</status>
+    <rubric>3026</rubric>
+    <district>5713</district>
+    <title>Black mould and condensation on walls, cause found and treated</title>
+    <description>Μαύρη μούχλα και συμπύκνωση στους τοίχους, από €150 ανά δωμάτιο χωρίς ΦΠΑ
+
+Όταν η μούχλα ξαναβγαίνει λίγες εβδομάδες μετά το βάψιμο, το πρόβλημα είναι η υγρασία και όχι το χρώμα. Η συμπύκνωση του χειμώνα σε υπνοδωμάτια και μπάνια, μια αργή διαρροή ή η υγρασία στη βάση του τοίχου θέλουν διαφορετική λύση η καθεμία.
+
+Πώς δουλεύουμε:
+1. Αυτοψία: βλέπουμε τα δωμάτια, εντοπίζουμε από πού έρχεται η υγρασία και σας το γράφουμε (€100, που αφαιρούνται από τις εργασίες αν προχωρήσετε).
+2. Καθαρισμός: αφαιρούμε τη μούχλα και τα χαλαρά χρώματα και περνάμε αντιμυκητιακό υγρό.
+3. Επισκευή: μπαλώνουμε τον σοβά όπου έχει τριφτεί.
+4. Φινίρισμα: αντιμουχλικό χρώμα στην επιφάνεια που καθαρίσαμε.
+
+Διαρροές από ταράτσα ή σωλήνες και η ανερχόμενη υγρασία επισκευάζονται χωριστά, με γραπτή προσφορά μετά την αυτοψία.
+
+Συνηθισμένες περιπτώσεις: βόρεια υπνοδωμάτια, μπάνια χωρίς παράθυρο, ντουλάπες σε εξωτερικούς τοίχους, εξοχικά κλειστά όλο τον χειμώνα, διαμερίσματα που νοικιάζονται.
+
+Τιμή: από €150 ανά τυπικό δωμάτιο. Η τελική τιμή εξαρτάται από την επιφάνεια, την κατάσταση και τις εργασίες που χρειάζονται. Οι τιμές δεν περιλαμβάνουν ΦΠΑ.
+
+Οι φωτογραφίες είναι ενδεικτικές εικόνες από τεχνητή νοημοσύνη και όχι ολοκληρωμένα έργα μας.
+
+Στείλτε μας δύο ή τρεις φωτογραφίες των τοίχων και πόσα δωμάτια έχουν πρόβλημα. Καλύπτουμε όλη την Κύπρο· η διαθεσιμότητα εξαρτάται από την τοποθεσία και το έργο.
+
+ENGLISH
+
+Black mould and condensation on walls, from €150 per room excl. VAT
+
+When mould comes back a few weeks after painting, the problem is moisture, not the paint. Winter condensation in bedrooms and bathrooms, a slow leak or damp at the base of a wall each need a different fix.
+
+How we work:
+1. Survey: we look at the rooms, find where the moisture comes from and put it in writing (€100, credited against the works if you go ahead).
+2. Cleaning: mould and loose paint are removed and an anti-fungal solution is applied.
+3. Repair: crumbling plaster is patched where needed.
+4. Finish: anti-mould paint on the cleaned surface.
+
+Leaks from roofs or pipes and rising damp are repaired separately, by written quotation after the survey.
+
+Typical cases: north-facing bedrooms, bathrooms without a window, wardrobes on outside walls, holiday homes closed all winter, rented flats.
+
+Price: from €150 per standard room. The final price depends on the area, the condition and the work needed. Prices exclude VAT.
+
+The photos are AI-generated illustrations, not completed projects of ours.
+
+Send us two or three photos of the walls and tell us how many rooms are affected. We cover all of Cyprus; availability depends on the location and the project.</description>
+    <price>150.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/damp-repairs/pl_cover_ec7e8979eb58.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/damp-repairs/pl_before_bb6305f42827.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/damp-repairs/pl_process_d02616ba4a20.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/damp-repairs/pl_context_d9decabedc59.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/damp-repairs/pl_context_dc096e7333cf.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
