@@ -155,16 +155,16 @@ Send a photo of the bathroom and its rough dimensions.</description>
     <geometry />
   </list-item>
 <list-item>
-    <last_update>2026-10-07 13:13:12</last_update>
+    <last_update>2026-10-17 09:00:00</last_update>
     <external_id>AS-REPAIRS</external_id>
     <status>active</status>
     <rubric>317</rubric>
     <district>5713</district>
-    <title>Small home repairs and general maintenance jobs charged by the hour</title>
-    <description>Μικροεπισκευές και συντήρηση σπιτιού με χρέωση ανά ώρα εργασίας
+    <title>Small home repairs and maintenance jobs done together in one visit</title>
+    <description>Μικροεπισκευές και συντήρηση σπιτιού: η λίστα σας σε μία επίσκεψη
 
 Μια πόρτα που κολλάει, μουχλιασμένη σιλικόνη στο ντους ή ένα ράφι που κουνιέται είναι πολύ μικρή δουλειά για οικοδόμο και πολύ ενοχλητική για να μείνει έτσι.
-Μια επίσκεψη με χρέωση ανά ώρα καλύπτει μια λίστα μικρών εργασιών με τη μία: πόρτες, σιλικόνες, μικρά μπαλώματα σοβά και πλακιδίων, ράφια και αξεσουάρ.
+Μία επίσκεψη καλύπτει μια λίστα μικρών εργασιών με τη μία: πόρτες, σιλικόνες, μικρά μπαλώματα σοβά και πλακιδίων, ράφια και αξεσουάρ.
 
 Περιλαμβάνει:
 - Ρύθμιση και επισκευή πορτών
@@ -173,13 +173,13 @@ Send a photo of the bathroom and its rough dimensions.</description>
 - Τοποθέτηση ραφιών και αξεσουάρ
 - Μικρές εργασίες συντήρησης
 
-Ελάχιστη χρέωση 1 ώρας· τα υλικά χρεώνονται ξεχωριστά.
+Τα υλικά χρεώνονται ξεχωριστά.
 
 Για ιδιοκτήτες, ενοικιαστές με τη σύμφωνη γνώμη του ιδιοκτήτη, καταστήματα και διαχειριστές διαμερισμάτων διακοπών.
 Εξυπηρετούμε όλη την Κύπρο. Η διαθεσιμότητα της υπηρεσίας επιβεβαιώνεται ανάλογα με την τοποθεσία του ακινήτου και τις απαιτήσεις του έργου.
 
-Στείλτε τη λίστα με τις εργασίες και φωτογραφίες· υπολογίζουμε τις ώρες, φέρνουμε τα κατάλληλα υλικά και χρεώνουμε τον χρόνο εργασίας.
-Τιμή: €35 ανά ώρα. Οι τιμές δεν περιλαμβάνουν ΦΠΑ. Η τιμή αφορά: χρόνος εργασίας επί τόπου.
+Στείλτε τη λίστα με τις εργασίες και φωτογραφίες· σας δίνουμε τιμή για όλη τη λίστα πριν έρθουμε και φέρνουμε τα κατάλληλα υλικά.
+Από €60 ανά επίσκεψη για μια λίστα μικρών εργασιών. Οι τιμές δεν περιλαμβάνουν ΦΠΑ.
 
 Ορισμένες φωτογραφίες είναι υπολογιστικές απεικονίσεις αυτού του τύπου εργασιών.
 
@@ -187,10 +187,10 @@ Send a photo of the bathroom and its rough dimensions.</description>
 
 ENGLISH
 
-Small home repairs and general maintenance jobs charged by the hour
+Small home repairs and maintenance jobs done together in one visit
 
 A door that sticks, mouldy silicone round the shower or a loose shelf is too small for a builder and too annoying to leave.
-An hourly visit takes care of a list of small jobs in one go: doors, sealant, small plaster and tile patches, shelves and fittings.
+One visit takes care of a list of small jobs in one go: doors, sealant, small plaster and tile patches, shelves and fittings.
 
 Included:
 - Door adjustment and repair
@@ -199,18 +199,18 @@ Included:
 - Fitting of shelves and accessories
 - Small maintenance jobs
 
-Minimum charge of 1 hour; materials are charged separately.
+Materials are charged separately.
 
 For homeowners, tenants with landlord consent, shops and property managers of holiday apartments.
 We serve all of Cyprus. Service availability is confirmed depending on the property location and project requirements.
 
-Send your list of jobs with photos; we estimate the hours, bring the right materials and charge the time spent.
-Price: €35 per hour. Prices exclude VAT. The price covers: labour time on site.
+Send your list of jobs with photos; we price the whole list before we come and bring the right materials.
+From €60 per visit for a list of small jobs. Prices exclude VAT.
 
 Some photos are computer-generated illustrations of this type of work.
 
 Write the jobs you have in a short list, one per line.</description>
-    <price>35.00</price>
+    <price>60.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
