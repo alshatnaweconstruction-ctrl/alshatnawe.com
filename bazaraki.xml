@@ -1909,4 +1909,75 @@ Send us two or three photos of the walls and tell us how many rooms are affected
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-10-17 18:00:00</last_update>
+    <external_id>AS-EXTENSIONS-2</external_id>
+    <status>active</status>
+    <rubric>3024</rubric>
+    <district>5713</district>
+    <title>House extensions and extra rooms added to your home from plans</title>
+    <description>Επεκτάσεις κατοικιών και νέα δωμάτια βάσει εγκεκριμένων σχεδίων
+
+Ένα επιπλέον υπνοδωμάτιο, μεγαλύτερο σαλόνι ή νέος όροφος, χωρίς μετακόμιση. Κατασκευάζουμε την προσθήκη σύμφωνα με τα εγκεκριμένα σχέδια και τη συνδέουμε με το υπάρχον σπίτι, με ένα χρονοδιάγραμμα και έναν υπεύθυνο επικοινωνίας.
+
+Τι περιλαμβάνει:
+- Θεμελίωση ισογείου προσθήκης ή προετοιμασία για νέο όροφο
+- Σκελετός και πλάκα από οπλισμένο σκυρόδεμα
+- Ανοίγματα και σύνδεση με τους υπάρχοντες χώρους
+- Τοιχοποιίες, σοβάδες, πλακάκια και χρωματισμοί σε τυπικό φινίρισμα
+
+Δεν περιλαμβάνονται: αρχιτεκτονική μελέτη, άδειες και τέλη, ηλεκτρολογικές και υδραυλικές εργασίες. Η στατική μελέτη δεν περιλαμβάνεται, εκτός αν παρέχεται από τον εγγεγραμμένο μηχανικό του πελάτη.
+
+Για ιδιοκτήτες κατοικιών και βιλών που χρειάζονται περισσότερο χώρο.
+Εξυπηρετούμε όλη την Κύπρο. Η διαθεσιμότητα της υπηρεσίας επιβεβαιώνεται ανάλογα με την τοποθεσία του ακινήτου και τις απαιτήσεις του έργου.
+
+Στείλτε μας τα εγκεκριμένα σχέδια ή την άδεια μαζί με την τοποθεσία και σας στέλνουμε γραπτή προσφορά μετά από επίσκεψη.
+Από €1.200 ανά μ² (τυπικό φινίρισμα). Οι τιμές δεν περιλαμβάνουν ΦΠΑ.
+
+Οι φωτογραφίες είναι εικόνες που δημιουργήθηκαν με υπολογιστή και δείχνουν ενδεικτικά αυτό το είδος εργασιών.
+
+Πείτε μας πόσα τετραγωνικά θέλετε να προσθέσετε και αν είναι στο ισόγειο ή σε νέο όροφο.
+
+ENGLISH
+
+House extensions and extra rooms built from approved plans
+
+An extra bedroom, a larger living room or a new floor, without moving. We build the addition to the approved drawings and connect it to the existing house, with one programme and one point of contact.
+
+What is included:
+- Foundations for a ground-floor addition, or preparation for a new upper floor
+- Reinforced concrete frame and slab
+- Openings and connection to the existing rooms
+- Block walls, plastering, tiling and painting to a standard finish
+
+Not included: architectural design, permits and fees, electrical and plumbing works. Structural design is not included unless provided by the client's registered engineer.
+
+For owners of houses and villas who need more space.
+We serve all of Cyprus. Service availability is confirmed depending on the property location and project requirements.
+
+Send us the approved drawings or the permit with the location, and we send a written quotation after a site visit.
+From €1,200 per m² (standard finish). Prices exclude VAT.
+
+The photos are computer-generated illustrations of this type of work.
+
+Tell us how many square metres you want to add and whether it is on the ground floor or a new floor.</description>
+    <price>1200.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/extensions/pl_cover_4ac008c2a58a.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/extensions/pl_cover_e67eb9841791.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/extensions/pl_process_19eb2b88e3e2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/extensions/pl_context_f8ec0af5d3ec.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/extensions/pl_before_906832247fda.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
