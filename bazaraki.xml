@@ -1980,4 +1980,75 @@ Tell us how many square metres you want to add and whether it is on the ground f
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-10-24 03:15:30</last_update>
+    <external_id>AS-EPOXY-FLOORS</external_id>
+    <status>active</status>
+    <rubric>3028</rubric>
+    <district>5713</district>
+    <title>Epoxy floor coating for garages, workshops and homes, seamless finish</title>
+    <description>Εποξειδική επίστρωση δαπέδων για γκαράζ, εργαστήρια και σπίτια
+
+Ένα σκονισμένο ή λαδωμένο τσιμεντένιο δάπεδο γίνεται λείο, ενιαίο και εύκολο στον καθαρισμό. Προετοιμάζουμε το σκυρόδεμα, περνάμε αστάρι και δύο στρώσεις εποξειδικής βαφής.
+
+Τι περιλαμβάνει:
+- Καθαρισμός και τρίψιμο του δαπέδου
+- Επισκευή μικρών ρωγμών
+- Εποξειδικό αστάρι
+- Δύο στρώσεις εποξειδικής επίστρωσης στο χρώμα της επιλογής σας
+
+Ελάχιστη χρέωση €700 ανά εργασία. Δάπεδα με υγρασία ή σαθρό τσιμέντο κοστολογούνται μετά από αυτοψία. Διακοσμητικά δάπεδα 3D με γραπτή προσφορά.
+
+Για γκαράζ, αποθήκες, εργαστήρια, καταστήματα και σπίτια.
+Εξυπηρετούμε όλη την Κύπρο. Η διαθεσιμότητα της υπηρεσίας επιβεβαιώνεται ανάλογα με την τοποθεσία του ακινήτου και τις απαιτήσεις του έργου.
+
+Στείλτε μας φωτογραφίες του δαπέδου και τα τετραγωνικά.
+Από €30 ανά μ² για επίστρωση δύο στρώσεων σε γερό σκυρόδεμα. Οι τιμές δεν περιλαμβάνουν ΦΠΑ.
+
+Οι φωτογραφίες είναι εικόνες που δημιουργήθηκαν με υπολογιστή και δείχνουν ενδεικτικά αυτό το είδος εργασιών.
+
+Πείτε μας τα τετραγωνικά και τη χρήση του χώρου.
+
+ENGLISH
+
+Epoxy floor coating for garages, workshops and homes
+
+A dusty or oil-stained concrete floor becomes smooth, seamless and easy to clean. We prepare the concrete, apply a primer and two coats of epoxy.
+
+What is included:
+- Cleaning and grinding of the floor
+- Repair of small cracks
+- Epoxy primer
+- Two coats of epoxy coating in the colour you choose
+
+Minimum charge €700 per job. Damp or crumbling concrete is priced after a site visit. Decorative 3D floors by written quotation.
+
+For garages, stores, workshops, shops and homes.
+We serve all of Cyprus. Service availability is confirmed depending on the property location and project requirements.
+
+Send us photos of the floor and the square metres.
+From €30 per m² for a two-coat coating on sound concrete. Prices exclude VAT.
+
+The photos are computer-generated illustrations of this type of work.
+
+Tell us the square metres and how the space is used.</description>
+    <price>30.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/epoxy-floors/pl_cover_0fbf79822c4a.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/epoxy-floors/pl_process_6f8f5f04ad24.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/epoxy-floors/pl_context_7db443ef771a.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/epoxy-floors/pl_before_2812daf646c9.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/epoxy-floors/pl_before_80528261794c.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
