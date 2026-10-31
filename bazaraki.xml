@@ -970,7 +970,7 @@ The photos are illustrative examples of this type of work.</description>
     <geometry />
   </list-item>
 <list-item>
-    <last_update>2026-10-30 22:03:06</last_update>
+    <last_update>2026-10-31 01:03:00</last_update>
     <external_id>AS-TILING</external_id>
     <status>active</status>
     <rubric>3031</rubric>
@@ -978,7 +978,7 @@ The photos are illustrative examples of this type of work.</description>
     <title>Floor and wall tiling in Cyprus, written proposals you can compare</title>
     <description>Πλακάκια δαπέδου και τοίχου στην Κύπρο: περιγράψτε την εργασία μία φορά και συγκρίνετε γραπτές προσφορές.
 
-Τιμή εκκίνησης σε πρόσφατες προσφορές του συνδεδεμένου εργολάβου (βλ. σημείωση παρακάτω): €36,40 ανά m² + ΦΠΑ, για τοποθέτηση με κόλλα και αρμόστοκο. Για επισκευή ή ανακαίνιση ιδιωτικής κατοικίας με τουλάχιστον 3 έτη από την πρώτη κατοίκηση εφαρμόζεται συνήθως ο μειωμένος συντελεστής ΦΠΑ 5%, εφόσον πληρούνται οι προϋποθέσεις του νόμου (€1,82, σύνολο €38,22 ανά m²)· διαφορετικά 19% (€6,92, σύνολο €43,32 ανά m²). Η γραπτή προσφορά αναφέρει ποιος συντελεστής ισχύει. Τα πλακάκια δεν περιλαμβάνονται στην τιμή. Η τελική τιμή δίνεται στη γραπτή προσφορά, αφού περιγραφεί η εργασία.
+Τιμή εκκίνησης σε πρόσφατες προσφορές του συνδεδεμένου εργολάβου (βλ. σημείωση παρακάτω): €22,00 ανά m² + ΦΠΑ, για την εργασία τοποθέτησης. Για επισκευή ή ανακαίνιση ιδιωτικής κατοικίας με τουλάχιστον 3 έτη από την πρώτη κατοίκηση εφαρμόζεται συνήθως ο μειωμένος συντελεστής ΦΠΑ 5%, εφόσον πληρούνται οι προϋποθέσεις του νόμου (€1,10, σύνολο €23,10 ανά m²)· διαφορετικά 19% (€4,18, σύνολο €26,18 ανά m²). Η γραπτή προσφορά αναφέρει ποιος συντελεστής ισχύει. Τα πλακάκια, η κόλλα και ο αρμόστοκος κοστολογούνται χωριστά. Η τελική τιμή δίνεται στη γραπτή προσφορά, αφού περιγραφεί η εργασία.
 
 Πώς λειτουργεί:
 - Στείλτε φωτογραφίες κάθε επιφάνειας, τα τετραγωνικά μέτρα και το μέγεθος των πλακακιών που επιλέξατε.
@@ -996,7 +996,7 @@ ENGLISH
 
 Floor and wall tiling in Cyprus: describe the job once and compare written proposals.
 
-Starting price on recent proposals from the affiliated contractor (see the note below): €36.40 per m² + VAT, for laying with adhesive and grout. For repairs or renovation of a private home first occupied at least three years ago, the reduced VAT rate of 5% usually applies, subject to the conditions of the VAT law (€1.82, total €38.22 per m²); otherwise 19% (€6.92, total €43.32 per m²). The written proposal states which rate applies. Tiles are not included in the price. Your final price is in the written proposal, after the job is described.
+Starting price on recent proposals from the affiliated contractor (see the note below): €22.00 per m² + VAT, for the laying labour. For repairs or renovation of a private home first occupied at least three years ago, the reduced VAT rate of 5% usually applies, subject to the conditions of the VAT law (€1.10, total €23.10 per m²); otherwise 19% (€4.18, total €26.18 per m²). The written proposal states which rate applies. Tiles, adhesive and grout are priced separately. Your final price is in the written proposal, after the job is described.
 
 How it works:
 - Send photos of each surface, the area in m² and the tile size you have chosen.
@@ -1009,7 +1009,7 @@ More: ella-reno.com
 Ella-Reno is operated on an interim basis by VERTEKS S.A. Construction Ltd, which may also submit proposals; they are labelled "affiliated". Ella-Reno itself does not carry out works.
 
 The photos are illustrative examples of this type of work.</description>
-    <price>36.40</price>
+    <price>22.00</price>
     <negotiable_price>1</negotiable_price>
     <exchange>0</exchange>
     <phone_hide>0</phone_hide>
