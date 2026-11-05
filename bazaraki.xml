@@ -2019,4 +2019,65 @@ The photos are illustrative examples of this type of work.</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-10-31 17:33:15</last_update>
+    <external_id>ERAD-GROUNDWORKS</external_id>
+    <status>active</status>
+    <rubric>3024</rubric>
+    <district>5713</district>
+    <title>Machine excavation, site clearance and levelling of plots</title>
+    <description>Εκσκαφές με μηχάνημα στην Κύπρο: περιγράψτε την εκσκαφή μία φορά και συγκρίνετε γραπτές προσφορές από εργολάβους.
+
+Ενδεικτική τιμή εκκίνησης (τιμές αγοράς στην Κύπρο· κάθε εργολάβος ορίζει τη δική του τιμή στην προσφορά): €15,00 ανά m³ εκσκαφής + ΦΠΑ. ΦΠΑ 19% €2,85, σύνολο €17,85 ανά m³ εκσκαφής.
+Η τιμή είναι ανά κυβικό μέτρο εκσκαφής με μηχάνημα σε συνήθες έδαφος, με άπλωμα και ισοπέδωση του χώματος στο οικόπεδο, για θεμέλια κατοικιών, πισίνες και διαμόρφωση οικοπέδου. Σπάσιμο βράχου, μεταφορά και τέλη απόρριψης χωμάτων, καθώς και πλήρωση με σκύρα (θραυστό υλικό λατομείου), κοστολογούνται χωριστά μετά από επίσκεψη στον χώρο.
+
+Τι να μας στείλετε:
+- Φωτογραφίες του οικοπέδου και του δρόμου πρόσβασης.
+- Το μήκος, το πλάτος και το βάθος της εκσκαφής, ή το σχέδιο που τα δείχνει.
+- Αν το χώμα μπορεί να μείνει στο οικόπεδο και αν περιμένετε βράχο.
+Οι εργολάβοι καλούνται να αναφέρουν χωριστά εκσκαφή, μεταφορά χωμάτων και πλήρωση, με ποσό χωρίς ΦΠΑ, ΦΠΑ και σύνολο με ΦΠΑ. Επιλέγετε μία προσφορά, ζητάτε αλλαγές ή τις απορρίπτετε όλες.
+
+Περισσότερα: ella-reno.com
+
+Την Ella-Reno λειτουργεί προσωρινά κατασκευαστική εταιρεία που μπορεί επίσης να υποβάλει προσφορά για το αίτημά σας· οι προσφορές της φέρουν την ένδειξη «συνδεδεμένη». Η ίδια η Ella-Reno δεν εκτελεί εργασίες. Στοιχεία φορέα λειτουργίας: ella-reno.com/terms
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+ENGLISH
+
+Machine excavation in Cyprus: describe the dig once and compare written proposals from contractors.
+
+Indicative starting price (Cyprus market rates; each contractor sets its own price in the proposal): €15.00 per m³ excavated + VAT. VAT 19% €2.85, total €17.85 per m³ excavated.
+The price is per cubic metre excavated by machine in normal soil, with the soil spread and levelled on site, for house footprints, pools and site levelling. Rock breaking, carting away and tipping fees, and crusher-run fill are priced separately after a site visit.
+
+What to send:
+- Photos of the plot and of the access road.
+- The length, width and depth of the dig, or the drawing that shows it.
+- Whether the soil can stay on the plot, and whether you expect rock.
+Contractors are asked to list excavation, carting away and fill separately, with net, VAT and gross. You choose a proposal, ask for changes, or decline them all.
+
+More: ella-reno.com
+
+Ella-Reno is run on an interim basis by a construction company that may also submit a proposal for your request; its proposals are labelled "affiliated". Ella-Reno itself does not carry out works. Operator details: ella-reno.com/terms
+
+The photos are illustrative examples of this type of work.</description>
+    <price>15.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/groundworks/pl_process_cf76d995f2ce.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/groundworks/pl_detail_e1179762bf07.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/groundworks/pl_context_dfdd1b3b100d.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/groundworks/pl_before_4204b370e441.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/groundworks/pl_cover_66c0ad7e9fda.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
