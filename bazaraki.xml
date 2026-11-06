@@ -2507,4 +2507,65 @@ The photos are illustrative examples of this type of work.</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-10-31 17:33:15</last_update>
+    <external_id>ERAD-FULL-RENOVATION</external_id>
+    <status>active</status>
+    <rubric>3028</rubric>
+    <district>5713</district>
+    <title>Apartment and house renovation with a basic finish</title>
+    <description>Ανακαίνιση κατοικίας, βασικό φινίρισμα, στην Κύπρο: περιγράψτε το ακίνητο μία φορά και συγκρίνετε γραπτές προσφορές από εργολάβους.
+
+Ενδεικτική τιμή εκκίνησης (τιμές αγοράς στην Κύπρο· κάθε εργολάβος ορίζει τη δική του τιμή στην προσφορά): €350 ανά m² + ΦΠΑ. Ο ΦΠΑ είναι 19% (€66,50, σύνολο €416,50 ανά m²) ή 5% στο μέρος που πληροί τις προϋποθέσεις για ανακαίνιση ιδιωτικής κατοικίας με τουλάχιστον 3 έτη από την πρώτη κατοίκηση, σύμφωνα με τον νόμο για τον ΦΠΑ (ισχύουν προϋποθέσεις για το μερίδιο των υλικών). Η γραπτή προσφορά δείχνει τον διαχωρισμό.
+Η τιμή είναι ανά τετραγωνικό μέτρο εμβαδού δαπέδου για βασικό φινίρισμα: αποξηλώσεις και απομάκρυνση μπάζων, επισκευές σοβάδων και νέοι εσωτερικοί τοίχοι όπου χρειάζεται, πλακάκια ή δάπεδο laminate τυπικής σειράς, βάψιμο τοίχων και οροφών, συντονισμός των συνεργείων και τελικός καθαρισμός. Κουζίνα, μπάνιο, ηλεκτρολογικές και υδραυλικές εργασίες, συσκευές, έπιπλα και οι άδειες κοστολογούνται χωριστά.
+
+Τι να μας στείλετε:
+- Μια φωτογραφία από κάθε χώρο και το συνολικό εμβαδόν.
+- Μια κάτοψη ή ένα σκίτσο, και τους τοίχους που θέλετε να μετακινηθούν.
+- Το επίπεδο φινιρίσματος που έχετε στο μυαλό σας και πότε πρέπει να είναι έτοιμο το ακίνητο.
+Οι εργολάβοι καλούνται να αναφέρουν χωριστά κάθε στάδιο, με ποσό χωρίς ΦΠΑ, ΦΠΑ και τελικό σύνολο. Επιλέγετε μία προσφορά, ζητάτε αλλαγές ή τις απορρίπτετε όλες.
+
+Περισσότερα: ella-reno.com
+
+Την Ella-Reno λειτουργεί προσωρινά κατασκευαστική εταιρεία που μπορεί επίσης να υποβάλει προσφορά για το αίτημά σας· οι προσφορές της φέρουν την ένδειξη «συνδεδεμένη». Η ίδια η Ella-Reno δεν εκτελεί εργασίες. Στοιχεία φορέα λειτουργίας: ella-reno.com/terms
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+ENGLISH
+
+Home renovation, basic finish, in Cyprus: describe the property once and compare written proposals from contractors.
+
+Indicative starting price (Cyprus market rates; each contractor sets its own price in the proposal): €350 per m² + VAT. VAT is 19% (€66.50, total €416.50 per m²), or 5% on the part that qualifies for renovation of a private home first occupied at least three years ago, subject to the conditions of the VAT law (conditions on the share of materials apply). The written proposal shows the split.
+The price is per square metre of floor area for a basic finish: strip-out and debris removal, plaster repairs and new internal walls where needed, standard tiles or laminate flooring, painting of walls and ceilings, coordination of the trades and a final clean. Kitchen, bathroom, electrical and plumbing works, appliances, furniture and permits are priced separately.
+
+What to send:
+- A photo of each room and the total floor area.
+- A floor plan or sketch, and any walls you want to move.
+- The finish level you have in mind and when the property must be ready.
+Contractors are asked to list every stage separately, with net, VAT and gross. You choose a proposal, ask for changes, or decline them all.
+
+More: ella-reno.com
+
+Ella-Reno is run on an interim basis by a construction company that may also submit a proposal for your request; its proposals are labelled "affiliated". Ella-Reno itself does not carry out works. Operator details: ella-reno.com/terms
+
+The photos are illustrative examples of this type of work.</description>
+    <price>350.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/full-renovation/pl_cover_a91056cbb82a.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/full-renovation/pl_context_1e357d1c3c99.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/full-renovation/pl_process_34a11ef8492d.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/full-renovation/pl_before_a37f5e5c3b46.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/full-renovation/pl_cover_bb7f4d419673.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
