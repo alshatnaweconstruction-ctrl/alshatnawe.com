@@ -1,0 +1,32 @@
+name: Feature request
+description: Suggest a new capability or an improvement
+title: "feat: "
+labels: ["type: feature"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What is hard or missing today, and for whom.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: What should change. Keep facts and numbers sourced.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Done when
+      description: How we will know it works (tests, checks, a visible result).
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      options:
+        - "P1: important"
+        - "P2: normal"
+        - "P3: nice to have"
