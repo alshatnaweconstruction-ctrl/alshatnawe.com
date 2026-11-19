@@ -3381,4 +3381,61 @@ The photos are illustrative examples of this type of work.</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-11-17 12:00:00</last_update>
+    <external_id>ERAD-REPAIRS</external_id>
+    <status>active</status>
+    <rubric>317</rubric>
+    <district>5713</district>
+    <title>Handyman repairs for small fixes and maintenance</title>
+    <description>Μικροεπισκευές και χειρωνακτικές εργασίες στην Κύπρο: στείλτε τη λίστα σας και λάβετε γραπτές προσφορές.
+
+Ενδεικτική τιμή εκκίνησης (τιμές αγοράς στην Κύπρο): €60 ανά επίσκεψη (λίστα μικρών εργασιών σε μία επίσκεψη, υλικά επιπλέον) + ΦΠΑ. ΦΠΑ 19%% (€11.40, σύνολο €71.40 ανά επίσκεψη (λίστα μικρών εργασιών σε μία επίσκεψη, υλικά επιπλέον)).
+Η τιμή αφορά μία επίσκεψη: σφιξίματα, επισκευή σιλικόνης, μικρές ρωγμές, πρόβλημα βρύσης ή ντουλαπιού. Τα υλικά κοστολογούνται χωριστά βάσει τιμοκαταλόγου.
+
+Τι να μας στείλετε:
+- Λίστα όλων των μικροπροβλημάτων με φωτογραφίες.
+- Την τοποθεσία του ακινήτου.
+- Αν υπάρχουν ηλεκτρολογικά ή υδραυλικά προβλήματα.
+- Πότε χρειάζεστε την επίσκεψη.
+
+Την Ella-Reno λειτουργεί προσωρινά κατασκευαστική εταιρεία που μπορεί επίσης να υποβάλει προσφορά για το αίτημά σας· οι προσφορές της φέρουν την ένδειξη «συνδεδεμένη». Η ίδια η Ella-Reno δεν εκτελεί εργασίες. Στοιχεία φορέα λειτουργίας: available on request
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+ENGLISH
+
+Handyman repairs in Cyprus: send your list and receive written proposals.
+
+Indicative starting price (Cyprus market rates): €60 per visit (list of small jobs done in one visit; materials extra) + VAT. VAT 19%% (€11.40, total €71.40 per visit (list of small jobs done in one visit; materials extra)).
+The price covers one visit with a list of small tasks: tightenings, silicone repair, minor cracks, tap or cabinet fixes. Materials are priced separately.
+
+What to send:
+- A list of all issues with photos.
+- Property location.
+- Whether any electrical or plumbing faults are on the list.
+- When you need the visit.
+
+Ella-Reno is run on an interim basis by a construction company that may also submit a proposal for your request; its proposals are labelled "affiliated". Ella-Reno itself does not carry out works. Operator details: available on request
+
+The photos are illustrative examples of this type of work.</description>
+    <price>60.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/repairs/repairs_cover_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/repairs/repairs_silicone_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/repairs/repairs_crack_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/repairs/repairs_sink_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/repairs/repairs_cabinet_v2.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
