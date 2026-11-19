@@ -3495,4 +3495,63 @@ The photos are illustrative examples of this type of work.</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-11-17 12:00:00</last_update>
+    <external_id>ERAD-TILING</external_id>
+    <status>active</status>
+    <rubric>3031</rubric>
+    <district>5713</district>
+    <title>Floor and wall tile laying labour adhesive and grout</title>
+    <description>Τοποθέτηση πλακιδίων στην Κύπρο: περιγράψτε τους χώρους μία φορά και συγκρίνετε γραπτές προσφορές.
+
+Ενδεικτική τιμή εκκίνησης (τιμές αγοράς στην Κύπρο): €22 ανά m² τοποθέτηση (εργασία, κόλλα και αρμόστοκος· πλακίδια χωριστά) + ΦΠΑ. Για επισκευή ή ανακαίνιση ιδιωτικής κατοικίας με τουλάχιστον 3 έτη από την πρώτη κατοίκηση εφαρμόζεται συνήθως ο μειωμένος συντελεστής ΦΠΑ 5%%, εφόσον πληρούνται οι προϋποθέσεις του νόμου (€1.10, σύνολο €23.10 ανά m² τοποθέτηση (εργασία, κόλλα και αρμόστοκος· πλακίδια χωριστά))· διαφορετικά 19%% (€4.18, σύνολο €26.18 ανά m² τοποθέτηση (εργασία, κόλλα και αρμόστοκος· πλακίδια χωριστά)). Η γραπτή προσφορά αναφέρει ποιος συντελεστής ισχύει.
+Η τιμή αφορά εργασία τοποθέτησης κεραμικών πλακιδίων, κόλλα και αρμόστοκο. Πλακίδια, υπόστρωση δαπέδου και ξήλωμα παλιών πλακιδίων κοστολογούνται χωριστά.
+
+Τι να μας στείλετε:
+- Φωτογραφίες των χώρων.
+- Εμβαδόν κάθε χώρου.
+- Αν απαιτείται ξήλωμα υπαρχόντων πλακιδίων.
+- Τύπος πλακιδίου (κεραμικό, πορσελάνη, τοίχου).
+- Διαστάσεις πλακιδίου αν γνωρίζετε.
+
+Την Ella-Reno λειτουργεί προσωρινά κατασκευαστική εταιρεία που μπορεί επίσης να υποβάλει προσφορά για το αίτημά σας· οι προσφορές της φέρουν την ένδειξη «συνδεδεμένη». Η ίδια η Ella-Reno δεν εκτελεί εργασίες. Στοιχεία φορέα λειτουργίας: available on request
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+ENGLISH
+
+Tile laying in Cyprus: describe the spaces once and compare written proposals.
+
+Indicative starting price (Cyprus market rates): €22 per m² laying (labour, adhesive and grout; tiles extra) + VAT. For repairs or renovation of a private home first occupied at least three years ago, the reduced VAT rate of 5%%%% usually applies, subject to the conditions of the VAT law (€1.10, total €23.10 per m² laying (labour, adhesive and grout; tiles extra)); otherwise 19%% (€4.18, total €26.18 per m² laying (labour, adhesive and grout; tiles extra)). The written proposal states which rate applies.
+The price covers tile-laying labour, adhesive and grout. Tiles, floor screed and removal of existing tiles are priced separately.
+
+What to send:
+- Photos of the spaces.
+- Floor area of each space to be tiled.
+- Whether removal of existing tiles is needed.
+- Type of tile (ceramic, porcelain, wall tile).
+- Tile dimensions if already known.
+
+Ella-Reno is run on an interim basis by a construction company that may also submit a proposal for your request; its proposals are labelled "affiliated". Ella-Reno itself does not carry out works. Operator details: available on request
+
+The photos are illustrative examples of this type of work.</description>
+    <price>22.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/tiling/pexels_11806490.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/tiling/pexels_29181495.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/tiling/unsplash_LyQi9DS7AEg.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/tiling/unsplash_cB18uhhf43s.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/tiling/unsplash_v9oBtvRCKHk.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
