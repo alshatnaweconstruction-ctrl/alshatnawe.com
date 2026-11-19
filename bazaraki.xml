@@ -3672,4 +3672,61 @@ The photos are illustrative examples of this type of work.</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-11-17 12:00:00</last_update>
+    <external_id>ERAD-EXTENSIONS</external_id>
+    <status>active</status>
+    <rubric>3024</rubric>
+    <district>5713</district>
+    <title>Building extensions and room additions</title>
+    <description>Επεκτάσεις κτηρίων στην Κύπρο: περιγράψτε τι θέλετε να προσθέσετε μία φορά και συγκρίνετε γραπτές προσφορές.
+
+Ενδεικτική τιμή εκκίνησης (τιμές αγοράς στην Κύπρο): €1.200 ανά m² δομημένης επιφάνειας + ΦΠΑ. ΦΠΑ 19%% (€228.00, σύνολο €1428.00 ανά m² δομημένης επιφάνειας).
+Η τιμή αφορά τυπική επέκταση ισογείου με οπλισμένο σκυρόδεμα και τελικές επιφάνειες. Δεν περιλαμβάνει αδειοδότηση ή σύνδεση υπηρεσιών.
+
+Τι να μας στείλετε:
+- Φωτογραφίες της υπάρχουσας κατάστασης.
+- Σκίτσο ή διαστάσεις του νέου χώρου.
+- Αν υπάρχει ήδη άδεια οικοδομής ή αν χρειάζεται να εκδοθεί.
+- Τον επιθυμητό χρόνο έναρξης.
+
+Την Ella-Reno λειτουργεί προσωρινά κατασκευαστική εταιρεία που μπορεί επίσης να υποβάλει προσφορά για το αίτημά σας· οι προσφορές της φέρουν την ένδειξη «συνδεδεμένη». Η ίδια η Ella-Reno δεν εκτελεί εργασίες. Στοιχεία φορέα λειτουργίας: available on request
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+ENGLISH
+
+Building extensions in Cyprus: describe what you want to add once and compare written proposals.
+
+Indicative starting price (Cyprus market rates): €1,200 per m² of built area + VAT. VAT 19%% (€0.23, total €1.43 per m² of built area).
+The price covers a typical ground-floor extension in reinforced concrete with standard finishes. It does not include planning permits or utility connections.
+
+What to send:
+- Photos of the existing area.
+- A sketch or dimensions of the proposed new space.
+- Whether a building permit already exists or needs to be obtained.
+- Your target start date.
+
+Ella-Reno is run on an interim basis by a construction company that may also submit a proposal for your request; its proposals are labelled "affiliated". Ella-Reno itself does not carry out works. Operator details: available on request
+
+The photos are illustrative examples of this type of work.</description>
+    <price>1200.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/extensions/pexels_4692281_edit.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/extensions/pexels_8491085.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/extensions/pexels_4567376_edit.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/extensions/unsplash_SV_9qWNh0Es_edit.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/extensions/pexels_34784665.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
