@@ -3438,4 +3438,61 @@ The photos are illustrative examples of this type of work.</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-11-17 12:00:00</last_update>
+    <external_id>ERAD-ROOF-INSULATION</external_id>
+    <status>active</status>
+    <rubric>3026</rubric>
+    <district>5713</district>
+    <title>Flat roof thermal insulation boards and protective layer</title>
+    <description>Θερμομόνωση επίπεδης στέγης στην Κύπρο: περιγράψτε την ταράτσα σας μία φορά και συγκρίνετε γραπτές προσφορές.
+
+Ενδεικτική τιμή εκκίνησης (τιμές αγοράς στην Κύπρο): €30 ανά m² (πλάκες θερμομόνωσης με προστατευτικό στρώμα· ταράτσες από 50 m²) + ΦΠΑ. Για επισκευή ή ανακαίνιση ιδιωτικής κατοικίας με τουλάχιστον 3 έτη από την πρώτη κατοίκηση εφαρμόζεται συνήθως ο μειωμένος συντελεστής ΦΠΑ 5%%, εφόσον πληρούνται οι προϋποθέσεις του νόμου (€1.50, σύνολο €31.50 ανά m² (πλάκες θερμομόνωσης με προστατευτικό στρώμα· ταράτσες από 50 m²))· διαφορετικά 19%% (€5.70, σύνολο €35.70 ανά m² (πλάκες θερμομόνωσης με προστατευτικό στρώμα· ταράτσες από 50 m²)). Η γραπτή προσφορά αναφέρει ποιος συντελεστής ισχύει.
+Η τιμή αφορά τοποθέτηση πλακών XPS/EPS 50 mm με προστατευτικό στρώμα. Αδιαβροχοποίηση δεν περιλαμβάνεται — δείτε ξεχωριστή αγγελία για στεγανοποίηση.
+
+Τι να μας στείλετε:
+- Φωτογραφίες της ταράτσας (εσωτερικά ίχνη υγρασίας αν υπάρχουν).
+- Συνολική επιφάνεια σε m².
+- Αν υπάρχει ήδη στρώμα αδιαβροχοποίησης ή μόνωσης.
+- Αν χρειάζεται απομάκρυνση παλιού υλικού.
+
+Την Ella-Reno λειτουργεί προσωρινά κατασκευαστική εταιρεία που μπορεί επίσης να υποβάλει προσφορά για το αίτημά σας· οι προσφορές της φέρουν την ένδειξη «συνδεδεμένη». Η ίδια η Ella-Reno δεν εκτελεί εργασίες. Στοιχεία φορέα λειτουργίας: available on request
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+ENGLISH
+
+Flat roof thermal insulation in Cyprus: describe your roof once and compare written proposals.
+
+Indicative starting price (Cyprus market rates): €30 per m² (thermal insulation boards with protective layer; roofs from 50 m²) + VAT. For repairs or renovation of a private home first occupied at least three years ago, the reduced VAT rate of 5%%%% usually applies, subject to the conditions of the VAT law (€1.50, total €31.50 per m² (thermal insulation boards with protective layer; roofs from 50 m²)); otherwise 19%% (€5.70, total €35.70 per m² (thermal insulation boards with protective layer; roofs from 50 m²)). The written proposal states which rate applies.
+The price covers installation of XPS/EPS 50 mm boards with a protective layer. Waterproofing is not included — see the separate waterproofing ad.
+
+What to send:
+- Photos of the roof (any internal damp marks if present).
+- Total roof area in m².
+- Whether an existing waterproofing or insulation layer is in place.
+- Whether removal of old material is required.
+
+Ella-Reno is run on an interim basis by a construction company that may also submit a proposal for your request; its proposals are labelled "affiliated". Ella-Reno itself does not carry out works. Operator details: available on request
+
+The photos are illustrative examples of this type of work.</description>
+    <price>30.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/roof-insulation/pl_cover_4bc908612370.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/roof-insulation/pl_context_5eddf07b41e2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/roof-insulation/pl_detail_9159fb66a5cf.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/roof-insulation/pl_process_1ad4c40277a6.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/roof-insulation/pl_process_cf26dbab893b.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
