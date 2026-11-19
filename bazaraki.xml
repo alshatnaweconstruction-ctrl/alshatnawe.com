@@ -2829,4 +2829,51 @@ The photos are illustrative examples of this type of work.</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-11-17 12:00:00</last_update>
+    <external_id>ERAD-STONE-CLADDING</external_id>
+    <status>active</status>
+    <rubric>3024</rubric>
+    <district>5713</district>
+    <title>Decorative stone panels fixed to interior and exterior walls</title>
+    <description>Τοποθέτηση λίθινης επένδυσης σε εσωτερικές και εξωτερικές επιφάνειες — φυσική πέτρα Κύπρου, τεχνητός λίθος ή εισαγόμενο μάρμαρο (κατόπιν ζήτησης).
+
+Τιμή εκκίνησης: €80 ανά m² (φυσική πέτρα, προμήθεια + τοποθέτηση). ΦΠΑ 5%% (μειωμένος) για επιλέξιμες κατοικίες — επιβεβαιώνεται στην εκτίμηση.
+
+Ella-Reno: στείλτε φωτογραφίες τοίχου — λαμβάνετε γραπτή εκτίμηση από εγγεγραμμένο συνεργάτη.
+
+Για εκτίμηση χρειαζόμαστε: φωτογραφίες, εμβαδόν (m²), εσωτερικό ή εξωτερικό, τύπος πέτρας αν έχει επιλεγεί.
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+ENGLISH
+
+Ella-Reno stone cladding service — Cyprus.
+
+Wall stone installation: natural Cyprus stone, manufactured stone, or imported marble — interior or exterior surfaces.
+
+Starting rate: €80 per m² (natural stone, supplied and fixed). Reduced VAT (5%%) available on qualifying homes; confirmed in the written estimate.
+
+To request a quote: send wall photos, total area in m², interior or exterior, and stone type if already chosen.
+
+The photos are illustrative examples of this type of work.</description>
+    <price>80.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/stone-cladding/sc_ai_01.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/stone-cladding/sc_ai_02.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/stone-cladding/sc_ai_03.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/stone-cladding/sc_ai_04.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/stone-cladding/sc_ai_05.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
