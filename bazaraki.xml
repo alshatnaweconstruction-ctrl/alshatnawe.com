@@ -2982,4 +2982,61 @@ The photos are illustrative examples of this type of work.</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-11-17 12:00:00</last_update>
+    <external_id>ERAD-PLASTERING</external_id>
+    <status>active</status>
+    <rubric>3028</rubric>
+    <district>5713</district>
+    <title>Gypsum skim coat plastering ready to paint</title>
+    <description>Γυψαλοιφή τοίχων στην Κύπρο: περιγράψτε τους χώρους μία φορά και συγκρίνετε γραπτές προσφορές.
+
+Ενδεικτική τιμή εκκίνησης (τιμές αγοράς στην Κύπρο): €14 ανά m² (γυψαλοιφή σε υπάρχοντες τοίχους έτοιμους για βαφή· ελάχιστο έργο €300) + ΦΠΑ. Για επισκευή ή ανακαίνιση ιδιωτικής κατοικίας με τουλάχιστον 3 έτη από την πρώτη κατοίκηση εφαρμόζεται συνήθως ο μειωμένος συντελεστής ΦΠΑ 5%%, εφόσον πληρούνται οι προϋποθέσεις του νόμου (€0,70, σύνολο €14,70 ανά m²)· διαφορετικά 19%% (€2,66, σύνολο €16,66 ανά m²). Η γραπτή προσφορά αναφέρει ποιος συντελεστής ισχύει.
+Η τιμή αφορά γυψαλοιφή (skim coat) σε ήδη σοβατισμένους τοίχους. Πλήρης τσιμεντοσοβάς, αποκατάσταση ζημιών και βαφή κοστολογούνται χωριστά.
+
+Τι να μας στείλετε:
+- Φωτογραφίες των τοίχων.
+- Εμβαδόν τοίχων ή αριθμός χώρων.
+- Αν υπάρχουν ρωγμές ή βαθύτερες βλάβες.
+- Αν η βαφή συμπεριλαμβάνεται.
+
+Την Ella-Reno λειτουργεί προσωρινά κατασκευαστική εταιρεία που μπορεί επίσης να υποβάλει προσφορά για το αίτημά σας· οι προσφορές της φέρουν την ένδειξη «συνδεδεμένη». Η ίδια η Ella-Reno δεν εκτελεί εργασίες. Στοιχεία φορέα λειτουργίας: available on request
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+ENGLISH
+
+Gypsum skim coat plastering in Cyprus: describe the spaces once and compare written proposals.
+
+Indicative starting price (Cyprus market rates): â‚¬14 per mÂ² (skim coat on existing walls ready to paint; minimum job â‚¬300) + VAT. For repairs or renovation of a private home first occupied at least three years ago, the reduced VAT rate of 5%%%% usually applies, subject to the conditions of the VAT law (â‚¬0.70, total â‚¬14.70 per mÂ² (skim coat on existing walls ready to paint; minimum job â‚¬300)); otherwise 19%% (â‚¬2.66, total â‚¬16.66 per mÂ² (skim coat on existing walls ready to paint; minimum job â‚¬300)). The written proposal states which rate applies.
+The price covers a gypsum skim coat on already-rendered walls. Full sand-and-cement render, crack repairs and painting are priced separately.
+
+What to send:
+- Photos of the walls that need work.
+- Wall area or number of rooms.
+- Whether cracks or deeper damage require repair first.
+- Whether painting is included in your request.
+
+Ella-Reno is run on an interim basis by a construction company that may also submit a proposal for your request; its proposals are labelled "affiliated". Ella-Reno itself does not carry out works. Operator details: available on request
+
+The photos are illustrative examples of this type of work.</description>
+    <price>14.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/plastering/pl_pexels_6474348.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/plastering/pl_pexels_5691596.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/plastering/pl_pexels_5691606.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/plastering/pl_pexels_5691637.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/plastering/pl_pexels_7941435.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
