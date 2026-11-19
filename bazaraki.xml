@@ -3153,4 +3153,61 @@ The photos are illustrative examples of this type of work.</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-11-17 12:00:00</last_update>
+    <external_id>ERAD-NEW-BUILD</external_id>
+    <status>active</status>
+    <rubric>3024</rubric>
+    <district>5713</district>
+    <title>New house and building construction in Cyprus</title>
+    <description>Νέα κατασκευή κτηρίου στην Κύπρο: περιγράψτε το έργο σας μία φορά και συγκρίνετε γραπτές προσφορές.
+
+Ενδεικτική τιμή εκκίνησης (τιμές αγοράς στην Κύπρο): €1.800 ανά m² δομημένης επιφάνειας (turnkey, τυπική διαμόρφωση, χωρίς οικόπεδο) + ΦΠΑ. ΦΠΑ 19%% (€342.00, σύνολο €2142.00 ανά m² δομημένης επιφάνειας (turnkey, τυπική διαμόρφωση, χωρίς οικόπεδο)).
+Η τιμή αφορά τυπική κατοικία με οπλισμένο σκελετό, τοιχοποιία, σοβάτισμα και τελικές επιφάνειες. Δεν περιλαμβάνει οικόπεδο, αδειοδότηση ή σύνδεση υπηρεσιών.
+
+Τι να μας στείλετε:
+- Αρχιτεκτονικά σχέδια ή σκίτσο με διαστάσεις.
+- Αριθμός ορόφων και συνολικά m².
+- Αν υπάρχει ήδη άδεια οικοδομής.
+- Τον επιθυμητό χρόνο έναρξης κατασκευής.
+
+Την Ella-Reno λειτουργεί προσωρινά κατασκευαστική εταιρεία που μπορεί επίσης να υποβάλει προσφορά για το αίτημά σας· οι προσφορές της φέρουν την ένδειξη «συνδεδεμένη». Η ίδια η Ella-Reno δεν εκτελεί εργασίες. Στοιχεία φορέα λειτουργίας: available on request
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+ENGLISH
+
+New building construction in Cyprus: describe your project once and compare written proposals.
+
+Indicative starting price (Cyprus market rates): €1,800 per m² of built area (turnkey, standard finish, excluding land) + VAT. VAT 19%% (€0.34, total €2.14 per m² of built area (turnkey, standard finish, excluding land)).
+The price covers a typical residence with reinforced concrete frame, blockwork, plastering and standard finishes. It does not include land, planning permits or utility connections.
+
+What to send:
+- Architectural drawings or a sketch with dimensions.
+- Number of floors and total m².
+- Whether a building permit already exists.
+- Your target construction start date.
+
+Ella-Reno is run on an interim basis by a construction company that may also submit a proposal for your request; its proposals are labelled "affiliated". Ella-Reno itself does not carry out works. Operator details: available on request
+
+The photos are illustrative examples of this type of work.</description>
+    <price>1800.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/new-build/new-build_cover_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/new-build/new-build_foundations_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/new-build/new-build_blockwork_v4.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/new-build/new-build_slab_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/new-build/new-build_finished_v2.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
