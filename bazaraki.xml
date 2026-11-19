@@ -3324,4 +3324,61 @@ The photos are illustrative examples of this type of work.</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-11-17 12:00:00</last_update>
+    <external_id>ERAD-REMOTE-OWNER</external_id>
+    <status>active</status>
+    <rubric>317</rubric>
+    <district>5713</district>
+    <title>Property management for overseas owners monthly inspection</title>
+    <description>Διαχείριση ακινήτου για ιδιοκτήτες εξωτερικού στην Κύπρο: περιγράψτε το ακίνητό σας μία φορά και συγκρίνετε γραπτές προσφορές.
+
+Ενδεικτική τιμή εκκίνησης (τιμές αγοράς στην Κύπρο): €80 ανά μήνα (μία επίσκεψη/μήνα, έλεγχος, φωτογραφική αναφορά) + ΦΠΑ. ΦΠΑ 19%% (€15.20, σύνολο €95.20 ανά μήνα (μία επίσκεψη/μήνα, έλεγχος, φωτογραφική αναφορά)).
+Η τιμή αφορά μηνιαία επίσκεψη: έλεγχος διαρροών, υγρασίας, air condition, αποχέτευσης, με φωτογραφική αναφορά. Διαχείριση ενοικίων και συντήρηση κοστολογούνται χωριστά.
+
+Τι να μας στείλετε:
+- Τύπος ακινήτου και τοποθεσία στην Κύπρο.
+- Αν το ακίνητο είναι κλειστό ή ενοικιαζόμενο.
+- Πόσες επισκέψεις ανά μήνα.
+- Τι σημεία θέλετε να ελέγχονται.
+
+Την Ella-Reno λειτουργεί προσωρινά κατασκευαστική εταιρεία που μπορεί επίσης να υποβάλει προσφορά για το αίτημά σας· οι προσφορές της φέρουν την ένδειξη «συνδεδεμένη». Η ίδια η Ella-Reno δεν εκτελεί εργασίες. Στοιχεία φορέα λειτουργίας: available on request
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+ENGLISH
+
+Property management for overseas owners in Cyprus: describe your property once and compare written proposals.
+
+Indicative starting price (Cyprus market rates): €80 per month per property (one visit/month, inspection, photo report) + VAT. VAT 19%% (€15.20, total €95.20 per month per property (one visit/month, inspection, photo report)).
+The price covers a monthly inspection: check for leaks, damp, air conditioning, drainage, with a photo report. Rental management and maintenance works are priced separately.
+
+What to send:
+- Property type (apartment, house, villa) and location in Cyprus.
+- Whether the property is vacant or tenanted.
+- How many visits per month you require.
+- Any specific areas you want checked.
+
+Ella-Reno is run on an interim basis by a construction company that may also submit a proposal for your request; its proposals are labelled "affiliated". Ella-Reno itself does not carry out works. Operator details: available on request
+
+The photos are illustrative examples of this type of work.</description>
+    <price>80.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/remote-owner/remote-owner_cover_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/remote-owner/remote-owner_damp_skirting_real.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/remote-owner/remote-owner_damp_corner_real.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/remote-owner/remote-owner_ac_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/remote-owner/remote-owner_roof_check_real.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
