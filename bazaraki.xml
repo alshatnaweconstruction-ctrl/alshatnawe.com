@@ -3,7 +3,7 @@
 <list-item>
     <last_update>2026-11-17 12:23:12</last_update>
     <external_id>AS-CEILINGS</external_id>
-    <status>active</status>
+    <status>remove</status>
     <rubric>3027</rubric>
     <district>5713</district>
     <title>Plasterboard suspended ceilings supplied and fitted</title>
@@ -123,7 +123,7 @@ The photos are illustrative examples of this type of work.</description>
 <list-item>
     <last_update>2026-11-09 17:53:22</last_update>
     <external_id>AS-REPAIRS</external_id>
-    <status>active</status>
+    <status>remove</status>
     <rubric>317</rubric>
     <district>5713</district>
     <title>Small home repairs and maintenance jobs done in one visit</title>
@@ -188,7 +188,7 @@ The photos are illustrative examples of this type of work.</description>
 <list-item>
     <last_update>2026-11-09 17:53:22</last_update>
     <external_id>AS-REMOTE-OWNER</external_id>
-    <status>active</status>
+    <status>remove</status>
     <rubric>317</rubric>
     <district>5713</district>
     <title>Property care and monthly checks for owners living abroad</title>
@@ -478,7 +478,7 @@ Send the pool size and the area where the property is.</description>
 <list-item>
     <last_update>2026-11-10 15:23:10</last_update>
     <external_id>AS-JOINERY</external_id>
-    <status>active</status>
+    <status>remove</status>
     <rubric>331</rubric>
     <district>5713</district>
     <title>Custom carpentry for wardrobes, TV units and built-in cabinets</title>
@@ -653,7 +653,7 @@ The photos are illustrative examples of this type of work.</description>
 <list-item>
     <last_update>2026-11-09 17:53:22</last_update>
     <external_id>AS-NEW-BUILD-2</external_id>
-    <status>active</status>
+    <status>remove</status>
     <rubric>3024</rubric>
     <district>5713</district>
     <title>Turnkey house building on your plot from approved drawings</title>
@@ -718,7 +718,7 @@ The photos are illustrative examples of this type of work.</description>
 <list-item>
     <last_update>2026-11-09 17:53:22</last_update>
     <external_id>AS-POOL-CARE-2</external_id>
-    <status>active</status>
+    <status>remove</status>
     <rubric>2167</rubric>
     <district>5713</district>
     <title>Weekly pool care visits for villas and holiday homes</title>
@@ -858,7 +858,7 @@ Tell us the area, the floor area of the property and when you would like the wor
 <list-item>
     <last_update>2026-11-18 15:03:23</last_update>
     <external_id>AS-PAINTING</external_id>
-    <status>active</status>
+    <status>remove</status>
     <rubric>312</rubric>
     <district>5713</district>
     <title>Interior wall painting for homes apartments and rental properties</title>
@@ -933,7 +933,7 @@ Tell us how many rooms need painting and whether furniture will stay in place.</
 <list-item>
     <last_update>2026-11-09 17:53:22</last_update>
     <external_id>AS-CLEANING</external_id>
-    <status>active</status>
+    <status>remove</status>
     <rubric>2171</rubric>
     <district>5713</district>
     <title>Post-construction cleaning of homes before moving in</title>
@@ -998,7 +998,7 @@ The photos are illustrative examples of this type of work.</description>
 <list-item>
     <last_update>2026-11-18 15:03:23</last_update>
     <external_id>AS-TILING</external_id>
-    <status>active</status>
+    <status>remove</status>
     <rubric>3031</rubric>
     <district>5713</district>
     <title>Floor and wall tile laying for homes apartments and terraces</title>
@@ -1371,7 +1371,7 @@ Tell us the location, how many square metres you want to add, and whether the ad
 <list-item>
     <last_update>2026-11-10 14:33:12</last_update>
     <external_id>AS-ROOF-INSULATION</external_id>
-    <status>active</status>
+    <status>remove</status>
     <rubric>3026</rubric>
     <district>5713</district>
     <title>Flat roof thermal insulation with insulation boards</title>
@@ -1428,7 +1428,7 @@ The photos are illustrative examples of this type of work.</description>
 <list-item>
     <last_update>2026-11-10 15:23:10</last_update>
     <external_id>AS-WINDOWS</external_id>
-    <status>active</status>
+    <status>remove</status>
     <rubric>314</rubric>
     <district>5713</district>
     <title>Thermal break aluminium windows and sliding systems fitted</title>
@@ -1741,7 +1741,7 @@ Send us two or three photos of the walls and tell us how many rooms are affected
 <list-item>
     <last_update>2026-11-10 14:33:12</last_update>
     <external_id>AS-EXTENSIONS-2</external_id>
-    <status>active</status>
+    <status>remove</status>
     <rubric>3024</rubric>
     <district>5713</district>
     <title>House extensions and extra rooms built from approved plans</title>
