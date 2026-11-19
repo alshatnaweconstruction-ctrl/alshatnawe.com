@@ -3096,4 +3096,61 @@ The photos are illustrative examples of this type of work.</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-11-17 12:00:00</last_update>
+    <external_id>ERAD-JOINERY</external_id>
+    <status>active</status>
+    <rubric>331</rubric>
+    <district>5713</district>
+    <title>Custom joinery for doors wardrobes and built-in cabinets</title>
+    <description>Ξυλουργικές εργασίες στην Κύπρο: περιγράψτε τι χρειάζεστε μία φορά και συγκρίνετε γραπτές προσφορές.
+
+Ενδεικτική τιμή εκκίνησης (τιμές αγοράς στην Κύπρο): €350 ανά τεμάχιο / ελάχιστη εργασία (π.χ. μία εσωτερική πόρτα, προμήθεια και τοποθέτηση) + ΦΠΑ. Για επισκευή ή ανακαίνιση ιδιωτικής κατοικίας με τουλάχιστον 3 έτη από την πρώτη κατοίκηση εφαρμόζεται συνήθως ο μειωμένος συντελεστής ΦΠΑ 5%%, εφόσον πληρούνται οι προϋποθέσεις του νόμου (€17.50, σύνολο €367.50 ανά τεμάχιο / ελάχιστη εργασία (π.χ. μία εσωτερική πόρτα, προμήθεια και τοποθέτηση))· διαφορετικά 19%% (€66.50, σύνολο €416.50 ανά τεμάχιο / ελάχιστη εργασία (π.χ. μία εσωτερική πόρτα, προμήθεια και τοποθέτηση)). Η γραπτή προσφορά αναφέρει ποιος συντελεστής ισχύει.
+Η τιμή αφορά την ελάχιστη εργασία: μία εσωτερική πόρτα με κάσα. Μεγαλύτερα έργα (ντουλάπες, έπιπλα μπάνιου, κουζίνες) κοστολογούνται χωριστά μετά από επίσκεψη.
+
+Τι να μας στείλετε:
+- Φωτογραφίες του χώρου.
+- Τι θέλετε να κατασκευαστεί (πόρτες, ντουλάπες, έπιπλα).
+- Διαστάσεις ή ανοίγματα αν τα γνωρίζετε.
+- Προτιμώμενο υλικό ή στυλ.
+
+Την Ella-Reno λειτουργεί προσωρινά κατασκευαστική εταιρεία που μπορεί επίσης να υποβάλει προσφορά για το αίτημά σας· οι προσφορές της φέρουν την ένδειξη «συνδεδεμένη». Η ίδια η Ella-Reno δεν εκτελεί εργασίες. Στοιχεία φορέα λειτουργίας: available on request
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+ENGLISH
+
+Custom joinery in Cyprus: describe what you need once and compare written proposals.
+
+Indicative starting price (Cyprus market rates): €350 per item / minimum job (e.g. one interior door supplied and fitted) + VAT. For repairs or renovation of a private home first occupied at least three years ago, the reduced VAT rate of 5%%%% usually applies, subject to the conditions of the VAT law (€17.50, total €367.50 per item / minimum job (e.g. one interior door supplied and fitted)); otherwise 19%% (€66.50, total €416.50 per item / minimum job (e.g. one interior door supplied and fitted)). The written proposal states which rate applies.
+The price covers the minimum job: one interior door with frame, supplied and fitted. Larger work (wardrobes, bathroom furniture, kitchens) is priced separately after a site visit.
+
+What to send:
+- Photos of the space and existing fittings.
+- What you want built (doors, wardrobes, cabinets).
+- Dimensions or opening sizes if known.
+- Preferred material or style.
+
+Ella-Reno is run on an interim basis by a construction company that may also submit a proposal for your request; its proposals are labelled "affiliated". Ella-Reno itself does not carry out works. Operator details: available on request
+
+The photos are illustrative examples of this type of work.</description>
+    <price>350.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/joinery/unsplash_gH6FkQ7Y1wc.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/joinery/unsplash_6Y3avYzs6os.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/joinery/pexels_38934134.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/joinery/pexels_7285920.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/joinery/unsplash_K5JI_wRQqY0.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
