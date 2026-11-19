@@ -2780,4 +2780,53 @@ The photos are illustrative examples of this type of work.</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-11-17 12:00:00</last_update>
+    <external_id>ERAD-BATHROOM</external_id>
+    <status>active</status>
+    <rubric>3028</rubric>
+    <district>5713</district>
+    <title>Tiled bathroom refit with new fixtures and waterproofing</title>
+    <description>Ανανέωση μπάνιου με πλακάκια, στρωτήρα, υδραυλικά και ηλεκτρολογικά — ολική αντικατάσταση, χωρίς επέκταση. Τα υγιεινά (λεκάνη, νιπτήρας, ντους) εκτιμώνται χωριστά.
+
+Τιμή εκκίνησης: €3.500 ανά μπάνιο έως 5 m². ΦΠΑ 5%% (μειωμένος) για επιλέξιμες κατοικίες — επιβεβαιώνεται στην εκτίμηση.
+
+Ella-Reno: αφήστε περιγραφή του χώρου — λαμβάνετε γραπτή εκτίμηση από εγγεγραμμένο συνεργάτη.
+
+Για εκτίμηση χρειαζόμαστε: φωτογραφίες, διαστάσεις δαπέδου, ύψος, επιλογή υγιεινών, χρόνος παράδοσης. Μπάνιο άνω 5 m²: απαιτείται επίσκεψη πριν την εκτίμηση.
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+ENGLISH
+
+Ella-Reno bathroom renovation service — Cyprus.
+
+Full bathroom refresh: tiling, screed, plumbing connections, and electrical — replacement only.
+
+Starting rate: €3,500 per bathroom (up to 5 m², sanitaryware billed separately). Reduced VAT (5%%) available on qualifying homes; confirmed in the written estimate.
+
+Larger bathrooms (over 5 m²): site visit needed before quoting.
+
+To request a quote: send photos from all angles, floor dimensions, ceiling height, sanitaryware choice, and target completion date.
+
+The photos are illustrative examples of this type of work.</description>
+    <price>3500.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/bathroom/bath_ai_01.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/bathroom/bath_ai_02.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/bathroom/bath_ai_03.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/bathroom/bath_ai_04.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/bathroom/bath_ai_05.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
