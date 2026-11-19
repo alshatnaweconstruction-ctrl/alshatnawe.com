@@ -2923,4 +2923,63 @@ The photos show representative examples of this type of work.</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-11-17 12:00:00</last_update>
+    <external_id>ERAD-KITCHEN</external_id>
+    <status>active</status>
+    <rubric>3028</rubric>
+    <district>5713</district>
+    <title>Kitchen renovation including units and worktop</title>
+    <description>Ανακαίνιση κουζίνας στην Κύπρο: περιγράψτε την κουζίνα σας μία φορά και συγκρίνετε γραπτές προσφορές.
+
+Ενδεικτική τιμή εκκίνησης (τιμές αγοράς στην Κύπρο): €5.000 ανά κουζίνα + ΦΠΑ. Για επισκευή ή ανακαίνιση ιδιωτικής κατοικίας με τουλάχιστον 3 έτη από την πρώτη κατοίκηση εφαρμόζεται συνήθως ο μειωμένος συντελεστής ΦΠΑ 5%%, εφόσον πληρούνται οι προϋποθέσεις του νόμου (€250.00, σύνολο €5250.00 ανά κουζίνα)· διαφορετικά 19%% (€950.00, σύνολο €5950.00 ανά κουζίνα). Η γραπτή προσφορά αναφέρει ποιος συντελεστής ισχύει.
+Η ενδεικτική τιμή αφορά τυπικό έργο: ντουλάπια, πάγκος εργασίας, πλακάκια και εργασία. Συσκευές και εξαερισμός δεν περιλαμβάνονται.
+
+Τι να μας στείλετε:
+- Φωτογραφίες της υπάρχουσας κουζίνας.
+- Διαστάσεις ή κάτοψη.
+- Αν θέλετε πλήρη ανακαίνιση ή αντικατάσταση μόνο ντουλαπιών.
+- Ποιες συσκευές θα κρατηθούν ή θα αντικατασταθούν.
+- Προτιμώμενο στυλ.
+
+Την Ella-Reno λειτουργεί προσωρινά κατασκευαστική εταιρεία που μπορεί επίσης να υποβάλει προσφορά για το αίτημά σας· οι προσφορές της φέρουν την ένδειξη «συνδεδεμένη». Η ίδια η Ella-Reno δεν εκτελεί εργασίες. Στοιχεία φορέα λειτουργίας: available on request
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+ENGLISH
+
+Kitchen renovation in Cyprus: describe your kitchen once and compare written proposals.
+
+Indicative starting price (Cyprus market rates): €5,000 per kitchen project + VAT. For repairs or renovation of a private home first occupied at least three years ago, the reduced VAT rate of 5%%%% usually applies, subject to the conditions of the VAT law (€0.25, total €5.25 per kitchen project); otherwise 19%% (€0.95, total €5.95 per kitchen project). The written proposal states which rate applies.
+The indicative price covers a typical project: units, worktop, tiling and labour. Appliances and ventilation are not included.
+
+What to send:
+- Photos of the existing kitchen.
+- Room dimensions or a floor plan.
+- Whether you want a full renovation or only replacement of units.
+- Which appliances will be kept or replaced.
+- Preferred style.
+
+Ella-Reno is run on an interim basis by a construction company that may also submit a proposal for your request; its proposals are labelled "affiliated". Ella-Reno itself does not carry out works. Operator details: available on request
+
+The photos are illustrative examples of this type of work.</description>
+    <price>5000.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/kitchen/pexels_36511379.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/kitchen/pexels_37030080.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/kitchen/pexels_4030055.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/kitchen/pexels_20348123.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/kitchen/pexels_19345424.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
