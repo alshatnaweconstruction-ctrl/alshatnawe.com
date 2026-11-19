@@ -253,7 +253,7 @@ The photos are illustrative examples of this type of work.</description>
 <list-item>
     <last_update>2026-10-08 15:00:00</last_update>
     <external_id>AS-NEW-BUILD</external_id>
-    <status>active</status>
+    <status>remove</status>
     <rubric>3024</rubric>
     <district>5713</district>
     <title>New villa and house construction on your plot, foundations to finishes</title>
@@ -403,7 +403,7 @@ Send photos of the roof surface and of any stains on the ceiling below.</descrip
 <list-item>
     <last_update>2026-10-08 15:00:00</last_update>
     <external_id>AS-POOL-CARE</external_id>
-    <status>active</status>
+    <status>remove</status>
     <rubric>2167</rubric>
     <district>5713</district>
     <title>Weekly swimming pool cleaning and maintenance for villas and complexes</title>
@@ -1296,7 +1296,7 @@ Send us a few photos of the mouldy areas and tell us how many rooms are affected
 <list-item>
     <last_update>2026-10-10 22:20:00</last_update>
     <external_id>AS-EXTENSIONS</external_id>
-    <status>active</status>
+    <status>remove</status>
     <rubric>3024</rubric>
     <district>5713</district>
     <title>Room additions and house extensions built from approved drawings</title>
