@@ -3267,4 +3267,61 @@ The photos are illustrative examples of this type of work.</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-11-17 12:00:00</last_update>
+    <external_id>ERAD-POOL-CARE</external_id>
+    <status>active</status>
+    <rubric>2167</rubric>
+    <district>5713</district>
+    <title>Pool cleaning and maintenance weekly service</title>
+    <description>Συντήρηση πισίνας στην Κύπρο: περιγράψτε την πισίνα σας μία φορά και συγκρίνετε γραπτές προσφορές.
+
+Ενδεικτική τιμή εκκίνησης (τιμές αγοράς στην Κύπρο): €50 ανά επίσκεψη (εβδομαδιαία συντήρηση, τυπική οικιακή πισίνα, χημικά συμπεριλαμβάνονται) + ΦΠΑ. ΦΠΑ 19%% (€9.50, σύνολο €59.50 ανά επίσκεψη (εβδομαδιαία συντήρηση, τυπική οικιακή πισίνα, χημικά συμπεριλαμβάνονται)).
+Η τιμή αφορά μία εβδομαδιαία επίσκεψη: σάρωμα, καθαρισμός φίλτρου, έλεγχος pH/χλωρίου, χημικά. Αντικατάσταση εξοπλισμού (αντλία, φίλτρο) κοστολογείται χωριστά.
+
+Τι να μας στείλετε:
+- Τύπος πισίνας (νερό εδάφους ή υπερχείλιση) και διαστάσεις.
+- Αν χρειάζεται εκκαθάριση πριν τη συντήρηση.
+- Πόσες επισκέψεις εβδομαδιαίως.
+- Αν υπάρχουν ήδη χημικά ή εξοπλισμός.
+
+Την Ella-Reno λειτουργεί προσωρινά κατασκευαστική εταιρεία που μπορεί επίσης να υποβάλει προσφορά για το αίτημά σας· οι προσφορές της φέρουν την ένδειξη «συνδεδεμένη». Η ίδια η Ella-Reno δεν εκτελεί εργασίες. Στοιχεία φορέα λειτουργίας: available on request
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+ENGLISH
+
+Pool maintenance in Cyprus: describe your pool once and compare written proposals.
+
+Indicative starting price (Cyprus market rates): €50 per visit (weekly plan, standard residential pool, chemicals included) + VAT. VAT 19%% (€9.50, total €59.50 per visit (weekly plan, standard residential pool, chemicals included)).
+The price covers one weekly visit: skimming, filter cleaning, pH/chlorine check, chemicals included. Equipment replacement is priced separately.
+
+What to send:
+- Pool type (overflow or liner) and dimensions.
+- Whether a one-off clean is needed before regular maintenance begins.
+- Number of visits per week required.
+- Whether chemicals or equipment are already on site.
+
+Ella-Reno is run on an interim basis by a construction company that may also submit a proposal for your request; its proposals are labelled "affiliated". Ella-Reno itself does not carry out works. Operator details: available on request
+
+The photos are illustrative examples of this type of work.</description>
+    <price>50.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/pool-care/pool-care_clean_pool_real.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/pool-care/pool-care_skimmer_real.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/pool-care/pool-care_skimming_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/pool-care/pool-care_brushing_v2.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/pool-care/pool-care_vacuum_v2.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
