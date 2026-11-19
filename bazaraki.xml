@@ -2876,4 +2876,51 @@ The photos are illustrative examples of this type of work.</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-11-17 12:00:00</last_update>
+    <external_id>ERAD-PARTITIONS</external_id>
+    <status>active</status>
+    <rubric>3028</rubric>
+    <district>5713</district>
+    <title>Stud wall partitions with plasterboard supply and installation</title>
+    <description>Διαίρεση δωματίου με ξηρή δόμηση: νέος χώρος γραφείου, υπνοδωμάτιο ή αποθήκη μέσα στο υπάρχον σπίτι χωρίς υγρές εργασίες.
+
+Τιμή εκκίνησης: €23 ανά m² (γαλβανισμένος σκελετός + 1 πλάκα κάθε πλευρά). ΦΠΑ 5%% (μειωμένος) για επιλέξιμες κατοικίες — επιβεβαιώνεται στην εκτίμηση. Ηχομόνωση ή πυράντοχη πλάκα: εκτιμάται χωριστά.
+
+Ella-Reno: στείλτε φωτογραφίες του χώρου — λαμβάνετε γραπτή εκτίμηση από εγγεγραμμένο συνεργάτη.
+
+Για εκτίμηση χρειαζόμαστε: φωτογραφίες, μήκος και ύψος νέου διαχωριστικού, θέση θύρας αν υπάρχει.
+
+Οι φωτογραφίες είναι ενδεικτικά παραδείγματα.
+
+ENGLISH
+
+Ella-Reno room-division service — Cyprus.
+
+Dry-lining partition: create a home office, bedroom, or storage room without wet trades.
+
+Starting rate: €23 per m² (galvanised steel frame, single board each face). Reduced VAT (5%%) available on qualifying homes; confirmed in the written estimate. Acoustic or fire-rated board quoted separately.
+
+To request a quote: send photos of the space, the partition length and height, and door position if needed.
+
+The photos show representative examples of this type of work.</description>
+    <price>23.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/partitions/part_ai_gemini_01.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/partitions/part_ai_gemini_02.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/partitions/part_ai_gemini_03.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/partitions/part_ai_gemini_04.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/partitions/part_ai_gemini_05.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
