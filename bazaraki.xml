@@ -2731,4 +2731,53 @@ The photos are illustrative examples of this type of work.</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-11-17 12:00:00</last_update>
+    <external_id>ERAD-CONCRETE-REPAIRS</external_id>
+    <status>active</status>
+    <rubric>3024</rubric>
+    <district>5713</district>
+    <title>Spall repair and rebar cover restoration</title>
+    <description>Αποκατάσταση σκυροδέματος: έγχυση ρητίνης σε ρωγμές, επισκευή αποκαλυπτόμενου οπλισμού, αντικατάσταση κατεστραμμένης επικάλυψης.
+
+Τιμή εκκίνησης: €800 ανά εργασία. ΦΠΑ 5%% (μειωμένος) για επιλέξιμες κατοικίες — επιβεβαιώνεται στην εκτίμηση. Μόνο μικρές τοπικές επισκευές· στατικές βλάβες χρειάζονται εκτίμηση μηχανικού.
+
+Ella-Reno: στείλτε φωτογραφίες βλάβης — λαμβάνετε γραπτή εκτίμηση από εγγεγραμμένο συνεργάτη.
+
+Για εκτίμηση χρειαζόμαστε: φωτογραφίες βλαβών, θέση (ταβάνι/δοκός/πλάκα), ηλικία κτηρίου.
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+ENGLISH
+
+Ella-Reno property repair service — Cyprus.
+
+Concrete restoration: resin crack injection, exposed-rebar treatment, spalled cover replacement.
+
+Starting rate: €800 per job. Reduced VAT (5%%) available on qualifying residential properties; confirmed in the written estimate.
+
+Minor localised repairs only; structural defects require a civil engineer.
+
+To request a quote: send damage photos, location (ceiling/beam/slab), and building age.
+
+The photos are illustrative examples of this type of work.</description>
+    <price>800.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/concrete-repairs/cr_ai_gemini_01.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/concrete-repairs/cr_ai_gemini_02.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/concrete-repairs/cr_ai_gemini_03.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/concrete-repairs/cr_ai_gemini_04.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/concrete-repairs/cr_ai_gemini_05.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
