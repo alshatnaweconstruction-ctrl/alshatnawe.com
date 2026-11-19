@@ -3039,4 +3039,61 @@ The photos are illustrative examples of this type of work.</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-11-17 12:00:00</last_update>
+    <external_id>ERAD-CLEANING</external_id>
+    <status>active</status>
+    <rubric>2171</rubric>
+    <district>5713</district>
+    <title>Post-construction and after-renovation cleaning</title>
+    <description>Τελικός καθαρισμός μετά κατασκευή στην Κύπρο: περιγράψτε τον χώρο μία φορά και λάβετε γραπτές προσφορές.
+
+Ενδεικτική τιμή εκκίνησης (τιμές αγοράς στην Κύπρο): €150 ανά εργασία (ελάχιστη χρέωση, τυπικό διαμέρισμα μετά ανακαίνιση) + ΦΠΑ. ΦΠΑ 19%% (€28.50, σύνολο €178.50 ανά εργασία (ελάχιστη χρέωση, τυπικό διαμέρισμα μετά ανακαίνιση)).
+Η ελάχιστη χρέωση αφορά τυπικό διαμέρισμα έως 100 m² μετά ανακαίνιση. Για μεγαλύτερα ακίνητα ή βαριά υπολείμματα ζητείτε γραπτή προσφορά. Απομάκρυνση χαλικιών κοστολογείται χωριστά.
+
+Τι να μας στείλετε:
+- Τύπος ακινήτου και συνολικά τετραγωνικά μέτρα.
+- Είδος εργασιών που έγιναν (βαφή, πλακάκια, γυψοσανίδα κ.ά.).
+- Αν υπάρχουν βαριά υπολείμματα (χαλίκια, σοβάδες).
+- Πότε χρειάζεστε τον καθαρισμό.
+
+Την Ella-Reno λειτουργεί προσωρινά κατασκευαστική εταιρεία που μπορεί επίσης να υποβάλει προσφορά για το αίτημά σας· οι προσφορές της φέρουν την ένδειξη «συνδεδεμένη». Η ίδια η Ella-Reno δεν εκτελεί εργασίες. Στοιχεία φορέα λειτουργίας: available on request
+
+Οι φωτογραφίες είναι ενδεικτικές και δείχνουν παραδείγματα αυτού του είδους εργασιών.
+
+ENGLISH
+
+Post-construction cleaning in Cyprus: describe the property once and receive written proposals.
+
+Indicative starting price (Cyprus market rates): €150 per job (minimum charge, standard apartment after renovation) + VAT. VAT 19%% (€28.50, total €178.50 per job (minimum charge, standard apartment after renovation)).
+The minimum charge covers a standard apartment up to 100 m² after renovation. For larger properties or heavy residue, request a written proposal. Rubble removal is priced separately.
+
+What to send:
+- Property type and total floor area.
+- Type of works carried out (painting, tiling, plasterboard, etc.).
+- Whether heavy residue remains.
+- Your required date for the clean.
+
+Ella-Reno is run on an interim basis by a construction company that may also submit a proposal for your request; its proposals are labelled "affiliated". Ella-Reno itself does not carry out works. Operator details: available on request
+
+The photos are illustrative examples of this type of work.</description>
+    <price>150.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/cleaning/cln_pexels_3616746.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/cleaning/cln_pexels_5691681.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/cleaning/cln_pexels_4239091.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/cleaning/cln_pexels_5691702.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/cleaning/cln_pexels_7031621.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
