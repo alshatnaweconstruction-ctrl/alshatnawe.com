@@ -3772,4 +3772,47 @@ Call or WhatsApp: +357 95 553931</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-11-20 13:00:00</last_update>
+    <external_id>ERAD-PLUMBING</external_id>
+    <status>active</status>
+    <rubric>330</rubric>
+    <district>5713</district>
+    <title>Plumbing services tap leaks drains boiler repairs Cyprus</title>
+    <description>Επαγγελματικές Υδραυλικές Εργασίες – Βρύσες, Σωληνώσεις, Αποστράγγιση &amp; Λέβητες
+
+Αντικατάσταση βρυχών &amp; μπαταριών, αποκατάσταση διαρροών, αποφράξεις, σύνδεση ηλεκτρικών θερμοσιφώνων, υδραυλικές επισκευές κατοικιών. Γρήγορη εξυπηρέτηση, καθαρή εργασία. Τιμή από €60/επίσκεψη (υλικά εκτός).
+
+──────────────────────────
+ENGLISH
+
+Professional Plumbing Services – Taps, Leaks, Drains &amp; Boilers
+
+Tap and mixer replacement, pipe leak repairs, drain unblocking, immersion heater connections, general domestic plumbing call-outs throughout Cyprus. Fast response, tidy work. From €60/visit (parts extra, excl. VAT).
+
+✔ Qualified plumbers
+✔ Same-day availability
+✔ All areas of Cyprus
+✔ No-obligation site survey
+
+Call or WhatsApp: +357 95 553931</description>
+    <price>60.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/plumbing/pl_ai_figma_01.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/plumbing/pl_ai_figma_02.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/plumbing/pl_ai_figma_03.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/plumbing/pl_ai_figma_04.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/plumbing/pl_ai_figma_05.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
