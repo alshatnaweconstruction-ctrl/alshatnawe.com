@@ -3729,4 +3729,47 @@ The photos are illustrative examples of this type of work.</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-11-20 13:00:00</last_update>
+    <external_id>ERAD-ELECTRICAL</external_id>
+    <status>active</status>
+    <rubric>311</rubric>
+    <district>5713</district>
+    <title>Electrical services sockets lights fuse box repair</title>
+    <description>Επαγγελματικές Ηλεκτρολογικές Εργασίες – Πρίζες, Διακόπτες, Λάμπες &amp; Ασφάλειες
+
+Αντικατάσταση πριζών &amp; διακοπτών, τοποθέτηση φωτιστικών &amp; LED, επισκευή ασφαλειοδιακοπτών, ηλεκτρολογικές επισκευές κατοικιών. Γρήγορη εξυπηρέτηση, καθαρή εργασία. Τιμή από €60/επίσκεψη (υλικά εκτός).
+
+──────────────────────────
+ENGLISH
+
+Professional Electrical Services – Sockets, Switches, Lighting &amp; Fuse Box
+
+Socket &amp; switch replacement, LED / light fitting installation, fuse box repairs, domestic electrical call-outs throughout Cyprus. Fast response, tidy work. From €60/visit (materials extra, excl. VAT).
+
+✔ Professional electricians
+✔ Same-day availability
+✔ All areas of Cyprus
+✔ No-obligation site survey
+
+Call or WhatsApp: +357 95 553931</description>
+    <price>60.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/electrical/el_ai_gemini_01.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/electrical/el_ai_gemini_02.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/electrical/el_ai_gemini_03.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/electrical/el_ai_figma_04.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/electrical/el_ai_figma_05.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
