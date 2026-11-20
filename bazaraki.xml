@@ -3858,4 +3858,47 @@ Call or WhatsApp: +357 95 553931</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-11-20 14:00:00</last_update>
+    <external_id>ERAD-AC-INSTALLATION</external_id>
+    <status>active</status>
+    <rubric>3015</rubric>
+    <district>5713</district>
+    <title>Air conditioning installation split AC unit service</title>
+    <description>Επαγγελματική Εγκατάσταση Κλιματιστικών – Split A/C, VRF &amp; Συντήρηση
+
+Εγκατάσταση split κλιματιστικών μονάδων, διαχείριση σωληνώσεων, ηλεκτρική σύνδεση και εκκίνηση. Γρήγορη εξυπηρέτηση, καθαρή εργασία. Τιμή από €150/μονάδα (χωρίς συσκευή, εκτός ΦΠΑ).
+
+──────────────────────────
+ENGLISH
+
+Professional Air Conditioning Installation – Split A/C, VRF &amp; Maintenance
+
+Split A/C installation, pipework, electrical connection and commissioning throughout Cyprus. Qualified HVAC technicians. From €150/unit (unit supplied separately, excl. VAT). We also service existing systems.
+
+✔ Qualified HVAC technicians
+✔ All brands and models
+✔ All areas of Cyprus
+✔ No-obligation site survey
+
+Call or WhatsApp: +357 95 553931</description>
+    <price>150.00</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/ac-installation/ac_ai_figma_01.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/ac-installation/ac_ai_flux_02.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/ac-installation/ac_ai_flux_03.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/ac-installation/ac_ai_flux_04b.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/ac-installation/ac_ai_flux_05.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
