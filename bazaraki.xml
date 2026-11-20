@@ -3815,4 +3815,47 @@ Call or WhatsApp: +357 95 553931</description>
     </attrs>
     <geometry />
   </list-item>
+<list-item>
+    <last_update>2026-11-20 14:00:00</last_update>
+    <external_id>ERAD-GARDEN-LANDSCAPING</external_id>
+    <status>active</status>
+    <rubric>2169</rubric>
+    <district>5713</district>
+    <title>Garden landscaping paving irrigation planting Cyprus</title>
+    <description>Επαγγελματικές Υπηρεσίες Κήπου – Διαμόρφωση, Πλακόστρωση &amp; Άρδευση
+
+Διαμόρφωση κήπου, πλακόστρωση μονοπατιών, εγκατάσταση άρδευσης, φύτευση, χλοοτάπητας και γκαζόν. Από €16.50/m² (ελάχιστη εργολαβία). Γρήγορη εξυπηρέτηση.
+
+──────────────────────────
+ENGLISH
+
+Professional Garden Landscaping – Design, Paving &amp; Irrigation
+
+Garden landscaping and design, stone and paved paths, drip irrigation installation, planting and lawn laying throughout Cyprus. From €16.50/m² (minimum job applies, excl. VAT).
+
+✔ Mediterranean-climate garden experience
+✔ All areas of Cyprus
+✔ Design consultation included
+✔ Quality plants and materials
+
+Call or WhatsApp: +357 95 553931</description>
+    <price>16.50</price>
+    <negotiable_price>1</negotiable_price>
+    <exchange>0</exchange>
+    <phone_hide>0</phone_hide>
+    <chosen_phone>+35795553931</chosen_phone>
+    <whatsapp>+35795553931</whatsapp>
+    <disallow_chat>0</disallow_chat>
+    <images>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/garden-landscaping/ls_ai_figma_01.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/garden-landscaping/ls_ai_figma_02.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/garden-landscaping/ls_ai_flux_03.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/garden-landscaping/ls_ai_flux_04.jpg</list-item>
+      <list-item>https://raw.githubusercontent.com/alshatnaweconstruction-ctrl/alshatnawe.com/main/photos/garden-landscaping/ls_ai_flux_05.jpg</list-item>
+    </images>
+    <attrs>
+      <language>10,20</language>
+    </attrs>
+    <geometry />
+  </list-item>
 </root>
